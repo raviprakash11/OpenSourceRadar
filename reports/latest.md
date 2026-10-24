@@ -1,16 +1,36 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-24T18:06:14.700385+00:00
-Unique issues discovered: 222
+Generated: 2026-10-24T20:43:52.851766+00:00
+Unique issues discovered: 214
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🌺 Hacktoberfest Task - Add new Grammar Point 1239 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33088)
+## [[FEATURE] UI Enhancements](https://github.com/orneryd/NornicDB/issues/31)
+- **Repository:** [orneryd/NornicDB](https://github.com/orneryd/NornicDB)
+- **Score:** 100/100
+- **Updated:** 2026-10-24T20:26:32Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 10
+- **Stars:** 916
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: # Replace with a list of GitHub usernames or organizations e.g., ['orneryd', 'my-org']; patreon: # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: # Replace with a single Ko-fi username; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: orneryd; thanks_dev: # Replace with a single thanks.dev username; custom: #["https://github.com/BerylliumLabs"]
+
+## [Hosts cannot start a quiz in local Docker: ws-server has no JWT_SECRET](https://github.com/TheCodeHeist-Coder/Rexial/issues/186)
+- **Repository:** [TheCodeHeist-Coder/Rexial](https://github.com/TheCodeHeist-Coder/Rexial)
+- **Score:** 99/100
+- **Updated:** 2026-10-24T20:42:04Z
+- **Labels:** bug, help wanted, good first issue, Backend first issue
+- **Comments:** 1
+- **Stars:** 21
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: TheCodeHeist-Coder; buy_me_a_coffee: codeheist
+
+## [[good first issue, hacktoberfest] 🍛 Hacktoberfest Task - Add new Dialect Entry 898 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33095)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-10-24T18:01:07Z
+- **Updated:** 2026-10-24T20:40:54Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3708
+- **Stars:** 3710
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
@@ -27,40 +47,30 @@ Repositories checked for funding metadata: 12
 ## [Review backlog (docs-currency): fsdk-containers consumer contract doc still shows broad identity regexp](https://github.com/projectbluefin/gutenprint-printer-app/issues/119)
 - **Repository:** [projectbluefin/gutenprint-printer-app](https://github.com/projectbluefin/gutenprint-printer-app)
 - **Score:** 95/100
-- **Updated:** 2026-10-24T01:02:18Z
-- **Labels:** good first issue, help wanted, triage/accepted, needs-kind, hive/already-done, approved-direction, stage/010-actionable, agent/reviewer
+- **Updated:** 2026-10-24T19:17:39Z
+- **Labels:** good first issue, help wanted, triage/accepted, needs-kind, hive/already-done, approved-direction, stage/010-actionable, stage/stalled, agent/reviewer
 - **Comments:** 7
 - **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[guide] docs: CLAUDE.md Workspace Artifacts table missing server_logs/, trace_data.csv, sentinel files, and gpu_logs sub-entries](https://github.com/inference-sim/sim2real/issues/681)
-- **Repository:** [inference-sim/sim2real](https://github.com/inference-sim/sim2real)
+## [[good first issue, hacktoberfest] 🍵 Hacktoberfest Task - Add new Japanese Idiom 644 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33094)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 91/100
-- **Updated:** 2026-10-24T17:45:05Z
-- **Labels:** good first issue, help wanted, stage/010-actionable, stage/stalled
+- **Updated:** 2026-10-24T20:05:39Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/236)
-- **Repository:** [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
-- **Score:** 91/100
-- **Updated:** 2026-10-24T17:01:27Z
-- **Labels:** enhancement, help wanted, good first issue, community, low hanging fruit, up-for-grabs, first-timers-only, micro-contribution, type: task, beginner-friendly, hacktoberfest, category:skills
-- **Comments:** 1
-- **Stars:** 66
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/234)
-- **Repository:** [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
-- **Score:** 91/100
-- **Updated:** 2026-10-24T16:49:14Z
-- **Labels:** enhancement, help wanted, good first issue, community, low hanging fruit, up-for-grabs, first-timers-only, micro-contribution, type: task, beginner-friendly, hacktoberfest, category:privacy
-- **Comments:** 2
 - **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Run the Linux AppImage on a distro that isn't Ubuntu](https://github.com/Bees-bot/bees-desktop/issues/283)
+- **Repository:** [Bees-bot/bees-desktop](https://github.com/Bees-bot/bees-desktop)
+- **Score:** 91/100
+- **Updated:** 2026-10-24T18:09:38Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 17
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -74,83 +84,103 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run scan_bounties.py & Mine 1 Pool Share!](https://github.com/doomsday-network/github-bounty-scanner/issues/1)
-- **Repository:** [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner)
+## [[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share](https://github.com/doomsday-network/doom-pay/issues/1)
+- **Repository:** [doomsday-network/doom-pay](https://github.com/doomsday-network/doom-pay)
 - **Score:** 90/100
-- **Updated:** 2026-10-24T17:57:34Z
-- **Labels:** help wanted, good first issue, bounty, escrow-verified
+- **Updated:** 2026-10-24T20:34:40Z
+- **Labels:** help wanted, good first issue, bounty
 - **Comments:** 3
-- **Stars:** 6
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.py](https://github.com/doomsday-network/doomsday/issues/30)
-- **Repository:** [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday)
+## [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1)
+- **Repository:** [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard)
 - **Score:** 90/100
-- **Updated:** 2026-10-24T17:56:41Z
-- **Labels:** help wanted, good first issue, bounty, escrow-verified
-- **Comments:** 4
+- **Updated:** 2026-10-24T20:22:56Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 56
 - **Stars:** 14
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!](https://github.com/doomsday-network/web3-agent-skills/issues/1)
-- **Repository:** [doomsday-network/web3-agent-skills](https://github.com/doomsday-network/web3-agent-skills)
+## [[CI/CD]: Add GitHub Actions Workflow for Automated Flake8 Linting and Formatting Checks](https://github.com/Rafiaminhaj/devpulse-ai/issues/10)
+- **Repository:** [Rafiaminhaj/devpulse-ai](https://github.com/Rafiaminhaj/devpulse-ai)
 - **Score:** 90/100
-- **Updated:** 2026-10-24T17:53:08Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 5
-- **Stars:** 3
+- **Updated:** 2026-10-24T19:51:13Z
+- **Labels:** enhancement, help wanted, good first issue, hacktoberfest
+- **Comments:** 6
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[processor/tailsampling] Change default `error_mode` to `ignore`](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/48420)
-- **Repository:** [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+## [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- **Repository:** [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 - **Score:** 90/100
-- **Updated:** 2026-10-24T16:59:23Z
-- **Labels:** enhancement, help wanted, good first issue, Stale, processor/tailsampling
-- **Comments:** 7
-- **Stars:** 5015
+- **Updated:** 2026-10-24T18:58:21Z
+- **Labels:** good first issue, help wanted, bug bounty, AI agent friendly, bounty, 💎 Bounty, $750
+- **Comments:** 208
+- **Stars:** 338
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[architect] sim2real.py (2790 lines) uses 24 deferred imports — monolith needs command-level decomposition](https://github.com/inference-sim/sim2real/issues/658)
-- **Repository:** [inference-sim/sim2real](https://github.com/inference-sim/sim2real)
+## [Plans should include images for visual changes and SVG flow charts for complex flows](https://github.com/hivecommons/spektacular/issues/89)
+- **Repository:** [hivecommons/spektacular](https://github.com/hivecommons/spektacular)
 - **Score:** 86/100
-- **Updated:** 2026-10-24T17:57:46Z
-- **Labels:** good first issue, help wanted, stage/010-actionable, stage/stalled
+- **Updated:** 2026-10-24T19:13:17Z
+- **Labels:** enhancement, help wanted, good first issue, stage/040-covered-by-pr
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 24
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[architect] REPO_ROOT computed 7 times independently via fragile parent-chain traversal](https://github.com/inference-sim/sim2real/issues/657)
-- **Repository:** [inference-sim/sim2real](https://github.com/inference-sim/sim2real)
-- **Score:** 86/100
-- **Updated:** 2026-10-24T17:57:45Z
-- **Labels:** good first issue, help wanted, stage/010-actionable, stage/stalled
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [test(mcp): the globstar-gate test cannot fail — its fixture is refused by the size bound first](https://github.com/zzet/gortex/issues/686)
-- **Repository:** [zzet/gortex](https://github.com/zzet/gortex)
-- **Score:** 86/100
-- **Updated:** 2026-10-24T17:05:33Z
-- **Labels:** bug, help wanted, good first issue, ci-tests
-- **Comments:** 1
-- **Stars:** 1918
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Benchmark Pingala-8 on your NVIDIA GPU (RTX 30/40/50, T4 and others)](https://github.com/Genrius-AI/pingala8-llm/issues/4)
-- **Repository:** [Genrius-AI/pingala8-llm](https://github.com/Genrius-AI/pingala8-llm)
+## [Publish a versioned JSON Schema for reports and validate emitted examples](https://github.com/ismayilzeynal/tabulint-oss-az/issues/71)
+- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
 - **Score:** 83/100
-- **Updated:** 2026-10-24T17:58:03Z
-- **Labels:** good first issue, help wanted, benchmark
+- **Updated:** 2026-10-24T20:36:59Z
+- **Labels:** enhancement, help wanted, good first issue, testing, new contributors, reporting, size: medium
 - **Comments:** 0
-- **Stars:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a tested GitHub Actions recipe for a data-quality gate with JSON artifacts](https://github.com/ismayilzeynal/tabulint-oss-az/issues/70)
+- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+- **Score:** 83/100
+- **Updated:** 2026-10-24T20:36:58Z
+- **Labels:** documentation, help wanted, good first issue, testing, ci, new contributors, integration, size: small
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Make the text report issue limit configurable with --max-issues](https://github.com/ismayilzeynal/tabulint-oss-az/issues/68)
+- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+- **Score:** 83/100
+- **Updated:** 2026-10-24T20:36:54Z
+- **Labels:** enhancement, help wanted, good first issue, cli, new contributors, reporting, size: small
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Reject non-standard NaN and Infinity constants in JSON and JSON Lines input](https://github.com/ismayilzeynal/tabulint-oss-az/issues/67)
+- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+- **Score:** 83/100
+- **Updated:** 2026-10-24T20:36:52Z
+- **Labels:** bug, help wanted, good first issue, data-format, new contributors, size: small
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Reject CR/LF CSV delimiters instead of silently producing a single-column dataset](https://github.com/ismayilzeynal/tabulint-oss-az/issues/66)
+- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+- **Score:** 83/100
+- **Updated:** 2026-10-24T20:36:51Z
+- **Labels:** bug, help wanted, good first issue, cli, data-format, new contributors, size: small
+- **Comments:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -164,92 +194,62 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [docs: update repository links and clone URLs to canonical upstream](https://github.com/WhatBreaks/WhatBreaks/issues/3)
-- **Repository:** [WhatBreaks/WhatBreaks](https://github.com/WhatBreaks/WhatBreaks)
+## [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
+- **Repository:** [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+- **Score:** 82/100
+- **Updated:** 2026-10-24T19:46:56Z
+- **Labels:** bug, enhancement, good first issue, help wanted, bug bounty, AI agent friendly, bounty, 💎 Bounty, $780
+- **Comments:** 15
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
+- **Repository:** [tadanobutubutu/screeps](https://github.com/tadanobutubutu/screeps)
 - **Score:** 80/100
-- **Updated:** 2026-10-24T17:11:03Z
-- **Labels:** documentation, help wanted, good first issue, nsoc2026
-- **Comments:** 4
+- **Updated:** 2026-10-24T20:42:09Z
+- **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, workflow-health, automated, bot, dependencies, ci, feature, javascript, github-actions, major, test, in-progress, stale, needs-review, security, config, renovate, sonarcloud, codecov, quality-report, chore, needs-triage, ai-solve, bounty
+- **Comments:** 1202
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add Leaderboard page.](https://github.com/osl-vvce/coding-platform/issues/3)
-- **Repository:** [osl-vvce/coding-platform](https://github.com/osl-vvce/coding-platform)
-- **Score:** 78/100
-- **Updated:** 2026-10-24T17:49:22Z
-- **Labels:** help wanted, good first issue, hacktoberfest
-- **Comments:** 2
+## [nats.EncodedConn is deprecated: Encoded connections are no longer supported.](https://github.com/meshery/meshkit/issues/677)
+- **Repository:** [meshery/meshkit](https://github.com/meshery/meshkit)
+- **Score:** 80/100
+- **Updated:** 2026-10-24T18:55:37Z
+- **Labels:** good first issue, help wanted, issue/willfix, kind/bug, language/go
+- **Comments:** 8
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [VB.NET extractor truncates methods containing multiline lambdas](https://github.com/zzet/gortex/issues/808)
-- **Repository:** [zzet/gortex](https://github.com/zzet/gortex)
+## [A host cannot see who won a quiz they already hosted](https://github.com/TheCodeHeist-Coder/Rexial/issues/200)
+- **Repository:** [TheCodeHeist-Coder/Rexial](https://github.com/TheCodeHeist-Coder/Rexial)
 - **Score:** 78/100
-- **Updated:** 2026-10-24T17:06:36Z
-- **Labels:** bug, help wanted, good first issue, languages
+- **Updated:** 2026-10-24T20:35:34Z
+- **Labels:** enhancement, help wanted, good first issue, UI & UX
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [sessionScope's uncovered-cwd comment claims a dispatcher pre-check that does not exist](https://github.com/zzet/gortex/issues/709)
-- **Repository:** [zzet/gortex](https://github.com/zzet/gortex)
+## [Native-speaker review: French chat screen](https://github.com/yeixio/toskar-core/issues/824)
+- **Repository:** [yeixio/toskar-core](https://github.com/yeixio/toskar-core)
 - **Score:** 78/100
-- **Updated:** 2026-10-24T17:05:54Z
-- **Labels:** documentation, help wanted, good first issue, mcp
+- **Updated:** 2026-10-24T20:03:09Z
+- **Labels:** good first issue, help wanted, translation, priority:p2
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [pr_review_context uses SessionIDFromContext for an overlay session id, bypassing the cohort accessor](https://github.com/zzet/gortex/issues/708)
-- **Repository:** [zzet/gortex](https://github.com/zzet/gortex)
+## [Native-speaker review: Japanese chat screen](https://github.com/yeixio/toskar-core/issues/822)
+- **Repository:** [yeixio/toskar-core](https://github.com/yeixio/toskar-core)
 - **Score:** 78/100
-- **Updated:** 2026-10-24T17:05:52Z
-- **Labels:** bug, help wanted, good first issue, mcp
+- **Updated:** 2026-10-24T20:03:08Z
+- **Labels:** good first issue, help wanted, translation, priority:p2
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Good first issue: test configuration parsing and GraphQL errors](https://github.com/thillainirmal-tech/leetcode-automater/issues/1)
-- **Repository:** [thillainirmal-tech/leetcode-automater](https://github.com/thillainirmal-tech/leetcode-automater)
-- **Score:** 78/100
-- **Updated:** 2026-10-24T16:50:57Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [`with` keyword missing](https://github.com/cyberwitchery/metacarp/issues/100)
-- **Repository:** [cyberwitchery/metacarp](https://github.com/cyberwitchery/metacarp)
-- **Score:** 78/100
-- **Updated:** 2026-10-23T21:02:57Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Implement missing domain objects with full `validate()` function.](https://github.com/oppia/oppia/issues/21970)
-- **Repository:** [oppia/oppia](https://github.com/oppia/oppia)
-- **Score:** 77/100
-- **Updated:** 2026-10-24T17:53:48Z
-- **Labels:** backend, good first issue, enhancement, Impact: Medium, Work: Low
-- **Comments:** 217
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[receiver/kafka] Make the decompressed batch size limit configurable and recover from ErrDecompressTooLarge](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/51845)
-- **Repository:** [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-- **Score:** 77/100
-- **Updated:** 2026-10-24T16:51:22Z
-- **Labels:** good first issue, receiver/kafka
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

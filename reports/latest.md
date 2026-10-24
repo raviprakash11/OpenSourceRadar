@@ -1,6 +1,6 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-24T08:27:47.997403+00:00
+Generated: 2026-10-24T08:34:33.298240+00:00
 Unique issues discovered: 210
 Repositories checked for funding metadata: 12
 
@@ -197,7 +197,7 @@ Repositories checked for funding metadata: 12
 ## [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
 - **Repository:** [tadanobutubutu/screeps](https://github.com/tadanobutubutu/screeps)
 - **Score:** 80/100
-- **Updated:** 2026-10-24T06:47:18Z
+- **Updated:** 2026-10-24T08:30:05Z
 - **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, workflow-health, automated, bot, dependencies, ci, feature, javascript, github-actions, major, test, in-progress, stale, needs-review, security, config, renovate, sonarcloud, codecov, quality-report, chore, needs-triage, ai-solve, bounty
 - **Comments:** 1201
 - **Stars:** not checked
@@ -212,6 +212,16 @@ Repositories checked for funding metadata: 12
 - **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [i18n: native-speaker review for 11 languages](https://github.com/club-paradiso/print-cess/issues/7)
+- **Repository:** [club-paradiso/print-cess](https://github.com/club-paradiso/print-cess)
+- **Score:** 78/100
+- **Updated:** 2026-10-24T08:30:38Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [refactor: simplify complex boolean expressions and enforce max-boolean-operators in ESLint](https://github.com/irahardianto/pi-mcp-extension/issues/182)
@@ -240,16 +250,6 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-24T06:37:10Z
 - **Labels:** help wanted, good first issue, web
 - **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [`with` keyword missing](https://github.com/cyberwitchery/metacarp/issues/100)
-- **Repository:** [cyberwitchery/metacarp](https://github.com/cyberwitchery/metacarp)
-- **Score:** 78/100
-- **Updated:** 2026-10-23T21:02:57Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 2
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

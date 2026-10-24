@@ -1,10 +1,15 @@
 {
   "notified_urls": [
     "https://github.com/projectbluefin/ghostscript-printer-app/issues/127",
-    "https://github.com/projectbluefin/gutenprint-printer-app/issues/119",
+    "https://github.com/kubernetes-sigs/kustomize/issues/4292",
+    "https://github.com/Berserk-hub150/skillhawk/issues/232",
+    "https://github.com/lingdojo/kana-dojo/issues/33064",
     "https://github.com/lingdojo/kana-dojo/issues/33065",
+    "https://github.com/HelpCode-ai/anythingmcp/issues/982",
+    "https://github.com/uPortal-Project/uPortal/issues/1874",
     "https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151",
-    "https://github.com/HelpCode-ai/anythingmcp/issues/982"
+    "https://github.com/flisk-sh/flisk-app/issues/101",
+    "https://github.com/projectbluefin/gutenprint-printer-app/issues/119"
   ],
-  "updated_at": "2026-10-24T08:27:47.997403+00:00"
+  "updated_at": "2026-10-24T08:34:33.298240+00:00"
 }

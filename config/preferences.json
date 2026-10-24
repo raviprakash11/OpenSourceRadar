@@ -1,0 +1,26 @@
+{
+  "queries": [
+    "is:issue is:open label:\"good first issue\" language:TypeScript",
+    "is:issue is:open label:\"help wanted\" language:TypeScript",
+    "is:issue is:open label:\"good first issue\" language:JavaScript",
+    "is:issue is:open label:\"help wanted\" language:JavaScript",
+    "is:issue is:open label:\"good first issue\" language:Python",
+    "is:issue is:open label:\"help wanted\" language:Python",
+    "is:issue is:open label:\"good first issue\" language:Go",
+    "is:issue is:open label:\"help wanted\" language:Go",
+    "is:issue is:open label:\"good first issue\" language:Shell",
+    "is:issue is:open label:\"help wanted\" language:Shell",
+    "is:issue is:open label:\"good first issue\" aws",
+    "is:issue is:open label:\"help wanted\" devops"
+  ],
+  "max_issues_per_query": 20,
+  "max_report_items": 25,
+  "max_telegram_items": 5,
+  "minimum_score_for_telegram": 45,
+  "repository_metadata_checks": 12,
+  "preferred_topics": [
+    "react", "typescript", "javascript", "developer-tools", "ai",
+    "llm", "agents", "devops", "aws", "cloud", "terraform",
+    "kubernetes", "github-actions", "automation"
+  ]
+}

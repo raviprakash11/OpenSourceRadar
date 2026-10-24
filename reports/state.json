@@ -1,1 +1,10 @@
-{"notified_urls": []}
+{
+  "notified_urls": [
+    "https://github.com/projectbluefin/ghostscript-printer-app/issues/127",
+    "https://github.com/projectbluefin/gutenprint-printer-app/issues/119",
+    "https://github.com/lingdojo/kana-dojo/issues/33065",
+    "https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151",
+    "https://github.com/HelpCode-ai/anythingmcp/issues/982"
+  ],
+  "updated_at": "2026-10-24T08:27:47.997403+00:00"
+}

@@ -12,17 +12,6 @@ A scheduled open-source discovery agent for React/TypeScript, AI/developer tools
 
 Scores are heuristics, not guarantees of issue difficulty, maintainer responsiveness, or payment. Funding detection means a public signal was found, not that a specific issue is paid.
 
-## Setup
-
-1. Create a new GitHub repository named `OpenSourceRadar` and add these files.
-2. In **Settings → Secrets and variables → Actions → Secrets**, add:
-   - `TELEGRAM_BOT_TOKEN`: token from Telegram's official BotFather.
-   - `TELEGRAM_CHAT_ID`: your personal chat ID or target group ID.
-3. `GITHUB_TOKEN` is provided automatically by GitHub Actions. The workflow needs `contents: write` to commit the report/state file.
-4. In Telegram, start a chat with your bot and send `/start` before the first notification.
-5. Commit everything to the default branch and enable Actions.
-6. Run **Actions → OpenSourceRadar → Run workflow** to test immediately.
-
 ## Schedule
 The workflow runs at minute 11 every 3 hours (`11 */3 * * *`, UTC). GitHub scheduled runs can be delayed and are not a real-time SLA.
 

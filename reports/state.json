@@ -1,20 +1,25 @@
 {
   "notified_urls": [
-    "https://github.com/projectbluefin/ghostscript-printer-app/issues/127",
-    "https://github.com/noruzzamans/gslider-blocks/issues/477",
-    "https://github.com/HelpCode-ai/anythingmcp/issues/982",
-    "https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151",
-    "https://github.com/lingdojo/kana-dojo/issues/33080",
-    "https://github.com/uPortal-Project/uPortal/issues/1874",
-    "https://github.com/flisk-sh/flisk-app/issues/101",
-    "https://github.com/doomsday-network/doomsday/issues/8",
-    "https://github.com/code-charity/youtube/issues/4308",
-    "https://github.com/lingdojo/kana-dojo/issues/33065",
-    "https://github.com/Berserk-hub150/skillhawk/issues/232",
     "https://github.com/lingdojo/kana-dojo/issues/33064",
-    "https://github.com/noruzzamans/gslider-blocks/issues/476",
+    "https://github.com/lingdojo/kana-dojo/issues/33065",
+    "https://github.com/lingdojo/kana-dojo/issues/33088",
+    "https://github.com/doomsday-network/github-bounty-scanner/issues/1",
+    "https://github.com/code-charity/youtube/issues/4308",
+    "https://github.com/lingdojo/kana-dojo/issues/33080",
+    "https://github.com/Berserk-hub150/skillhawk/issues/232",
+    "https://github.com/HelpCode-ai/anythingmcp/issues/982",
+    "https://github.com/projectbluefin/ghostscript-printer-app/issues/127",
     "https://github.com/projectbluefin/gutenprint-printer-app/issues/119",
-    "https://github.com/kubernetes-sigs/kustomize/issues/4292"
+    "https://github.com/inference-sim/sim2real/issues/681",
+    "https://github.com/uPortal-Project/uPortal/issues/1874",
+    "https://github.com/doomsday-network/doomsday/issues/8",
+    "https://github.com/Berserk-hub150/skillhawk/issues/236",
+    "https://github.com/Berserk-hub150/skillhawk/issues/234",
+    "https://github.com/noruzzamans/gslider-blocks/issues/477",
+    "https://github.com/noruzzamans/gslider-blocks/issues/476",
+    "https://github.com/flisk-sh/flisk-app/issues/101",
+    "https://github.com/kubernetes-sigs/kustomize/issues/4292",
+    "https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151"
   ],
-  "updated_at": "2026-10-24T13:18:10.870434+00:00"
+  "updated_at": "2026-10-24T18:06:14.700385+00:00"
 }

@@ -1,8 +1,18 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-24T20:43:52.851766+00:00
-Unique issues discovered: 214
+Generated: 2026-10-24T23:09:22.300724+00:00
+Unique issues discovered: 211
 Repositories checked for funding metadata: 12
+
+## [Help check the interface translations (no coding needed)](https://github.com/Milomilo777/whisper-transcriber-suite/issues/10)
+- **Repository:** [Milomilo777/whisper-transcriber-suite](https://github.com/Milomilo777/whisper-transcriber-suite)
+- **Score:** 100/100
+- **Updated:** 2026-10-24T22:29:22Z
+- **Labels:** help wanted, good first issue, translation
+- **Comments:** 3
+- **Stars:** 9
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** buy_me_a_coffee: mehraz1358
 
 ## [[FEATURE] UI Enhancements](https://github.com/orneryd/NornicDB/issues/31)
 - **Repository:** [orneryd/NornicDB](https://github.com/orneryd/NornicDB)
@@ -14,20 +24,10 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with a list of GitHub usernames or organizations e.g., ['orneryd', 'my-org']; patreon: # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: # Replace with a single Ko-fi username; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: orneryd; thanks_dev: # Replace with a single thanks.dev username; custom: #["https://github.com/BerylliumLabs"]
 
-## [Hosts cannot start a quiz in local Docker: ws-server has no JWT_SECRET](https://github.com/TheCodeHeist-Coder/Rexial/issues/186)
-- **Repository:** [TheCodeHeist-Coder/Rexial](https://github.com/TheCodeHeist-Coder/Rexial)
-- **Score:** 99/100
-- **Updated:** 2026-10-24T20:42:04Z
-- **Labels:** bug, help wanted, good first issue, Backend first issue
-- **Comments:** 1
-- **Stars:** 21
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: TheCodeHeist-Coder; buy_me_a_coffee: codeheist
-
-## [[good first issue, hacktoberfest] 🍛 Hacktoberfest Task - Add new Dialect Entry 898 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33095)
+## [[good first issue, hacktoberfest] 🍡 Hacktoberfest Task - Add new Learner Mistake 520 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33098)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-10-24T20:40:54Z
+- **Updated:** 2026-10-24T22:55:44Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
 - **Stars:** 3710
@@ -44,6 +44,46 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: tristanpoland
 
+## [Review backlog (docs-currency): Vendored ChairLift asset attribution still cites v26.09.0-alpha.2](https://github.com/projectbluefin/common/issues/1408)
+- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
+- **Score:** 95/100
+- **Updated:** 2026-10-24T23:08:41Z
+- **Labels:** triage/accepted, good first issue, approved-direction, help wanted, kind/cleanup, stage/010-actionable
+- **Comments:** 6
+- **Stars:** 32
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Review backlog (docs-currency): GUI (cask) vs helper (image pin) version skew undocumented](https://github.com/projectbluefin/common/issues/1296)
+- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
+- **Score:** 95/100
+- **Updated:** 2026-10-24T23:08:36Z
+- **Labels:** triage/accepted, good first issue, approved-direction, help wanted, kind/cleanup, stage/010-actionable, agent/reviewer
+- **Comments:** 12
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Workflow!](https://github.com/doomsday-network/bounty-guard/issues/7)
+- **Repository:** [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard)
+- **Score:** 95/100
+- **Updated:** 2026-10-24T23:02:44Z
+- **Labels:** help wanted, good first issue, bounty, escrow-verified
+- **Comments:** 17
+- **Stars:** 15
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
+- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
+- **Score:** 95/100
+- **Updated:** 2026-10-24T21:35:17Z
+- **Labels:** help wanted, good first issue, bounty-waiting
+- **Comments:** 4
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
 ## [Review backlog (docs-currency): fsdk-containers consumer contract doc still shows broad identity regexp](https://github.com/projectbluefin/gutenprint-printer-app/issues/119)
 - **Repository:** [projectbluefin/gutenprint-printer-app](https://github.com/projectbluefin/gutenprint-printer-app)
 - **Score:** 95/100
@@ -54,23 +94,13 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[good first issue, hacktoberfest] 🍵 Hacktoberfest Task - Add new Japanese Idiom 644 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33094)
+## [[good first issue, hacktoberfest] 🦊 Hacktoberfest Task - Add new Example Sentence 471 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33097)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 91/100
-- **Updated:** 2026-10-24T20:05:39Z
+- **Updated:** 2026-10-24T22:10:47Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Run the Linux AppImage on a distro that isn't Ubuntu](https://github.com/Bees-bot/bees-desktop/issues/283)
-- **Repository:** [Bees-bot/bees-desktop](https://github.com/Bees-bot/bees-desktop)
-- **Score:** 91/100
-- **Updated:** 2026-10-24T18:09:38Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 17
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -84,23 +114,23 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share](https://github.com/doomsday-network/doom-pay/issues/1)
-- **Repository:** [doomsday-network/doom-pay](https://github.com/doomsday-network/doom-pay)
+## [Review backlog (intent-alignment): Settings parity test uses substring matching, giving false coverage for suffix-overlapping keys](https://github.com/hivecommons/hive/issues/14072)
+- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
 - **Score:** 90/100
-- **Updated:** 2026-10-24T20:34:40Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 3
-- **Stars:** 2
+- **Updated:** 2026-10-24T23:08:50Z
+- **Labels:** good first issue, help wanted, agent/reviewer, stage/010-actionable
+- **Comments:** 5
+- **Stars:** 72
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1)
-- **Repository:** [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard)
+## [[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share](https://github.com/doomsday-network/doom-pay/issues/1)
+- **Repository:** [doomsday-network/doom-pay](https://github.com/doomsday-network/doom-pay)
 - **Score:** 90/100
-- **Updated:** 2026-10-24T20:22:56Z
+- **Updated:** 2026-10-24T22:22:52Z
 - **Labels:** help wanted, good first issue, bounty
-- **Comments:** 56
-- **Stars:** 14
+- **Comments:** 15
+- **Stars:** 3
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -114,84 +144,104 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
-- **Repository:** [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
-- **Score:** 90/100
-- **Updated:** 2026-10-24T18:58:21Z
-- **Labels:** good first issue, help wanted, bug bounty, AI agent friendly, bounty, 💎 Bounty, $750
-- **Comments:** 208
-- **Stars:** 338
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Plans should include images for visual changes and SVG flow charts for complex flows](https://github.com/hivecommons/spektacular/issues/89)
-- **Repository:** [hivecommons/spektacular](https://github.com/hivecommons/spektacular)
+## [test(zotero): automated coverage for the inline collection picker (#5254 follow-up)](https://github.com/LearningCircuit/local-deep-research/issues/7877)
+- **Repository:** [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
 - **Score:** 86/100
-- **Updated:** 2026-10-24T19:13:17Z
-- **Labels:** enhancement, help wanted, good first issue, stage/040-covered-by-pr
+- **Updated:** 2026-10-24T23:06:25Z
+- **Labels:** help wanted, good first issue, ui-ux
 - **Comments:** 1
-- **Stars:** 24
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Publish a versioned JSON Schema for reports and validate emitted examples](https://github.com/ismayilzeynal/tabulint-oss-az/issues/71)
-- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+## [Add explicit return types to exported functions](https://github.com/flisk-sh/flisk/issues/2264)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
 - **Score:** 83/100
-- **Updated:** 2026-10-24T20:36:59Z
-- **Labels:** enhancement, help wanted, good first issue, testing, new contributors, reporting, size: medium
+- **Updated:** 2026-10-24T22:52:00Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: easy, tech: typescript, tech: bun, tech: vitest, tech: biome, rank: 8 kyu, island: CLI Cove, api-design, contributing, developer-experience, linting, open-source, quality, tooling, type-safety, code-review
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a tested GitHub Actions recipe for a data-quality gate with JSON artifacts](https://github.com/ismayilzeynal/tabulint-oss-az/issues/70)
-- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+## [Make component file naming consistent](https://github.com/flisk-sh/flisk/issues/2265)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
 - **Score:** 83/100
-- **Updated:** 2026-10-24T20:36:58Z
-- **Labels:** documentation, help wanted, good first issue, testing, ci, new contributors, integration, size: small
+- **Updated:** 2026-10-24T22:51:59Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: medium, guide, tech: typescript, tech: bun, tech: vitest, tech: biome, area: contributor-guides, rank: 8 kyu, island: CLI Cove, api-design, contributing, developer-experience, linting, open-source, quality, tooling, type-safety, code-review
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Make the text report issue limit configurable with --max-issues](https://github.com/ismayilzeynal/tabulint-oss-az/issues/68)
-- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+## [Remove duplicate ResourceType alias and rename appType param](https://github.com/flisk-sh/flisk/issues/2266)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
 - **Score:** 83/100
-- **Updated:** 2026-10-24T20:36:54Z
-- **Labels:** enhancement, help wanted, good first issue, cli, new contributors, reporting, size: small
+- **Updated:** 2026-10-24T22:51:58Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: easy, tech: typescript, tech: javascript, tech: bun, tech: vitest, tech: biome, tech: json-schema, rank: 8 kyu, island: CLI Cove, api-design, contributing, developer-experience, linting, open-source, quality, tooling, type-safety, code-review
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Reject non-standard NaN and Infinity constants in JSON and JSON Lines input](https://github.com/ismayilzeynal/tabulint-oss-az/issues/67)
-- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+## [Move cross-module interfaces into src/types/index.ts](https://github.com/flisk-sh/flisk/issues/2267)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
 - **Score:** 83/100
-- **Updated:** 2026-10-24T20:36:52Z
-- **Labels:** bug, help wanted, good first issue, data-format, new contributors, size: small
+- **Updated:** 2026-10-24T22:51:58Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: medium, guide, tech: typescript, tech: bun, tech: vitest, tech: biome, area: contributor-guides, rank: 8 kyu, island: CLI Cove, api-design, contributing, developer-experience, linting, open-source, quality, tooling, type-safety, code-review
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Reject CR/LF CSV delimiters instead of silently producing a single-column dataset](https://github.com/ismayilzeynal/tabulint-oss-az/issues/66)
-- **Repository:** [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az)
+## [Make boolean property names follow the is/has/can/did prefix rule](https://github.com/flisk-sh/flisk/issues/2261)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
 - **Score:** 83/100
-- **Updated:** 2026-10-24T20:36:51Z
-- **Labels:** bug, help wanted, good first issue, cli, data-format, new contributors, size: small
+- **Updated:** 2026-10-24T22:49:42Z
+- **Labels:** enhancement, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: easy, tech: typescript, tech: bun, tech: vitest, tech: biome, rank: 8 kyu, island: CLI Cove, api-design, contributing, developer-experience, linting, open-source, quality, tooling, type-safety, code-review
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [SBOM: Add vendor URL to json configs](https://github.com/e-m-b-a/emba/issues/1872)
-- **Repository:** [e-m-b-a/emba](https://github.com/e-m-b-a/emba)
+## [Fix contradictory boolean naming rules in cli/AGENTS.md](https://github.com/flisk-sh/flisk/issues/2262)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
 - **Score:** 83/100
-- **Updated:** 2026-10-23T11:18:48Z
-- **Labels:** enhancement, help wanted, good first issue, Core modules (Sxx), EMBA, SBOM
-- **Comments:** 1
+- **Updated:** 2026-10-24T22:49:41Z
+- **Labels:** documentation, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: easy, guide, tech: typescript, tech: bun, area: contributor-guides, area: documentation, rank: 8 kyu, island: Docs Harbor, api-design, contributing, developer-experience, docs, linting, open-source, quality, tooling, type-safety, code-review
+- **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Replace raw Error throws with FliskError in CLI](https://github.com/flisk-sh/flisk/issues/2263)
+- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
+- **Score:** 83/100
+- **Updated:** 2026-10-24T22:49:40Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, hacktoberfest, community, dx, area: cli, difficulty: easy, tech: typescript, tech: bun, tech: vitest, tech: biome, rank: 8 kyu, island: CLI Cove, api-design, contributing, developer-experience, linting, open-source, quality, tooling, type-safety, code-review
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Review backlog (correctness): Scrollback truncation can under-count repeats when an old target's reads scroll out](https://github.com/hivecommons/hive/issues/14065)
+- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
+- **Score:** 82/100
+- **Updated:** 2026-10-24T21:58:16Z
+- **Labels:** good first issue, help wanted, agent/reviewer, blocked
+- **Comments:** 6
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Review backlog (intent-alignment): Wall-clock trigger can still nudge long scanner sweeps](https://github.com/hivecommons/hive/issues/14066)
+- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
+- **Score:** 82/100
+- **Updated:** 2026-10-24T21:58:11Z
+- **Labels:** good first issue, help wanted, agent/reviewer, blocked
+- **Comments:** 6
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
@@ -202,54 +252,4 @@ Repositories checked for funding metadata: 12
 - **Comments:** 15
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
-- **Repository:** [tadanobutubutu/screeps](https://github.com/tadanobutubutu/screeps)
-- **Score:** 80/100
-- **Updated:** 2026-10-24T20:42:09Z
-- **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, workflow-health, automated, bot, dependencies, ci, feature, javascript, github-actions, major, test, in-progress, stale, needs-review, security, config, renovate, sonarcloud, codecov, quality-report, chore, needs-triage, ai-solve, bounty
-- **Comments:** 1202
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [nats.EncodedConn is deprecated: Encoded connections are no longer supported.](https://github.com/meshery/meshkit/issues/677)
-- **Repository:** [meshery/meshkit](https://github.com/meshery/meshkit)
-- **Score:** 80/100
-- **Updated:** 2026-10-24T18:55:37Z
-- **Labels:** good first issue, help wanted, issue/willfix, kind/bug, language/go
-- **Comments:** 8
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [A host cannot see who won a quiz they already hosted](https://github.com/TheCodeHeist-Coder/Rexial/issues/200)
-- **Repository:** [TheCodeHeist-Coder/Rexial](https://github.com/TheCodeHeist-Coder/Rexial)
-- **Score:** 78/100
-- **Updated:** 2026-10-24T20:35:34Z
-- **Labels:** enhancement, help wanted, good first issue, UI & UX
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Native-speaker review: French chat screen](https://github.com/yeixio/toskar-core/issues/824)
-- **Repository:** [yeixio/toskar-core](https://github.com/yeixio/toskar-core)
-- **Score:** 78/100
-- **Updated:** 2026-10-24T20:03:09Z
-- **Labels:** good first issue, help wanted, translation, priority:p2
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Native-speaker review: Japanese chat screen](https://github.com/yeixio/toskar-core/issues/822)
-- **Repository:** [yeixio/toskar-core](https://github.com/yeixio/toskar-core)
-- **Score:** 78/100
-- **Updated:** 2026-10-24T20:03:08Z
-- **Labels:** good first issue, help wanted, translation, priority:p2
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

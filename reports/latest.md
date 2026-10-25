@@ -1,28 +1,18 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-25T16:09:14.860300+00:00
+Generated: 2026-10-25T20:47:09.234402+00:00
 Unique issues discovered: 224
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🍜 Hacktoberfest Task - Add new Japanese Idiom 306 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33135)
+## [[good first issue, hacktoberfest] 🍤 Hacktoberfest Task - Add new Learner Mistake 487 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33142)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-10-25T16:01:08Z
+- **Updated:** 2026-10-25T20:40:48Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3715
+- **Stars:** 3716
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-
-## [Dependency Dashboard](https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151)
-- **Repository:** [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
-- **Score:** 99/100
-- **Updated:** 2026-10-25T01:14:11Z
-- **Labels:** documentation, enhancement, good first issue, help wanted, Security
-- **Comments:** 2
-- **Stars:** 397
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: tristanpoland
 
 ## [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - **Repository:** [meshery/meshery.io](https://github.com/meshery/meshery.io)
@@ -31,16 +21,6 @@ Repositories checked for funding metadata: 12
 - **Labels:** good first issue, help wanted, issue/willfix, area/catalog, kubernetes
 - **Comments:** 19
 - **Stars:** 895
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs(view): add missing JSDoc container parameter in image-slider and logo-carousel view.js](https://github.com/noruzzamans/gslider-blocks/issues/479)
-- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
-- **Score:** 95/100
-- **Updated:** 2026-10-25T14:36:13Z
-- **Labels:** help wanted, good first issue, type: documentation, focus: blocks, focus: swiper-engine, hacktoberfest
-- **Comments:** 5
-- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -64,83 +44,43 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Policy: TK-F009 and TK-F015 should cover Qwen Code's settings](https://github.com/Cygnux-Labs/Tracekit/issues/408)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [Options API page content - formatting needs reworking](https://github.com/WordPress/Documentation-Issue-Tracker/issues/2537)
+- **Repository:** [WordPress/Documentation-Issue-Tracker](https://github.com/WordPress/Documentation-Issue-Tracker)
 - **Score:** 91/100
-- **Updated:** 2026-10-25T15:52:57Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** 170
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add a NestJS receiver recipe to the receiving guide](https://github.com/pplytas/good-webhooks/issues/97)
-- **Repository:** [pplytas/good-webhooks](https://github.com/pplytas/good-webhooks)
-- **Score:** 91/100
-- **Updated:** 2026-10-25T15:32:10Z
-- **Labels:** documentation, help wanted, good first issue
+- **Updated:** 2026-10-25T20:03:11Z
+- **Labels:** good first issue, help wanted, developer documentation (DevHub), needs discussion, APIs
 - **Comments:** 1
-- **Stars:** 4
+- **Stars:** 109
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Answer 413 instead of cutting the connection when a request body is too large](https://github.com/SolidGeeks/strata/issues/3)
-- **Repository:** [SolidGeeks/strata](https://github.com/SolidGeeks/strata)
+## [[Docs] Basic example filter is wrong for DTCG](https://github.com/style-dictionary/style-dictionary/issues/1773)
+- **Repository:** [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary)
 - **Score:** 91/100
-- **Updated:** 2026-10-25T12:51:12Z
-- **Labels:** good first issue, help wanted
+- **Updated:** 2026-10-25T19:58:25Z
+- **Labels:** help wanted, documentation, good first issue, 5.0
 - **Comments:** 1
-- **Stars:** 0
+- **Stars:** 4869
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[feature] GCP Terraform harness](https://github.com/PicoMQ/picomq/issues/57)
-- **Repository:** [PicoMQ/picomq](https://github.com/PicoMQ/picomq)
-- **Score:** 91/100
-- **Updated:** 2026-10-25T05:06:45Z
-- **Labels:** documentation, enhancement, good first issue, help wanted
-- **Comments:** 2
-- **Stars:** 376
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!](https://github.com/doomsday-network/web3-agent-skills/issues/1)
-- **Repository:** [doomsday-network/web3-agent-skills](https://github.com/doomsday-network/web3-agent-skills)
-- **Score:** 90/100
-- **Updated:** 2026-10-25T16:02:51Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 17
-- **Stars:** 10
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [[$25 BOUNTY] [Python] Add independent log parser fixtures](https://github.com/weilixiong/TentOfTrials/issues/5)
 - **Repository:** [weilixiong/TentOfTrials](https://github.com/weilixiong/TentOfTrials)
 - **Score:** 90/100
-- **Updated:** 2026-10-25T15:49:29Z
+- **Updated:** 2026-10-25T20:41:50Z
 - **Labels:** help wanted, good first issue, bounty, language:python
-- **Comments:** 52
+- **Comments:** 53
 - **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Apps tab: Show package list and details for App collections in Control Center](https://github.com/projectbluefin/chairlift/issues/565)
-- **Repository:** [projectbluefin/chairlift](https://github.com/projectbluefin/chairlift)
+## [[Feature]: Add support for GetDependencies in api/v3 API](https://github.com/jaegertracing/jaeger/issues/7595)
+- **Repository:** [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
 - **Score:** 90/100
-- **Updated:** 2026-10-25T15:28:12Z
-- **Labels:** help wanted, good first issue, triage/accepted, kind/feature, hive/verified-open, approved-direction, stage/010-actionable
-- **Comments:** 8
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share](https://github.com/doomsday-network/doom-pay/issues/1)
-- **Repository:** [doomsday-network/doom-pay](https://github.com/doomsday-network/doom-pay)
-- **Score:** 90/100
-- **Updated:** 2026-10-25T14:02:30Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 31
-- **Stars:** not checked
+- **Updated:** 2026-10-25T19:31:03Z
+- **Labels:** enhancement, help wanted, good first issue, area/storage
+- **Comments:** 7
+- **Stars:** 23338
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -150,8 +90,48 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-24T19:51:13Z
 - **Labels:** enhancement, help wanted, good first issue, hacktoberfest
 - **Comments:** 6
-- **Stars:** not checked
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Remove language-spec helpers that are only called by tests](https://github.com/8f4e/8f4e/issues/1186)
+- **Repository:** [8f4e/8f4e](https://github.com/8f4e/8f4e)
+- **Score:** 86/100
+- **Updated:** 2026-10-25T20:01:32Z
+- **Labels:** help wanted, good first issue, compiler, easy
+- **Comments:** 1
+- **Stars:** 17
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Security] Add HMAC-SHA256 Signed Verification URL Token Generator in src/lib/security/signed-token.ts](https://github.com/TheVicky1/Pact_OS/issues/657)
+- **Repository:** [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS)
+- **Score:** 86/100
+- **Updated:** 2026-10-25T19:51:13Z
+- **Labels:** help wanted, good first issue, beginner friendly, hacktoberfest, community, up-for-grabs, contributions-welcome, security, cryptography
+- **Comments:** 1
+- **Stars:** 33
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [List Evergreen on the pre-commit hooks directory](https://github.com/arminazimi/evergreen/issues/286)
+- **Repository:** [arminazimi/evergreen](https://github.com/arminazimi/evergreen)
+- **Score:** 86/100
+- **Updated:** 2026-10-25T17:29:21Z
+- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: XS, type: docs, status: blocked, area: community
+- **Comments:** 1
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Submit Evergreen to relevant awesome lists](https://github.com/arminazimi/evergreen/issues/297)
+- **Repository:** [arminazimi/evergreen](https://github.com/arminazimi/evergreen)
+- **Score:** 86/100
+- **Updated:** 2026-10-25T17:29:06Z
+- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: XS, type: docs, status: blocked, area: community
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Add a Markdown report format](https://github.com/arminazimi/evergreen/issues/1044)
@@ -164,21 +144,21 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a bounded run-once delivery example](https://github.com/pplytas/good-webhooks/issues/101)
-- **Repository:** [pplytas/good-webhooks](https://github.com/pplytas/good-webhooks)
+## [Test the exercise speed and the incident details](https://github.com/SolidGeeks/muster/issues/15)
+- **Repository:** [SolidGeeks/muster](https://github.com/SolidGeeks/muster)
 - **Score:** 83/100
-- **Updated:** 2026-10-25T16:00:47Z
-- **Labels:** enhancement, help wanted, good first issue
+- **Updated:** 2026-10-25T20:35:28Z
+- **Labels:** good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Stage 2: baseline scoring sheet for supervised drills](https://github.com/IkarusAILabs/HaltAI/issues/10)
-- **Repository:** [IkarusAILabs/HaltAI](https://github.com/IkarusAILabs/HaltAI)
+## [Test that READ_ONLY=true blocks every write](https://github.com/SolidGeeks/strata/issues/4)
+- **Repository:** [SolidGeeks/strata](https://github.com/SolidGeeks/strata)
 - **Score:** 83/100
-- **Updated:** 2026-10-25T15:56:40Z
-- **Labels:** documentation, help wanted, good first issue
+- **Updated:** 2026-10-25T19:42:37Z
+- **Labels:** good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -188,26 +168,6 @@ Repositories checked for funding metadata: 12
 - **Repository:** [IkarusAILabs/HaltAI](https://github.com/IkarusAILabs/HaltAI)
 - **Score:** 83/100
 - **Updated:** 2026-10-25T15:56:39Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Check signing and verification against Standard Webhooks vectors](https://github.com/pplytas/good-webhooks/issues/99)
-- **Repository:** [pplytas/good-webhooks](https://github.com/pplytas/good-webhooks)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T15:32:34Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Verify parseWebhook() on Bun and Deno in CI](https://github.com/pplytas/good-webhooks/issues/100)
-- **Repository:** [pplytas/good-webhooks](https://github.com/pplytas/good-webhooks)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T15:24:25Z
 - **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
@@ -224,32 +184,72 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Policy: reading Kubernetes and Vault secret values waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/404)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T08:43:59Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 0
+## [Encountering error "argument list too long" while starting processes in pods, due to too many environment variables for k8s services "*-ui-svc"](https://github.com/kubeflow/spark-operator/issues/2984)
+- **Repository:** [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator)
+- **Score:** 80/100
+- **Updated:** 2026-10-25T20:30:57Z
+- **Labels:** kind/bug, help wanted, good first issue
+- **Comments:** 8
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Policy: turning off AWS audit logging (CloudTrail, GuardDuty, Config) waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/403)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T08:43:57Z
+## [cri-dockerd updated uses pre-release](https://github.com/kubernetes/minikube/issues/23581)
+- **Repository:** [kubernetes/minikube](https://github.com/kubernetes/minikube)
+- **Score:** 80/100
+- **Updated:** 2026-10-25T19:01:05Z
 - **Labels:** help wanted, good first issue
-- **Comments:** 0
+- **Comments:** 3
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Policy: deleting repository secrets or branch protection through gh waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/402)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T08:43:55Z
-- **Labels:** help wanted, good first issue
+## [Migrate DRA components to support granular authorization on status updates](https://github.com/kubernetes/kubernetes/issues/138149)
+- **Repository:** [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+- **Score:** 80/100
+- **Updated:** 2026-10-25T18:41:27Z
+- **Labels:** sig/network, sig/node, sig/auth, help wanted, good first issue, triage/accepted, wg/device-management
+- **Comments:** 92
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Test stopping an incident](https://github.com/SolidGeeks/muster/issues/14)
+- **Repository:** [SolidGeeks/muster](https://github.com/SolidGeeks/muster)
+- **Score:** 78/100
+- **Updated:** 2026-10-25T20:35:27Z
+- **Labels:** good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[CI/CD]: Add Dependabot Configuration for Automated Security Updates](https://github.com/Rafiaminhaj/devpulse-ai/issues/18)
+- **Repository:** [Rafiaminhaj/devpulse-ai](https://github.com/Rafiaminhaj/devpulse-ai)
+- **Score:** 78/100
+- **Updated:** 2026-10-25T16:11:39Z
+- **Labels:** enhancement, help wanted, good first issue, hacktoberfest
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Keep a valid image when an earlier same-name entry cannot be read](https://github.com/Erfouni/solidworks-claude-plugin/issues/6)
+- **Repository:** [Erfouni/solidworks-claude-plugin](https://github.com/Erfouni/solidworks-claude-plugin)
+- **Score:** 78/100
+- **Updated:** 2026-10-25T09:50:06Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [`with` keyword missing](https://github.com/cyberwitchery/metacarp/issues/100)
+- **Repository:** [cyberwitchery/metacarp](https://github.com/cyberwitchery/metacarp)
+- **Score:** 78/100
+- **Updated:** 2026-10-23T21:02:57Z
+- **Labels:** enhancement, good first issue, help wanted
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

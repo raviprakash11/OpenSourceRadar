@@ -1,26 +1,36 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-25T23:13:07.866071+00:00
-Unique issues discovered: 224
+Generated: 2026-10-26T04:40:09.815662+00:00
+Unique issues discovered: 225
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎎 Hacktoberfest Task - Add new Japanese Proverb 1554 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33146)
+## [[good first issue, hacktoberfest] 🎍 Hacktoberfest Task - Add new Dialect Entry 1187 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33153)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-10-25T22:50:50Z
+- **Updated:** 2026-10-26T04:10:53Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3717
+- **Stars:** 3718
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
-- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
+## [[Bug][multi-agent-shared-context]: timeline_inspector's context-retrieval section is always empty - nothing writes context_retrieval episodes](https://github.com/smaramwbc/statewave/issues/485)
+- **Repository:** [smaramwbc/statewave](https://github.com/smaramwbc/statewave)
+- **Score:** 99/100
+- **Updated:** 2026-10-26T04:02:29Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 2
+- **Stars:** 271
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: smaramwbc
+
+## [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
 - **Score:** 95/100
-- **Updated:** 2026-10-25T21:28:14Z
-- **Labels:** help wanted, good first issue, bounty-waiting
-- **Comments:** 4
-- **Stars:** 0
+- **Updated:** 2026-10-26T04:36:20Z
+- **Labels:** kind/enhancement, help wanted, good first issue, issue/willfix, component/extensions, type/visual-design
+- **Comments:** 12
+- **Stars:** 12052
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -34,16 +44,6 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Help wanted: classify another MCP server](https://github.com/TwoMuchLabs/reversibility-classes/issues/5)
-- **Repository:** [TwoMuchLabs/reversibility-classes](https://github.com/TwoMuchLabs/reversibility-classes)
-- **Score:** 95/100
-- **Updated:** 2026-10-25T11:29:50Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 4
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [Add structured CI artifact retention guidance](https://github.com/nexoraorg/chenaikit/issues/327)
 - **Repository:** [nexoraorg/chenaikit](https://github.com/nexoraorg/chenaikit)
 - **Score:** 95/100
@@ -54,33 +54,33 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[good first issue, hacktoberfest] 🏯 Hacktoberfest Task - Add new Japan Fact 898 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33145)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+## [Improve --json reporter](https://github.com/Zerxen-dev/OnboardCI/issues/4)
+- **Repository:** [Zerxen-dev/OnboardCI](https://github.com/Zerxen-dev/OnboardCI)
 - **Score:** 91/100
-- **Updated:** 2026-10-25T22:10:54Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Updated:** 2026-10-26T04:26:26Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add .env.example missing-var detector](https://github.com/Zerxen-dev/OnboardCI/issues/2)
+- **Repository:** [Zerxen-dev/OnboardCI](https://github.com/Zerxen-dev/OnboardCI)
+- **Score:** 91/100
+- **Updated:** 2026-10-26T04:21:59Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[good first issue, hacktoberfest] 🌋 Hacktoberfest Task - Add new Theme: Indigo Shibori (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33143)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+## [DP: fix Laplace calibration (F4) and label post-training mechanisms experimental (F5)](https://github.com/InfiniteZeroFoundation/DevNet/issues/279)
+- **Repository:** [InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)
 - **Score:** 91/100
-- **Updated:** 2026-10-25T21:20:47Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Updated:** 2026-10-26T03:44:30Z
+- **Labels:** good first issue, help wanted
 - **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good first issue, hacktoberfest] 🍤 Hacktoberfest Task - Add new Learner Mistake 487 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33142)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 91/100
-- **Updated:** 2026-10-25T20:40:48Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 4
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -94,43 +94,23 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!](https://github.com/doomsday-network/web3-agent-skills/issues/1)
-- **Repository:** [doomsday-network/web3-agent-skills](https://github.com/doomsday-network/web3-agent-skills)
+## [Add better test coverage for models](https://github.com/EleutherAI/lm-evaluation-harness/issues/1613)
+- **Repository:** [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 - **Score:** 90/100
-- **Updated:** 2026-10-25T23:03:37Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 22
-- **Stars:** 13
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling](https://github.com/shaiananvari8/zeroeye/issues/1)
-- **Repository:** [shaiananvari8/zeroeye](https://github.com/shaiananvari8/zeroeye)
-- **Score:** 90/100
-- **Updated:** 2026-10-25T21:59:38Z
-- **Labels:** help wanted, good first issue, bounty, language:typescript
-- **Comments:** 16
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[$25 BOUNTY] [Python] Add independent log parser fixtures](https://github.com/weilixiong/TentOfTrials/issues/5)
-- **Repository:** [weilixiong/TentOfTrials](https://github.com/weilixiong/TentOfTrials)
-- **Score:** 90/100
-- **Updated:** 2026-10-25T20:41:50Z
-- **Labels:** help wanted, good first issue, bounty, language:python
-- **Comments:** 53
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Feature]: Add support for GetDependencies in api/v3 API](https://github.com/jaegertracing/jaeger/issues/7595)
-- **Repository:** [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
-- **Score:** 90/100
-- **Updated:** 2026-10-25T19:31:03Z
-- **Labels:** enhancement, help wanted, good first issue, area/storage
+- **Updated:** 2026-10-26T03:47:43Z
+- **Labels:** help wanted, feature request, good first issue
 - **Comments:** 7
-- **Stars:** 23339
+- **Stars:** 14316
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [ADD TUTORIALS FOR NEW ACCOUNTS (and an option to re-launch the tutorials)](https://github.com/jthomasw/YABA-2026/issues/37)
+- **Repository:** [jthomasw/YABA-2026](https://github.com/jthomasw/YABA-2026)
+- **Score:** 90/100
+- **Updated:** 2026-10-26T00:45:34Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 3
+- **Stars:** 3
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -144,21 +124,31 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Custom vocabulary: --prompt for names and jargon](https://github.com/phonology024/babelscribe/issues/11)
-- **Repository:** [phonology024/babelscribe](https://github.com/phonology024/babelscribe)
+## [engineering-with-ai: 5 of 6 HN queries return nothing (48h window + points floor too narrow)](https://github.com/kellyaa/agent-newsletter/issues/330)
+- **Repository:** [kellyaa/agent-newsletter](https://github.com/kellyaa/agent-newsletter)
 - **Score:** 86/100
-- **Updated:** 2026-10-25T23:05:31Z
-- **Labels:** enhancement, help wanted, good first issue, roadmap
-- **Comments:** 1
-- **Stars:** 6
+- **Updated:** 2026-10-26T04:33:37Z
+- **Labels:** enhancement, help wanted, good first issue, sources, stage/010-actionable
+- **Comments:** 2
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[ESCROW BOUNTY] 🌐 1,000 DOOM ($wDOOM on Base) — Run a Stealth P2P Validator Peer (run_validator_peer.py) & Mine 1 Pool Share](https://github.com/doomsday-network/doomsday/issues/48)
-- **Repository:** [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday)
+## [enhancement: add --timeout flag to bound network requests](https://github.com/yunaremaia/fx-rate-cli/issues/32)
+- **Repository:** [yunaremaia/fx-rate-cli](https://github.com/yunaremaia/fx-rate-cli)
 - **Score:** 86/100
-- **Updated:** 2026-10-25T22:18:43Z
-- **Labels:** enhancement, help wanted, good first issue, bounty
+- **Updated:** 2026-10-26T03:39:23Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Tracking] QQ 接入：欢迎新人认领](https://github.com/zuiho-kai/bothouse/issues/346)
+- **Repository:** [zuiho-kai/bothouse](https://github.com/zuiho-kai/bothouse)
+- **Score:** 86/100
+- **Updated:** 2026-10-26T02:39:22Z
+- **Labels:** kind/feature, help wanted, good first issue, area/cn-im
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
@@ -194,41 +184,41 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Compare refactor outputs with duplicate-preserving semantics](https://github.com/exmergo/dex/issues/856)
-- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
+## [Update document.title to use Helmet](https://github.com/openedx/frontend-app-authoring/issues/897)
+- **Repository:** [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
 - **Score:** 83/100
-- **Updated:** 2026-10-25T22:12:21Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-26T04:03:56Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Portainer and CasaOS app templates](https://github.com/bekkaze/abusebox/issues/32)
+- **Repository:** [bekkaze/abusebox](https://github.com/bekkaze/abusebox)
+- **Score:** 83/100
+- **Updated:** 2026-10-26T03:14:08Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Report entity loss and key collisions during identifier repairs](https://github.com/exmergo/dex/issues/861)
-- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
+## [Unraid Community Applications template](https://github.com/bekkaze/abusebox/issues/31)
+- **Repository:** [bekkaze/abusebox](https://github.com/bekkaze/abusebox)
 - **Score:** 83/100
-- **Updated:** 2026-10-25T22:12:17Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-26T03:14:06Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Record and verify which behavior survives feature-flag retirement](https://github.com/exmergo/dex/issues/858)
-- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
+## [Add Docker Compose service support](https://github.com/Zerxen-dev/OnboardCI/issues/3)
+- **Repository:** [Zerxen-dev/OnboardCI](https://github.com/Zerxen-dev/OnboardCI)
 - **Score:** 83/100
-- **Updated:** 2026-10-25T22:12:13Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Lead build responses with deliverable coverage and unchecked obligations](https://github.com/exmergo/dex/issues/855)
-- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T22:12:09Z
-- **Labels:** enhancement, good first issue, help wanted, downstream-visible
+- **Updated:** 2026-10-26T01:39:17Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -244,12 +234,22 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Publish Linux ARM64 (aarch64) binaries](https://github.com/skdas20/VaultX/issues/11)
-- **Repository:** [skdas20/VaultX](https://github.com/skdas20/VaultX)
-- **Score:** 83/100
-- **Updated:** 2026-10-25T10:09:21Z
-- **Labels:** help wanted, good first issue
+## [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
+- **Repository:** [tadanobutubutu/screeps](https://github.com/tadanobutubutu/screeps)
+- **Score:** 80/100
+- **Updated:** 2026-10-26T02:22:21Z
+- **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, workflow-health, automated, bot, dependencies, ci, feature, javascript, github-actions, major, test, in-progress, stale, needs-review, security, config, renovate, sonarcloud, codecov, quality-report, chore, needs-triage, ai-solve, bounty
+- **Comments:** 1202
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [security: harden on-disk history cache permissions (0700 dir, 0600 files)](https://github.com/yunaremaia/crypto-price-cli/issues/57)
+- **Repository:** [yunaremaia/crypto-price-cli](https://github.com/yunaremaia/crypto-price-cli)
+- **Score:** 78/100
+- **Updated:** 2026-10-26T03:29:21Z
+- **Labels:** help wanted, good first issue, security
 - **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

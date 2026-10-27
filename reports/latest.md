@@ -1,46 +1,46 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-27T08:55:01.303741+00:00
-Unique issues discovered: 208
+Generated: 2026-10-27T15:19:38.543124+00:00
+Unique issues discovered: 206
 Repositories checked for funding metadata: 12
 
-## [Bedrock throttling fails over to fallback_models with no backoff](https://github.com/The-PR-Agent/pr-agent/issues/4407)
-- **Repository:** [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
-- **Score:** 100/100
-- **Updated:** 2026-10-27T00:00:57Z
-- **Labels:** good first issue, help wanted, error handling, Low Effort Issue, bug
-- **Comments:** 5
-- **Stars:** 13630
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: naorpeled
-
-## [[good first issue, hacktoberfest] 🍱 Hacktoberfest Task - Add new Trivia Question 784 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33211)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+## [Dependency Dashboard](https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151)
+- **Repository:** [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
 - **Score:** 99/100
-- **Updated:** 2026-10-27T08:45:55Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
-- **Stars:** 3727
+- **Updated:** 2026-10-27T09:12:14Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, Security
+- **Comments:** 2
+- **Stars:** 397
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+- **Funding signals:** github: tristanpoland
 
-## [Ship a GitHub Action that fails the job unless a reviewer report ends in an explicit APPROVE](https://github.com/tonydzi/verdict-contract/issues/1)
-- **Repository:** [tonydzi/verdict-contract](https://github.com/tonydzi/verdict-contract)
+## [[scanner] repeat-failure: backend-specific routes (copilot, omp, openhands, muse, agy, aider) and real-run evidence](https://github.com/hivecommons/hive/issues/14559)
+- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
 - **Score:** 95/100
-- **Updated:** 2026-10-27T07:58:33Z
-- **Labels:** help wanted, good first issue, accepted
-- **Comments:** 12
-- **Stars:** 4
+- **Updated:** 2026-10-27T15:11:45Z
+- **Labels:** good first issue, help wanted, agent/scanner, stage/010-actionable
+- **Comments:** 3
+- **Stars:** 77
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Need Cardinality Management Support on Thanos](https://github.com/thanos-io/thanos/issues/6007)
-- **Repository:** [thanos-io/thanos](https://github.com/thanos-io/thanos)
+## [GFI: Remove docs/ from .gitignore / 从 .gitignore 移除 docs/ 规则](https://github.com/AI-WorkDeck/aiworkdeck/issues/1077)
+- **Repository:** [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck)
 - **Score:** 95/100
-- **Updated:** 2026-10-27T07:18:58Z
-- **Labels:** good first issue, difficulty: medium, help wanted, GSoC/Community Bridge/LFX
-- **Comments:** 16
-- **Stars:** 14257
+- **Updated:** 2026-10-27T14:05:57Z
+- **Labels:** help wanted, good first issue, area: docs, priority: medium
+- **Comments:** 3
+- **Stars:** 165
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Remove System Update, Community, Documentation apps](https://github.com/projectbluefin/common/issues/1442)
+- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
+- **Score:** 95/100
+- **Updated:** 2026-10-27T10:59:07Z
+- **Labels:** kind/bug, triage/accepted, good first issue, approved-direction, help wanted, stage/010-actionable
+- **Comments:** 10
+- **Stars:** 32
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -50,87 +50,17 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-27T02:45:44Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 216
-- **Stars:** 9763
+- **Stars:** 9765
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Remove System Update, Community, Documentation apps](https://github.com/projectbluefin/common/issues/1442)
-- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
-- **Score:** 95/100
-- **Updated:** 2026-10-26T22:54:10Z
-- **Labels:** kind/bug, triage/accepted, good first issue, approved-direction, help wanted, stage/010-actionable
-- **Comments:** 10
-- **Stars:** 32
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- **Repository:** [meshery/meshery.io](https://github.com/meshery/meshery.io)
-- **Score:** 95/100
-- **Updated:** 2026-10-25T15:58:50Z
-- **Labels:** good first issue, help wanted, issue/willfix, area/catalog, kubernetes
-- **Comments:** 19
-- **Stars:** 896
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add structured CI artifact retention guidance](https://github.com/nexoraorg/chenaikit/issues/327)
-- **Repository:** [nexoraorg/chenaikit](https://github.com/nexoraorg/chenaikit)
-- **Score:** 95/100
-- **Updated:** 2026-10-25T08:16:30Z
-- **Labels:** documentation, help wanted, good first issue, EASY, security, infrastructure, devops, Maybe Rewarded, GrantFox OSS, Third Campaign
-- **Comments:** 7
-- **Stars:** 16
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [loan-calculator returns Infinity for a zero-year term and drops part years](https://github.com/theluckystrike/mcp-servers/issues/90)
-- **Repository:** [theluckystrike/mcp-servers](https://github.com/theluckystrike/mcp-servers)
+## [[Upstream #155] [Marketing] Add Fasten to Awesome* lists](https://github.com/karamhouse/chartrove/issues/51)
+- **Repository:** [karamhouse/chartrove](https://github.com/karamhouse/chartrove)
 - **Score:** 91/100
-- **Updated:** 2026-10-27T08:47:24Z
-- **Labels:** help wanted, good first issue, hacktoberfest
+- **Updated:** 2026-10-27T13:51:09Z
+- **Labels:** good first issue, help wanted, upstream-import
 - **Comments:** 1
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [google: a Drive file's keys come in Backlot's build order, where real orders a listing's entries one way and a read by id another](https://github.com/brekkylab/backlot/issues/1078)
-- **Repository:** [brekkylab/backlot](https://github.com/brekkylab/backlot)
-- **Score:** 91/100
-- **Updated:** 2026-10-27T07:55:50Z
-- **Labels:** good first issue, help wanted, fidelity, hacktoberfest
-- **Comments:** 1
-- **Stars:** 259
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [EventListener loglevel would be more specific](https://github.com/tektoncd/triggers/issues/1666)
-- **Repository:** [tektoncd/triggers](https://github.com/tektoncd/triggers)
-- **Score:** 91/100
-- **Updated:** 2026-10-27T06:09:35Z
-- **Labels:** help wanted, good first issue, kind/cleanup
-- **Comments:** 2
-- **Stars:** 594
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(markdown): preserve multiline code spans inside details](https://github.com/eugenioenko/ttt/issues/1226)
-- **Repository:** [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
-- **Score:** 91/100
-- **Updated:** 2026-10-27T05:54:25Z
-- **Labels:** bug, help wanted, good first issue, low priority
-- **Comments:** 1
-- **Stars:** 903
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Dependency Dashboard](https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151)
-- **Repository:** [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
-- **Score:** 91/100
-- **Updated:** 2026-10-27T04:32:15Z
-- **Labels:** documentation, enhancement, good first issue, help wanted, Security
-- **Comments:** 2
-- **Stars:** not checked
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -140,8 +70,38 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-26T12:00:28Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 102
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- **Repository:** [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+- **Score:** 90/100
+- **Updated:** 2026-10-27T15:17:58Z
+- **Labels:** bug, documentation, good first issue, help wanted, bug bounty, AI agent friendly, bounty, 💎 Bounty, $700
+- **Comments:** 1451
+- **Stars:** 342
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- **Repository:** [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+- **Score:** 90/100
+- **Updated:** 2026-10-27T15:11:43Z
+- **Labels:** good first issue, help wanted, bug bounty, AI agent friendly, bounty, 💎 Bounty, $750
+- **Comments:** 210
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [GDM loading screen when steam has an update when using Steam OS mode](https://github.com/projectbluefin/common/issues/1416)
+- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
+- **Score:** 90/100
+- **Updated:** 2026-10-27T11:22:29Z
+- **Labels:** kind/feature, triage/accepted, good first issue, approved-direction, help wanted, stage/010-actionable, stage/stalled
+- **Comments:** 13
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Spot-check rates against the AWS Price List API](https://github.com/awslabs/aws-service-extended-support-pricing/issues/7)
@@ -150,55 +110,75 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-27T03:06:50Z
 - **Labels:** good first issue, help wanted
 - **Comments:** 7
-- **Stars:** not checked
+- **Stars:** 6
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [GDM loading screen when steam has an update when using Steam OS mode](https://github.com/projectbluefin/common/issues/1416)
-- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
-- **Score:** 90/100
-- **Updated:** 2026-10-26T19:07:46Z
-- **Labels:** kind/feature, triage/accepted, good first issue, approved-direction, help wanted, stage/010-actionable
-- **Comments:** 12
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+## [[SCF high][easy] Add an automated accessibility smoke test for policy editing](https://github.com/Fortexa-stellar/Fortexa/issues/361)
+- **Repository:** [Fortexa-stellar/Fortexa](https://github.com/Fortexa-stellar/Fortexa)
+- **Score:** 86/100
+- **Updated:** 2026-10-27T15:18:27Z
+- **Labels:** enhancement, help wanted, good first issue, priority: high
+- **Comments:** 1
+- **Stars:** 6
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [VS Code plugin: after "Clear URL", the Hub status bar still says "Click to reconnect"](https://github.com/finos/architecture-as-code/issues/3523)
-- **Repository:** [finos/architecture-as-code](https://github.com/finos/architecture-as-code)
+## [[SCF high][easy] Add structured bug-report issue forms](https://github.com/Fortexa-stellar/Fortexa/issues/358)
+- **Repository:** [Fortexa-stellar/Fortexa](https://github.com/Fortexa-stellar/Fortexa)
 - **Score:** 86/100
-- **Updated:** 2026-10-27T08:51:16Z
-- **Labels:** good first issue, help wanted, vscode
+- **Updated:** 2026-10-27T15:18:25Z
+- **Labels:** documentation, help wanted, good first issue, priority: high, security
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add sqlmock-based tests for the dbqueries package](https://github.com/scribe-org/Scribe-Server/issues/130)
-- **Repository:** [scribe-org/Scribe-Server](https://github.com/scribe-org/Scribe-Server)
+## [[SCF high][easy] Add an automated accessibility smoke test for login](https://github.com/Fortexa-stellar/Fortexa/issues/359)
+- **Repository:** [Fortexa-stellar/Fortexa](https://github.com/Fortexa-stellar/Fortexa)
 - **Score:** 86/100
-- **Updated:** 2026-10-27T08:46:24Z
-- **Labels:** good first issue, help wanted, testing
+- **Updated:** 2026-10-27T15:18:22Z
+- **Labels:** enhancement, help wanted, good first issue, priority: high
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [ci: lint GitHub Actions workflows with actionlint](https://github.com/soroworks/sorovault/issues/175)
-- **Repository:** [soroworks/sorovault](https://github.com/soroworks/sorovault)
+## [[SCF high][easy] Add a dependency license allowlist check](https://github.com/Fortexa-stellar/Fortexa/issues/351)
+- **Repository:** [Fortexa-stellar/Fortexa](https://github.com/Fortexa-stellar/Fortexa)
 - **Score:** 86/100
-- **Updated:** 2026-10-27T06:18:06Z
-- **Labels:** good first issue, help wanted, complexity: trivial, drips-wave, 100 points, ci
+- **Updated:** 2026-10-27T15:18:21Z
+- **Labels:** help wanted, good first issue, priority: high, security
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [List Evergreen on the pre-commit hooks directory](https://github.com/arminazimi/evergreen/issues/286)
-- **Repository:** [arminazimi/evergreen](https://github.com/arminazimi/evergreen)
+## [[SCF high][easy] Add direct route tests for the Stellar pay endpoint](https://github.com/Fortexa-stellar/Fortexa/issues/356)
+- **Repository:** [Fortexa-stellar/Fortexa](https://github.com/Fortexa-stellar/Fortexa)
 - **Score:** 86/100
-- **Updated:** 2026-10-25T17:29:21Z
-- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: XS, type: docs, status: blocked, area: community
+- **Updated:** 2026-10-27T15:18:19Z
+- **Labels:** help wanted, good first issue, priority: high, security
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[SCF high][easy] Add an application error boundary for authenticated pages](https://github.com/Fortexa-stellar/Fortexa/issues/357)
+- **Repository:** [Fortexa-stellar/Fortexa](https://github.com/Fortexa-stellar/Fortexa)
+- **Score:** 86/100
+- **Updated:** 2026-10-27T15:18:18Z
+- **Labels:** help wanted, good first issue, priority: high, security
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Upstream #315] This is a great thing that you publish can I encourage you toward creating a "loosening guide"](https://github.com/karamhouse/chartrove/issues/88)
+- **Repository:** [karamhouse/chartrove](https://github.com/karamhouse/chartrove)
+- **Score:** 86/100
+- **Updated:** 2026-10-27T13:52:55Z
+- **Labels:** documentation, good first issue, help wanted, upstream-import
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
@@ -207,49 +187,69 @@ Repositories checked for funding metadata: 12
 ## [Submit Evergreen to relevant awesome lists](https://github.com/arminazimi/evergreen/issues/297)
 - **Repository:** [arminazimi/evergreen](https://github.com/arminazimi/evergreen)
 - **Score:** 86/100
-- **Updated:** 2026-10-25T17:29:06Z
-- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: XS, type: docs, status: blocked, area: community
+- **Updated:** 2026-10-27T09:54:34Z
+- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: XS, type: docs, area: community
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Property date compare treats a date-time as later than its own day](https://github.com/theluckystrike/search-operators/issues/3)
-- **Repository:** [theluckystrike/search-operators](https://github.com/theluckystrike/search-operators)
+## [bug: --check reports CRLF-formatted files as not formatted; --in-place rewrites line endings](https://github.com/yunaremaia/jsonfmt-cli/issues/22)
+- **Repository:** [yunaremaia/jsonfmt-cli](https://github.com/yunaremaia/jsonfmt-cli)
 - **Score:** 83/100
-- **Updated:** 2026-10-27T08:39:11Z
-- **Labels:** help wanted, good first issue, hacktoberfest
+- **Updated:** 2026-10-27T14:21:25Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [enhancement: --precision flag to round converted/output rates](https://github.com/yunaremaia/fx-rate-cli/issues/58)
+- **Repository:** [yunaremaia/fx-rate-cli](https://github.com/yunaremaia/fx-rate-cli)
+- **Score:** 83/100
+- **Updated:** 2026-10-27T13:47:36Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## ["Go from a footnote definition to its reference" fails on the second line of a multi-line definition](https://github.com/theluckystrike/callout-table-footnotes/issues/3)
-- **Repository:** [theluckystrike/callout-table-footnotes](https://github.com/theluckystrike/callout-table-footnotes)
+## [Prepare the launch kit](https://github.com/arminazimi/evergreen/issues/314)
+- **Repository:** [arminazimi/evergreen](https://github.com/arminazimi/evergreen)
 - **Score:** 83/100
-- **Updated:** 2026-10-27T08:39:01Z
-- **Labels:** help wanted, good first issue, hacktoberfest
+- **Updated:** 2026-10-27T09:55:11Z
+- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: S, type: docs, area: community
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Footnote check says "all 0 have a reference" on a note with no footnotes](https://github.com/theluckystrike/callout-table-footnotes/issues/2)
-- **Repository:** [theluckystrike/callout-table-footnotes](https://github.com/theluckystrike/callout-table-footnotes)
-- **Score:** 83/100
-- **Updated:** 2026-10-27T08:38:56Z
-- **Labels:** help wanted, good first issue, hacktoberfest
-- **Comments:** 0
+## [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- **Repository:** [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+- **Score:** 82/100
+- **Updated:** 2026-10-27T15:08:49Z
+- **Labels:** good first issue, help wanted, bug bounty, AI agent friendly, bounty, 💎 Bounty, $780
+- **Comments:** 486
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Detector misses encrypted and PGP private keys and fine-grained GitHub tokens](https://github.com/theluckystrike/zovo-redact/issues/2)
-- **Repository:** [theluckystrike/zovo-redact](https://github.com/theluckystrike/zovo-redact)
-- **Score:** 83/100
-- **Updated:** 2026-10-27T08:38:12Z
-- **Labels:** help wanted, good first issue, hacktoberfest
-- **Comments:** 0
+## [Create issue templates](https://github.com/the-penguins-club/hartal/issues/18)
+- **Repository:** [the-penguins-club/hartal](https://github.com/the-penguins-club/hartal)
+- **Score:** 82/100
+- **Updated:** 2026-10-27T14:52:50Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 3
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Make the LiteLLM handler the only retry layer: backoff on 429/5xx/connection errors, num_retries as the attempt count](https://github.com/The-PR-Agent/pr-agent/issues/4407)
+- **Repository:** [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- **Score:** 80/100
+- **Updated:** 2026-10-27T12:06:10Z
+- **Labels:** good first issue, help wanted, error handling, Low Effort Issue, bug
+- **Comments:** 7
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata

@@ -1,46 +1,66 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-29T00:53:01.041041+00:00
-Unique issues discovered: 216
+Generated: 2026-10-29T09:52:41.408158+00:00
+Unique issues discovered: 215
 Repositories checked for funding metadata: 12
-
-## [[good first issue, hacktoberfest] 🍶 Hacktoberfest Task - Add new Japan Fact 2408 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33290)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 99/100
-- **Updated:** 2026-10-29T00:45:49Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
-- **Stars:** 3740
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 ## [Dependency Dashboard](https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151)
 - **Repository:** [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
 - **Score:** 99/100
-- **Updated:** 2026-10-28T17:59:26Z
+- **Updated:** 2026-10-29T03:06:54Z
 - **Labels:** documentation, enhancement, good first issue, help wanted, Security
 - **Comments:** 2
 - **Stars:** 400
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: tristanpoland
 
-## [Upgrade to Next.js 15 and Fastify 5](https://github.com/DanielKim03/mentaagent/issues/1)
-- **Repository:** [DanielKim03/mentaagent](https://github.com/DanielKim03/mentaagent)
+## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
+- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
 - **Score:** 95/100
-- **Updated:** 2026-10-29T00:50:21Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 85
-- **Stars:** 3
+- **Updated:** 2026-10-29T09:03:12Z
+- **Labels:** help wanted, good first issue, bounty-waiting
+- **Comments:** 4
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Improve the 2026 mobile layout](https://github.com/JollyJolli/HacktoberWall/issues/249)
-- **Repository:** [JollyJolli/HacktoberWall](https://github.com/JollyJolli/HacktoberWall)
+## [[Umbrella][Improve] Migrate Connector/Transform Validation to Declarative OptionRule — Claim & Tracking](https://github.com/apache/seatunnel/issues/11007)
+- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
+- **Score:** 95/100
+- **Updated:** 2026-10-29T03:09:19Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 218
+- **Stars:** 9771
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Motion: make every animation honour prefers-reduced-motion](https://github.com/yakew7/DesignHub/issues/465)
+- **Repository:** [yakew7/DesignHub](https://github.com/yakew7/DesignHub)
+- **Score:** 91/100
+- **Updated:** 2026-10-29T09:44:56Z
+- **Labels:** accessibility, enhancement, help wanted, good first issue, difficulty: easy, area: ui, v2.0.0
+- **Comments:** 1
+- **Stars:** 33
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Weather example: all the weather codes](https://github.com/farena-ai/sara/issues/3)
+- **Repository:** [farena-ai/sara](https://github.com/farena-ai/sara)
+- **Score:** 91/100
+- **Updated:** 2026-10-29T09:13:09Z
+- **Labels:** help wanted, good first issue, area: coding
+- **Comments:** 1
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Feature][Connector] Add connectors for these datasources](https://github.com/apache/seatunnel/issues/10443)
+- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
 - **Score:** 90/100
-- **Updated:** 2026-10-28T22:58:04Z
-- **Labels:** enhancement, help wanted, good first issue, hacktoberfest, hacktoberfest-accepted, hacktoberfest2026
-- **Comments:** 5
-- **Stars:** 37
+- **Updated:** 2026-10-29T02:07:16Z
+- **Labels:** help wanted, good first issue, feature
+- **Comments:** 56
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -50,7 +70,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-28T17:19:15Z
 - **Labels:** help wanted, priority/medium, kind/documentation, good first issue, stage/010-actionable, stage/stalled
 - **Comments:** 2
-- **Stars:** 726
+- **Stars:** 725
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -64,141 +84,81 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/static-gtfs-sources/{source_id} (E36)](https://github.com/OneBusAway/watchdog/issues/250)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [Add arrow key navigation between effect cards](https://github.com/pemalama12/glitch-camera/issues/2)
+- **Repository:** [pemalama12/glitch-camera](https://github.com/pemalama12/glitch-camera)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:52:31Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T09:30:29Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 26
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/vehicle-anomaly-rule-versions/{rule_version_id} (E33)](https://github.com/OneBusAway/watchdog/issues/247)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [[Docs] Create IndexedDB Migration and Schema Upgrade Failure Runbook](https://github.com/TheVicky1/Pact_OS/issues/289)
+- **Repository:** [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:52:20Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T09:20:23Z
+- **Labels:** documentation, help wanted, good first issue, hacktoberfest
 - **Comments:** 0
-- **Stars:** not checked
+- **Stars:** 35
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/vehicle-anomaly-types/{anomaly_code} (E31)](https://github.com/OneBusAway/watchdog/issues/245)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [fix(gemini): Include reasoning tokens in normalized usage accounting](https://github.com/BAGOMBEKA-JOB-DEV/skyl/issues/99)
+- **Repository:** [BAGOMBEKA-JOB-DEV/skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:52:14Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T08:13:10Z
+- **Labels:** documentation, enhancement, help wanted, good first issue, go
 - **Comments:** 0
-- **Stars:** not checked
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/vehicle-anomaly-types (E30)](https://github.com/OneBusAway/watchdog/issues/244)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [example: Add a multi-provider AI model comparison example](https://github.com/BAGOMBEKA-JOB-DEV/skyl/issues/98)
+- **Repository:** [BAGOMBEKA-JOB-DEV/skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:52:10Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/bounding-box-versions/{bounding_box_version_id} (E29)](https://github.com/OneBusAway/watchdog/issues/243)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 83/100
-- **Updated:** 2026-10-29T00:52:06Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T08:12:46Z
+- **Labels:** documentation, enhancement, help wanted, good first issue, go
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/vehicle-position-responses/{response_id} (E28)](https://github.com/OneBusAway/watchdog/issues/242)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [example: Build a simple interactive AI chat CLI using Skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl/issues/97)
+- **Repository:** [BAGOMBEKA-JOB-DEV/skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:52:02Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T08:12:18Z
+- **Labels:** documentation, enhancement, help wanted, good first issue, go
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/vehicle-position-evidence/{evidence_id} (E27)](https://github.com/OneBusAway/watchdog/issues/241)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [example: Demonstrate integrating Skyl into a Go HTTP service](https://github.com/BAGOMBEKA-JOB-DEV/skyl/issues/96)
+- **Repository:** [BAGOMBEKA-JOB-DEV/skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:51:59Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T08:00:21Z
+- **Labels:** documentation, enhancement, help wanted, good first issue, go
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/vehicles/{vehicle_entity_id} (E22)](https://github.com/OneBusAway/watchdog/issues/236)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [docs: Add structured JSON output examples for OpenAI and Gemini](https://github.com/BAGOMBEKA-JOB-DEV/skyl/issues/95)
+- **Repository:** [BAGOMBEKA-JOB-DEV/skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:51:41Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T07:59:40Z
+- **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Investigation API: GET /v1/reported-trips/{reported_trip_id} (E12)](https://github.com/OneBusAway/watchdog/issues/226)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+## [docs: Add a complete multi-turn AI tool-calling example](https://github.com/BAGOMBEKA-JOB-DEV/skyl/issues/93)
+- **Repository:** [BAGOMBEKA-JOB-DEV/skyl](https://github.com/BAGOMBEKA-JOB-DEV/skyl)
 - **Score:** 83/100
-- **Updated:** 2026-10-29T00:51:05Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/reported-stops/{reported_stop_id} (E09)](https://github.com/OneBusAway/watchdog/issues/223)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 83/100
-- **Updated:** 2026-10-29T00:50:55Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/vehicle-position-endpoints/{endpoint_id} (E07)](https://github.com/OneBusAway/watchdog/issues/221)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 83/100
-- **Updated:** 2026-10-29T00:50:48Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/agencies/{agency_id} (E05)](https://github.com/OneBusAway/watchdog/issues/219)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 83/100
-- **Updated:** 2026-10-29T00:50:41Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/servers/{server_id} (E03)](https://github.com/OneBusAway/watchdog/issues/217)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 83/100
-- **Updated:** 2026-10-29T00:50:34Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/investigation (E01)](https://github.com/OneBusAway/watchdog/issues/215)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 83/100
-- **Updated:** 2026-10-29T00:50:27Z
-- **Labels:** enhancement, good first issue, help wanted
+- **Updated:** 2026-10-29T07:58:26Z
+- **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -230,7 +190,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-28T18:58:58Z
 - **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -240,7 +200,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-28T14:51:29Z
 - **Labels:** documentation, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 3
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -252,4 +212,44 @@ Repositories checked for funding metadata: 12
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[good first issue, hacktoberfest] 🎋 Hacktoberfest Task - Add new Grammar Point 1397 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33311)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 80/100
+- **Updated:** 2026-10-29T09:46:26Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Auto-merge Dependabot PRs when CI passes](https://github.com/kubeflow/trainer/issues/4347)
+- **Repository:** [kubeflow/trainer](https://github.com/kubeflow/trainer)
+- **Score:** 80/100
+- **Updated:** 2026-10-29T09:32:43Z
+- **Labels:** help wanted, good first issue, kind/feature, area/engprod
+- **Comments:** 5
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[good first issue, hacktoberfest] 🥢 Hacktoberfest Task - Add new Japan Fact 149 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33307)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 80/100
+- **Updated:** 2026-10-29T09:03:37Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Content Review]: Ch 6.6 — Query Decomposition and Adaptive Retrieval](https://github.com/GSA/MasteringAgenticAISystems_supplementals/issues/82)
+- **Repository:** [GSA/MasteringAgenticAISystems_supplementals](https://github.com/GSA/MasteringAgenticAISystems_supplementals)
+- **Score:** 80/100
+- **Updated:** 2026-10-29T00:34:34Z
+- **Labels:** good first issue, help wanted, track:content-review, effort:small, topic:planning-search, topic:rag-retrieval, part:06, artifact:chapter-text
+- **Comments:** 4
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata

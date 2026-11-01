@@ -1,18 +1,48 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-01T00:05:12.872696+00:00
-Unique issues discovered: 221
+Generated: 2026-11-01T05:56:16.249114+00:00
+Unique issues discovered: 212
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎋 Hacktoberfest Task - Add new Video Game Quote 160 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33422)
+## [[good first issue, hacktoberfest] 🍘 Hacktoberfest Task - Add new Japan Fact 2080 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33431)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-10-31T23:31:16Z
+- **Updated:** 2026-11-01T05:31:03Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
 - **Stars:** 3769
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+
+## [Reference reports wanted: nine of the twelve recorded studies have none, and score_report needs them](https://github.com/Rekin226/aquascope/issues/441)
+- **Repository:** [Rekin226/aquascope](https://github.com/Rekin226/aquascope)
+- **Score:** 99/100
+- **Updated:** 2026-11-01T05:06:16Z
+- **Labels:** help wanted, good first issue, methodology, testing
+- **Comments:** 1
+- **Stars:** 31
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: [Rekin226]              # Apply at https://github.com/sponsors — button stays hidden until approved; ko_fi: getaquascope             # ko-fi.com/getaquascope
+
+## [Theme coverage: make the remaining widgets read the frame's theme](https://github.com/thebanri/limoni/issues/97)
+- **Repository:** [thebanri/limoni](https://github.com/thebanri/limoni)
+- **Score:** 98/100
+- **Updated:** 2026-11-01T05:45:45Z
+- **Labels:** help wanted, good first issue, widget
+- **Comments:** 5
+- **Stars:** 187
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** buy_me_a_coffee: thebanri
+
+## [Allow users to specify a Storage Class when backing up to S3](https://github.com/velero-io/velero/issues/3137)
+- **Repository:** [velero-io/velero](https://github.com/velero-io/velero)
+- **Score:** 95/100
+- **Updated:** 2026-11-01T04:18:44Z
+- **Labels:** Help wanted, Area/Cloud/AWS, Enhancement/User, Good first issue, Reviewed Q2 2021, kind/requirement
+- **Comments:** 8
+- **Stars:** 10364
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
 
 ## [Improve `:all` bottle coverage](https://github.com/Homebrew/homebrew-core/issues/191352)
 - **Repository:** [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
@@ -24,23 +54,13 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [docs(i18n): community translation guide and language template](https://github.com/antropos17/Aegis/issues/57)
-- **Repository:** [antropos17/Aegis](https://github.com/antropos17/Aegis)
-- **Score:** 91/100
-- **Updated:** 2026-10-31T23:08:37Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 160
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: antropos17
-
 ## [Bug: with a DynamoDB composite key, DataRecord.idempotency_key is the static partition key value](https://github.com/aws-powertools/powertools-lambda-python/issues/8724)
 - **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
 - **Score:** 91/100
 - **Updated:** 2026-10-31T22:50:05Z
 - **Labels:** bug, good first issue, help wanted, idempotency
 - **Comments:** 2
-- **Stars:** 3302
+- **Stars:** 3303
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -50,16 +70,6 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-31T22:50:02Z
 - **Labels:** bug, good first issue, help wanted, idempotency
 - **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good first issue, hacktoberfest] ⛩️ Hacktoberfest Task - Add new Anime Quote 567 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33421)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 91/100
-- **Updated:** 2026-10-31T22:45:52Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
@@ -74,23 +84,33 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Good first research task: compare real physical-redemption minimums and costs](https://github.com/Christopher-Charman/open-resource-dividend/issues/10)
-- **Repository:** [Christopher-Charman/open-resource-dividend](https://github.com/Christopher-Charman/open-resource-dividend)
-- **Score:** 90/100
-- **Updated:** 2026-10-31T23:14:22Z
-- **Labels:** documentation, help wanted, good first issue
-- **Comments:** 3
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling](https://github.com/shaiananvari8/zeroeye/issues/1)
 - **Repository:** [shaiananvari8/zeroeye](https://github.com/shaiananvari8/zeroeye)
 - **Score:** 90/100
-- **Updated:** 2026-10-31T23:10:12Z
+- **Updated:** 2026-11-01T05:30:00Z
 - **Labels:** help wanted, good first issue, bounty, language:typescript
-- **Comments:** 21
+- **Comments:** 29
 - **Stars:** 1
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: output_serializer=PydanticSerializer crashes at import under from __future__ import annotations](https://github.com/aws-powertools/powertools-lambda-python/issues/8722)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 90/100
+- **Updated:** 2026-11-01T05:21:56Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 5
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: POWERTOOLS_IDEMPOTENCY_DISABLED set to an empty or non-boolean value crashes every invocation](https://github.com/aws-powertools/powertools-lambda-python/issues/8728)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 90/100
+- **Updated:** 2026-11-01T04:11:54Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 3
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -104,14 +124,24 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Lesson feedback] Git 速成 · 沙盒第 2 步引号歧义；清理小节的 PowerShell 版本排在 macOS / Linux 平台之后](https://github.com/AIwork4me/first-pr-playbook/issues/7)
-- **Repository:** [AIwork4me/first-pr-playbook](https://github.com/AIwork4me/first-pr-playbook)
-- **Score:** 87/100
-- **Updated:** 2026-10-31T23:22:30Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 3
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, updated in the last week
+## [[Tracking] QQ 接入：欢迎新人认领](https://github.com/zuiho-kai/bothouse/issues/346)
+- **Repository:** [zuiho-kai/bothouse](https://github.com/zuiho-kai/bothouse)
+- **Score:** 86/100
+- **Updated:** 2026-11-01T05:37:48Z
+- **Labels:** kind/feature, help wanted, good first issue, area/cn-im
+- **Comments:** 2
+- **Stars:** 43
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: Redis orphan lock timeout ignores expires_after_seconds and is always 10 seconds](https://github.com/aws-powertools/powertools-lambda-python/issues/8726)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-11-01T02:16:01Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Bug: idempotency payloads with set, frozenset or bytes fields cannot be hashed](https://github.com/aws-powertools/powertools-lambda-python/issues/8725)
@@ -134,42 +164,12 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Bug: POWERTOOLS_IDEMPOTENCY_DISABLED set to an empty or non-boolean value crashes every invocation](https://github.com/aws-powertools/powertools-lambda-python/issues/8728)
-- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
-- **Score:** 86/100
-- **Updated:** 2026-10-31T22:55:25Z
-- **Labels:** bug, good first issue, help wanted, idempotency
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Bug: output_serializer=PydanticSerializer crashes at import under from __future__ import annotations](https://github.com/aws-powertools/powertools-lambda-python/issues/8722)
-- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
-- **Score:** 86/100
-- **Updated:** 2026-10-31T22:50:04Z
-- **Labels:** bug, good first issue, help wanted, idempotency
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [Bug: DataclassSerializer cannot save datetime/UUID fields and does not rebuild nested dataclasses on replay](https://github.com/aws-powertools/powertools-lambda-python/issues/8723)
 - **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
 - **Score:** 86/100
 - **Updated:** 2026-10-31T22:37:09Z
 - **Labels:** bug, good first issue, help wanted, idempotency
 - **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Bug: Redis orphan lock timeout ignores expires_after_seconds and is always 10 seconds](https://github.com/aws-powertools/powertools-lambda-python/issues/8726)
-- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
-- **Score:** 86/100
-- **Updated:** 2026-10-31T22:36:47Z
-- **Labels:** bug, good first issue, help wanted, idempotency
-- **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
@@ -200,56 +200,56 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-28T17:19:15Z
 - **Labels:** help wanted, priority/medium, kind/documentation, good first issue, stage/010-actionable, stage/stalled
 - **Comments:** 2
-- **Stars:** 726
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [docs: explain the returned-result comparison workflow in Local security](https://github.com/antropos17/Aegis/issues/1221)
-- **Repository:** [antropos17/Aegis](https://github.com/antropos17/Aegis)
+## [Add contributor-friendly GitHub issue templates](https://github.com/hesham-m/IntentChord/issues/1)
+- **Repository:** [hesham-m/IntentChord](https://github.com/hesham-m/IntentChord)
 - **Score:** 83/100
-- **Updated:** 2026-10-31T23:04:08Z
+- **Updated:** 2026-11-01T05:11:48Z
 - **Labels:** documentation, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add Azure DevOps pipeline example](https://github.com/eyadstein/leaklens/issues/232)
-- **Repository:** [eyadstein/leaklens](https://github.com/eyadstein/leaklens)
+## [feat(voice): validate audio uploads, enforce Whisper timeout, and report voice status in doctor](https://github.com/RANJITHROSAN17/Pinch/issues/43)
+- **Repository:** [RANJITHROSAN17/Pinch](https://github.com/RANJITHROSAN17/Pinch)
 - **Score:** 83/100
-- **Updated:** 2026-10-31T21:35:29Z
-- **Labels:** enhancement, help wanted, good first issue, difficulty: easy, integrations, batch-1
+- **Updated:** 2026-11-01T05:06:40Z
+- **Labels:** help wanted, good first issue, roadmap, area/voice
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Publish hop on winget](https://github.com/morganseznec/hop/issues/25)
-- **Repository:** [morganseznec/hop](https://github.com/morganseznec/hop)
+## [feat(explainability): surface fold dispersion (mean ± SD, Brier, PR-AUC) per vessel head in UI and API](https://github.com/RANJITHROSAN17/cardiolens-3d-risk/issues/6)
+- **Repository:** [RANJITHROSAN17/cardiolens-3d-risk](https://github.com/RANJITHROSAN17/cardiolens-3d-risk)
 - **Score:** 83/100
-- **Updated:** 2026-10-31T17:02:13Z
-- **Labels:** enhancement, help wanted, good first issue
+- **Updated:** 2026-11-01T05:06:40Z
+- **Labels:** help wanted, good first issue, roadmap, difficulty/easy, area/model, type/explainability
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Publish a Scoop manifest for Windows](https://github.com/morganseznec/hop/issues/24)
-- **Repository:** [morganseznec/hop](https://github.com/morganseznec/hop)
+## [test(safety): enforce schema parity between src/validation.js and backend/app/main.py](https://github.com/RANJITHROSAN17/cardiolens-3d-risk/issues/5)
+- **Repository:** [RANJITHROSAN17/cardiolens-3d-risk](https://github.com/RANJITHROSAN17/cardiolens-3d-risk)
 - **Score:** 83/100
-- **Updated:** 2026-10-31T17:02:12Z
-- **Labels:** enhancement, help wanted, good first issue
+- **Updated:** 2026-11-01T05:06:39Z
+- **Labels:** help wanted, good first issue, roadmap, difficulty/easy, area/api, area/safety, type/reproducibility
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Test on KDE Plasma and report what doctor says](https://github.com/ajithakdev/claude-desktop-rpm/issues/2)
-- **Repository:** [ajithakdev/claude-desktop-rpm](https://github.com/ajithakdev/claude-desktop-rpm)
+## [test: extend encoding coverage to BOMs, mixed line endings and round-trips](https://github.com/RANJITHROSAN17/morrow-editor/issues/14)
+- **Repository:** [RANJITHROSAN17/morrow-editor](https://github.com/RANJITHROSAN17/morrow-editor)
 - **Score:** 83/100
-- **Updated:** 2026-10-31T12:12:20Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 1
+- **Updated:** 2026-11-01T05:06:37Z
+- **Labels:** help wanted, good first issue, roadmap, area/editor
+- **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

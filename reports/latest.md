@@ -1,86 +1,66 @@
 # OpenSourceRadar report
 
-Generated: 2026-10-31T19:16:00.721610+00:00
-Unique issues discovered: 214
+Generated: 2026-11-01T00:05:12.872696+00:00
+Unique issues discovered: 221
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎑 Hacktoberfest Task - Add new Theme: Autumn Maple (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33413)
+## [[good first issue, hacktoberfest] 🎋 Hacktoberfest Task - Add new Video Game Quote 160 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33422)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-10-31T18:50:51Z
+- **Updated:** 2026-10-31T23:31:16Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3763
+- **Stars:** 3769
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-## [Dependency Dashboard](https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151)
-- **Repository:** [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
-- **Score:** 99/100
-- **Updated:** 2026-10-31T01:17:45Z
-- **Labels:** documentation, enhancement, good first issue, help wanted, Security
-- **Comments:** 2
-- **Stars:** 402
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: tristanpoland
-
-## [Example: a CrewAI crew on the dev signer (examples/v2/crewai)](https://github.com/Cygnux-Labs/Tracekit/issues/391)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [Improve `:all` bottle coverage](https://github.com/Homebrew/homebrew-core/issues/191352)
+- **Repository:** [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 - **Score:** 95/100
-- **Updated:** 2026-10-31T18:49:44Z
+- **Updated:** 2026-10-31T20:29:52Z
 - **Labels:** help wanted, good first issue
-- **Comments:** 5
-- **Stars:** 359
+- **Comments:** 9
+- **Stars:** 15651
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [🟢 Good First Issue: Add a New Tool to Dev Utilities Sandbox](https://github.com/shamilahmdt/devtasks/issues/193)
-- **Repository:** [shamilahmdt/devtasks](https://github.com/shamilahmdt/devtasks)
-- **Score:** 95/100
-- **Updated:** 2026-10-31T17:33:52Z
-- **Labels:** enhancement, help wanted, good first issue, ui, workflow, Beginner Friendly
-- **Comments:** 40
-- **Stars:** 68
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
+## [docs(i18n): community translation guide and language template](https://github.com/antropos17/Aegis/issues/57)
+- **Repository:** [antropos17/Aegis](https://github.com/antropos17/Aegis)
+- **Score:** 91/100
+- **Updated:** 2026-10-31T23:08:37Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 160
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: antropos17
 
-## [Accessibility: audit keyboard navigation and focus styles](https://github.com/rf24kja/24GO.top/issues/7)
-- **Repository:** [rf24kja/24GO.top](https://github.com/rf24kja/24GO.top)
-- **Score:** 95/100
-- **Updated:** 2026-10-31T17:30:38Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 13
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Umbrella][Improve] Migrate Connector/Transform Validation to Declarative OptionRule — Claim & Tracking](https://github.com/apache/seatunnel/issues/11007)
-- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
-- **Score:** 95/100
-- **Updated:** 2026-10-31T05:37:29Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 222
-- **Stars:** 9777
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Bug: AppSync identity from a Lambda authorizer (AWS_LAMBDA) is wrapped in AppSyncIdentityIAM](https://github.com/aws-powertools/powertools-lambda-python/issues/8718)
+## [Bug: with a DynamoDB composite key, DataRecord.idempotency_key is the static partition key value](https://github.com/aws-powertools/powertools-lambda-python/issues/8724)
 - **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
 - **Score:** 91/100
-- **Updated:** 2026-10-31T18:35:33Z
-- **Labels:** bug, good first issue, help wanted, event_sources
+- **Updated:** 2026-10-31T22:50:05Z
+- **Labels:** bug, good first issue, help wanted, idempotency
 - **Comments:** 2
 - **Stars:** 3302
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [test(tests): replace offloaded external image URLs with local mock URIs in StyleGeneratorTest.php](https://github.com/noruzzamans/gslider-blocks/issues/556)
-- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+## [Bug: a result that is not JSON serializable leaves the idempotency record stuck as INPROGRESS](https://github.com/aws-powertools/powertools-lambda-python/issues/8721)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
 - **Score:** 91/100
-- **Updated:** 2026-10-31T18:20:35Z
-- **Labels:** help wanted, good first issue, type: bug, focus: ci-cd, size: S, hacktoberfest
+- **Updated:** 2026-10-31T22:50:02Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[good first issue, hacktoberfest] ⛩️ Hacktoberfest Task - Add new Anime Quote 567 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33421)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 91/100
+- **Updated:** 2026-10-31T22:45:52Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 10
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -94,23 +74,23 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
-- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
-- **Score:** 91/100
-- **Updated:** 2026-10-30T21:31:07Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** 287
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+## [Good first research task: compare real physical-redemption minimums and costs](https://github.com/Christopher-Charman/open-resource-dividend/issues/10)
+- **Repository:** [Christopher-Charman/open-resource-dividend](https://github.com/Christopher-Charman/open-resource-dividend)
+- **Score:** 90/100
+- **Updated:** 2026-10-31T23:14:22Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 3
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Localization: review Thai and Russian interface strings](https://github.com/rf24kja/24GO.top/issues/8)
-- **Repository:** [rf24kja/24GO.top](https://github.com/rf24kja/24GO.top)
+## [[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling](https://github.com/shaiananvari8/zeroeye/issues/1)
+- **Repository:** [shaiananvari8/zeroeye](https://github.com/shaiananvari8/zeroeye)
 - **Score:** 90/100
-- **Updated:** 2026-10-31T17:30:41Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 4
-- **Stars:** not checked
+- **Updated:** 2026-10-31T23:10:12Z
+- **Labels:** help wanted, good first issue, bounty, language:typescript
+- **Comments:** 21
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -124,13 +104,73 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Good first issue] Add a friendly local persona chooser for development](https://github.com/Indicaza/holdfast/issues/135)
-- **Repository:** [Indicaza/holdfast](https://github.com/Indicaza/holdfast)
-- **Score:** 86/100
-- **Updated:** 2026-10-31T18:27:43Z
+## [[Lesson feedback] Git 速成 · 沙盒第 2 步引号歧义；清理小节的 PowerShell 版本排在 macOS / Linux 平台之后](https://github.com/AIwork4me/first-pr-playbook/issues/7)
+- **Repository:** [AIwork4me/first-pr-playbook](https://github.com/AIwork4me/first-pr-playbook)
+- **Score:** 87/100
+- **Updated:** 2026-10-31T23:22:30Z
 - **Labels:** help wanted, good first issue
+- **Comments:** 3
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: idempotency payloads with set, frozenset or bytes fields cannot be hashed](https://github.com/aws-powertools/powertools-lambda-python/issues/8725)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-10-31T23:25:58Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: Redis layer fails the invocation instead of retrying when a record expires between SET NX and GET](https://github.com/aws-powertools/powertools-lambda-python/issues/8727)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-10-31T23:07:26Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: POWERTOOLS_IDEMPOTENCY_DISABLED set to an empty or non-boolean value crashes every invocation](https://github.com/aws-powertools/powertools-lambda-python/issues/8728)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-10-31T22:55:25Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: output_serializer=PydanticSerializer crashes at import under from __future__ import annotations](https://github.com/aws-powertools/powertools-lambda-python/issues/8722)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-10-31T22:50:04Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: DataclassSerializer cannot save datetime/UUID fields and does not rebuild nested dataclasses on replay](https://github.com/aws-powertools/powertools-lambda-python/issues/8723)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-10-31T22:37:09Z
+- **Labels:** bug, good first issue, help wanted, idempotency
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: Redis orphan lock timeout ignores expires_after_seconds and is always 10 seconds](https://github.com/aws-powertools/powertools-lambda-python/issues/8726)
+- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+- **Score:** 86/100
+- **Updated:** 2026-10-31T22:36:47Z
+- **Labels:** bug, good first issue, help wanted, idempotency
 - **Comments:** 1
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -140,17 +180,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-31T15:40:55Z
 - **Labels:** good first issue, help wanted
 - **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add ability to choose the AWS provider version](https://github.com/DontShaveTheYak/cf2tf/issues/283)
-- **Repository:** [DontShaveTheYak/cf2tf](https://github.com/DontShaveTheYak/cf2tf)
-- **Score:** 86/100
-- **Updated:** 2026-10-30T16:19:01Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 80
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -160,7 +190,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-30T10:52:44Z
 - **Labels:** good first issue, help wanted
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 150
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -170,15 +200,25 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-10-28T17:19:15Z
 - **Labels:** help wanted, priority/medium, kind/documentation, good first issue, stage/010-actionable, stage/stalled
 - **Comments:** 2
-- **Stars:** not checked
+- **Stars:** 726
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Contributor task: test the Find Your Place gateway on mobile, keyboard and screen readers](https://github.com/Aggredicus/Codex-Agent-Workshop/issues/4)
-- **Repository:** [Aggredicus/Codex-Agent-Workshop](https://github.com/Aggredicus/Codex-Agent-Workshop)
+## [docs: explain the returned-result comparison workflow in Local security](https://github.com/antropos17/Aegis/issues/1221)
+- **Repository:** [antropos17/Aegis](https://github.com/antropos17/Aegis)
 - **Score:** 83/100
-- **Updated:** 2026-10-31T19:03:37Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-10-31T23:04:08Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add Azure DevOps pipeline example](https://github.com/eyadstein/leaklens/issues/232)
+- **Repository:** [eyadstein/leaklens](https://github.com/eyadstein/leaklens)
+- **Score:** 83/100
+- **Updated:** 2026-10-31T21:35:29Z
+- **Labels:** enhancement, help wanted, good first issue, difficulty: easy, integrations, batch-1
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -212,44 +252,4 @@ Repositories checked for funding metadata: 12
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [chore(core): fix the mypy errors, then run mypy in CI](https://github.com/alihdrndm/ledgic/issues/62)
-- **Repository:** [alihdrndm/ledgic](https://github.com/alihdrndm/ledgic)
-- **Score:** 83/100
-- **Updated:** 2026-10-28T18:58:58Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good-first-issue] distributed: convert Bigtable L2 adapter logging to %-format](https://github.com/LMCache/LMCache/issues/5730)
-- **Repository:** [LMCache/LMCache](https://github.com/LMCache/LMCache)
-- **Score:** 80/100
-- **Updated:** 2026-10-31T19:11:18Z
-- **Labels:** good first issue, help wanted
-- **Comments:** 4
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good first issue, hacktoberfest] 🪭 Hacktoberfest Task - Add new Etiquette Tip 1181 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33140)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 80/100
-- **Updated:** 2026-10-31T18:39:49Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, stale-warning, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 4
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good first issue, hacktoberfest] 🍤 Hacktoberfest Task - Add new Learner Mistake 487 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33142)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 80/100
-- **Updated:** 2026-10-31T18:39:47Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, stale-warning, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 4
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata

@@ -1,57 +1,177 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-04T14:29:46.526026+00:00
-Unique issues discovered: 221
+Generated: 2026-11-04T21:17:14.113947+00:00
+Unique issues discovered: 212
 Repositories checked for funding metadata: 12
-
-## [feat(examples): add Polars LazyFrame profiling guide and reference example](https://github.com/Zwony/ecotrace/issues/195)
-- **Repository:** [Zwony/ecotrace](https://github.com/Zwony/ecotrace)
-- **Score:** 99/100
-- **Updated:** 2026-11-04T13:47:08Z
-- **Labels:** documentation, enhancement, help wanted, good first issue, hacktoberfest
-- **Comments:** 1
-- **Stars:** 36
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: [Zwony]; patreon: # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: # Replace with a single Ko-fi username; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 ## [Dependency Dashboard](https://github.com/Far-Beyond-Pulsar/Pulsar-Native/issues/151)
 - **Repository:** [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
 - **Score:** 99/100
-- **Updated:** 2026-11-04T02:03:55Z
+- **Updated:** 2026-11-04T20:28:31Z
 - **Labels:** documentation, enhancement, good first issue, help wanted, Security
 - **Comments:** 2
 - **Stars:** 401
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: tristanpoland
 
-## [Global progress indicator and screen for actions with progress in Control Center/chairlift](https://github.com/projectbluefin/common/issues/1635)
-- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
-- **Score:** 91/100
-- **Updated:** 2026-11-04T13:39:55Z
-- **Labels:** kind/feature, triage/accepted, good first issue, help wanted, kind/cleanup, stage/010-actionable
+## [Tests: exclude ignored scratch copies from shipped-file validation](https://github.com/OthmanAdi/planning-with-files/issues/352)
+- **Repository:** [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+- **Score:** 99/100
+- **Updated:** 2026-11-04T16:20:48Z
+- **Labels:** bug, help wanted, good first issue
 - **Comments:** 2
-- **Stars:** 32
+- **Stars:** 27883
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: [OthmanAdi]
+
+## [Read along with EPUB 3 Media Overlays (books that ship synced narration)](https://github.com/Fundaments-Work/Theorem/issues/154)
+- **Repository:** [Fundaments-Work/Theorem](https://github.com/Fundaments-Work/Theorem)
+- **Score:** 94/100
+- **Updated:** 2026-11-04T21:11:06Z
+- **Labels:** enhancement, help wanted, good first issue, reader, tts
+- **Comments:** 1
+- **Stars:** 16
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** custom: ['https://buymemomo.com/usefundaments']
+
+## [[D1] Contribute a checkOwners entry to vinta/awesome-python](https://github.com/smusali/checkOwners/issues/217)
+- **Repository:** [smusali/checkOwners](https://github.com/smusali/checkOwners)
+- **Score:** 91/100
+- **Updated:** 2026-11-04T20:26:07Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 3
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: smusali
+
+## [Add a release guide (RELEASE.md) documenting the release process](https://github.com/kubernetes-sigs/model-serving-signals/issues/50)
+- **Repository:** [kubernetes-sigs/model-serving-signals](https://github.com/kubernetes-sigs/model-serving-signals)
+- **Score:** 91/100
+- **Updated:** 2026-11-04T20:18:31Z
+- **Labels:** good first issue, help wanted, kind/cleanup, triage/accepted
+- **Comments:** 1
+- **Stars:** 18
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Feature][Connector] Add connectors for these datasources](https://github.com/apache/seatunnel/issues/10443)
-- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
+## [attest-plan: report the multiple-plans refusal once, on both routes](https://github.com/OthmanAdi/planning-with-files/issues/358)
+- **Repository:** [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 - **Score:** 90/100
-- **Updated:** 2026-11-04T02:25:35Z
-- **Labels:** help wanted, good first issue, feature
-- **Comments:** 60
-- **Stars:** 9783
+- **Updated:** 2026-11-04T16:20:50Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 4
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Submit Evergreen to relevant awesome lists](https://github.com/arminazimi/evergreen/issues/297)
-- **Repository:** [arminazimi/evergreen](https://github.com/arminazimi/evergreen)
-- **Score:** 86/100
-- **Updated:** 2026-11-01T17:20:05Z
-- **Labels:** help wanted, good first issue, roadmap, lane: free-agent, size: XS, type: docs, area: community, priority: P2
-- **Comments:** 1
+## [A team's orchestration strategy has no UI: the API returns it, the Teams screen cannot show or change it](https://github.com/Open-Glassbeetle/glassbeetle/issues/276)
+- **Repository:** [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T21:16:24Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, area:teams
+- **Comments:** 0
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Task: `avenx init` does not add `.env` to the scaffolded .gitignore](https://github.com/Avenx-JS/avenx-js/issues/1626)
+- **Repository:** [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T21:13:28Z
+- **Labels:** enhancement, help wanted, good first issue, security, CLI, difficulty:easy
+- **Comments:** 0
+- **Stars:** 78
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Task: the scaffold writes `</ @css>` while the docs and examples all use `</@css>`](https://github.com/Avenx-JS/avenx-js/issues/1625)
+- **Repository:** [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T21:13:20Z
+- **Labels:** documentation, help wanted, good first issue, Dev Exp., difficulty:easy
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: the `@avenx/persistence` example trips `AVX_W68` — its todo input has no label](https://github.com/Avenx-JS/avenx-js/issues/1624)
+- **Repository:** [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T21:13:15Z
+- **Labels:** bug, documentation, help wanted, good first issue, difficulty:easy
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: a `warnings` key naming no diagnostic is accepted silently in avenx.config.json](https://github.com/Avenx-JS/avenx-js/issues/1623)
+- **Repository:** [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T21:13:08Z
+- **Labels:** bug, help wanted, good first issue, CLI, difficulty:easy
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Stopping boundary: add a row for containers the session started](https://github.com/asalazarvaldiviaocg/handoff/issues/1)
+- **Repository:** [asalazarvaldiviaocg/handoff](https://github.com/asalazarvaldiviaocg/handoff)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T20:53:10Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
 - **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Recognise more model SDKs as sources of model output](https://github.com/patsypppe/slopaudit/issues/4)
+- **Repository:** [patsypppe/slopaudit](https://github.com/patsypppe/slopaudit)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T18:40:11Z
+- **Labels:** help wanted, good first issue, taint-engine, rule: LLM
+- **Comments:** 0
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [SEC-01: recognise more credential formats (Hugging Face, Groq, Replicate, SendGrid, ...)](https://github.com/patsypppe/slopaudit/issues/24)
+- **Repository:** [patsypppe/slopaudit](https://github.com/patsypppe/slopaudit)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T18:39:27Z
+- **Labels:** help wanted, good first issue, rules, rule: SEC
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Docs: document the JSON output schema of the CLI](https://github.com/senanurcetin/nexus-devops-intelligence/issues/175)
+- **Repository:** [senanurcetin/nexus-devops-intelligence](https://github.com/senanurcetin/nexus-devops-intelligence)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T17:45:49Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Docs: add an example workflow that gates a deploy on commit checks](https://github.com/senanurcetin/nexus-devops-intelligence/issues/173)
+- **Repository:** [senanurcetin/nexus-devops-intelligence](https://github.com/senanurcetin/nexus-devops-intelligence)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T17:45:26Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Pin GitHub Actions to commit SHAs](https://github.com/prod-forge/backend/issues/21)
+- **Repository:** [prod-forge/backend](https://github.com/prod-forge/backend)
+- **Score:** 83/100
+- **Updated:** 2026-11-04T16:46:07Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 0
+- **Stars:** 523
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Read the MCP servers of GitHub Copilot CLI and Amazon Q CLI](https://github.com/laaielichter/AgathOS/issues/18)
@@ -64,191 +184,71 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Result guard: npm, PyPI and Hugging Face token shapes](https://github.com/laaielichter/Gulliver/issues/38)
-- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
-- **Score:** 83/100
-- **Updated:** 2026-11-04T11:20:43Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Recognise more model SDKs as sources of model output](https://github.com/patsypppe/slopguard/issues/4)
-- **Repository:** [patsypppe/slopguard](https://github.com/patsypppe/slopguard)
-- **Score:** 83/100
-- **Updated:** 2026-11-04T02:48:47Z
-- **Labels:** help wanted, good first issue, taint-engine
-- **Comments:** 0
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [Contributing rules: help culprit recognise more errors](https://github.com/amirizalrahmat0799/culprit/issues/1)
 - **Repository:** [amirizalrahmat0799/culprit](https://github.com/amirizalrahmat0799/culprit)
 - **Score:** 83/100
 - **Updated:** 2026-11-04T02:17:53Z
 - **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add Azure DevOps pipeline example](https://github.com/eyadstein/leaklens/issues/232)
-- **Repository:** [eyadstein/leaklens](https://github.com/eyadstein/leaklens)
-- **Score:** 83/100
-- **Updated:** 2026-10-31T21:35:29Z
-- **Labels:** enhancement, help wanted, good first issue, difficulty: easy, integrations, batch-1
-- **Comments:** 0
-- **Stars:** 3
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+## [init-session: -Help and mistyped switches create planning files](https://github.com/OthmanAdi/planning-with-files/issues/357)
+- **Repository:** [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+- **Score:** 82/100
+- **Updated:** 2026-11-04T16:35:11Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[good-first-issue] distributed: convert Bigtable L2 adapter logging to %-format](https://github.com/LMCache/LMCache/issues/5730)
-- **Repository:** [LMCache/LMCache](https://github.com/LMCache/LMCache)
+## [[good first issue, hacktoberfest] 🍤 Add new Japan Fact 561 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33599)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 80/100
-- **Updated:** 2026-11-04T14:12:05Z
-- **Labels:** good first issue, help wanted
-- **Comments:** 7
-- **Stars:** 12276
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[IMPROVEMENT] Make repository build/validate scripts work in Git worktrees and jj workspaces](https://github.com/longhorn/longhorn/issues/14427)
-- **Repository:** [longhorn/longhorn](https://github.com/longhorn/longhorn)
-- **Score:** 80/100
-- **Updated:** 2026-11-04T06:13:09Z
-- **Labels:** good first issue, kind/improvement, help wanted
-- **Comments:** 4
-- **Stars:** 8050
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Docs: IdempotencyConfig docstring says local_cache_max_items defaults to 1024, it is 256](https://github.com/aws-powertools/powertools-lambda-python/issues/8729)
-- **Repository:** [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
-- **Score:** 80/100
-- **Updated:** 2026-11-04T03:47:35Z
-- **Labels:** documentation, good first issue, help wanted, idempotency
-- **Comments:** 5
+- **Updated:** 2026-11-04T20:45:30Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💡Google Chrome extension execution error](https://github.com/code-charity/youtube/issues/4448)
-- **Repository:** [code-charity/youtube](https://github.com/code-charity/youtube)
+## [Add a Go example client for /api/analyze](https://github.com/pablocaeg/sloptotal/issues/158)
+- **Repository:** [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal)
+- **Score:** 80/100
+- **Updated:** 2026-11-04T20:32:22Z
+- **Labels:** help wanted, good first issue, tooling, beginner, hacktoberfest
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Team orchestration markers like [NEXT: @Beta] and [DONE] are stored and shown as the agent's own words](https://github.com/Open-Glassbeetle/glassbeetle/issues/277)
+- **Repository:** [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle)
 - **Score:** 78/100
-- **Updated:** 2026-11-04T13:38:22Z
-- **Labels:** Feature request, help wanted, good first issue, up-for-grabs
+- **Updated:** 2026-11-04T21:16:30Z
+- **Labels:** bug, good first issue, help wanted, area:api, area:teams
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add search ability to the terminal to help find things in command results](https://github.com/skyhook-io/radar/issues/2536)
-- **Repository:** [skyhook-io/radar](https://github.com/skyhook-io/radar)
+## [Help add missing source links to solutions - no code needed](https://github.com/Huerte/algo-solutions-python/issues/175)
+- **Repository:** [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python)
 - **Score:** 78/100
-- **Updated:** 2026-11-04T13:20:01Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Mobile app: dữ liệu vị trí có phải dữ liệu nhạy cảm theo NĐ 356; quy định riêng cho quyền camera, danh bạ; gia hạn tự động trong app](https://github.com/mhfed/vn-law-check/issues/12)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:33Z
-- **Labels:** help wanted, good first issue, cần xác minh
+- **Updated:** 2026-11-04T21:04:01Z
+- **Labels:** documentation, help wanted, good first issue, beginner-friendly, no-code-needed, 5-minutes, python, algorithm, easy, hacktoberfest, first-timers-only, any-language, community, learning, leetcode, codewars, hackerrank, interview-prep, open-source, students, all-levels
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [NĐ 147/2024: số điều xác thực tài khoản bằng SĐT, tài khoản trẻ dưới 16 tuổi, giới hạn giờ chơi game](https://github.com/mhfed/vn-law-check/issues/11)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
+## [hooks: build-platforms.sh has no test coverage for go_bin() or target validation](https://github.com/solongate/agent-security/issues/337)
+- **Repository:** [solongate/agent-security](https://github.com/solongate/agent-security)
 - **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:31Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Luật Trí tuệ nhân tạo 134/2025: đánh số khoản 4-6 Điều 11, quyền khiếu nại quyết định của AI](https://github.com/mhfed/vn-law-check/issues/10)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:30Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Quảng cáo: NĐ 87/2026 có thay NĐ 38/2021 không; hành vi cấm (Điều 8); quảng cáo tài chính, tiền mã hóa, thực phẩm, thuốc](https://github.com/mhfed/vn-law-check/issues/9)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:28Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Luật Bảo vệ quyền lợi người tiêu dùng: quyền đơn phương chấm dứt hợp đồng từ xa, NĐ 55/2024, mức phạt NĐ 24/2025](https://github.com/mhfed/vn-law-check/issues/8)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:26Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [NĐ 333/2026: điều khoản bãi bỏ NĐ 53/2022 và nguyên văn Điều 19-31](https://github.com/mhfed/vn-law-check/issues/7)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:24Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Thông tư 47/2014 (41/VBHN-BCT) và Thông tư 59/2015 (42/VBHN-BCT) còn hiệu lực sau 01/07/2026 không?](https://github.com/mhfed/vn-law-check/issues/6)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:22Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [NĐ 248/2026: điều bãi bỏ NĐ 52/2013, 85/2021; chứng thực hợp đồng điện tử; logo online.gov.vn](https://github.com/mhfed/vn-law-check/issues/5)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:21Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Nguyên văn Điều 41 NĐ 356/2025: ngưỡng "số lượng lớn chủ thể" làm mất miễn trừ](https://github.com/mhfed/vn-law-check/issues/4)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:19Z
-- **Labels:** help wanted, good first issue, cần xác minh
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Đối chiếu mức phạt NĐ 330/2026 về dữ liệu trẻ em (Điều 60)](https://github.com/mhfed/vn-law-check/issues/3)
-- **Repository:** [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)
-- **Score:** 78/100
-- **Updated:** 2026-11-04T07:00:17Z
-- **Labels:** help wanted, good first issue, cần xác minh
+- **Updated:** 2026-11-04T20:38:50Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week

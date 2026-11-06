@@ -1,16 +1,26 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-06T16:44:59.592673+00:00
-Unique issues discovered: 219
+Generated: 2026-11-06T23:05:01.086897+00:00
+Unique issues discovered: 225
 Repositories checked for funding metadata: 12
 
-## [Make GitHub Actions checks independently addressable](https://github.com/kubernetes-sigs/mcp-lifecycle-operator/issues/389)
-- **Repository:** [kubernetes-sigs/mcp-lifecycle-operator](https://github.com/kubernetes-sigs/mcp-lifecycle-operator)
+## [[good first issue, hacktoberfest] 🥢 Add new Anime Quote 474 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33702)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 99/100
+- **Updated:** 2026-11-06T22:55:48Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 1
+- **Stars:** 3812
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+
+## [Tests con pytest para Lot, Tray, germinación y load_lots_csv](https://github.com/AdmGrow/vivero-seedbank/issues/3)
+- **Repository:** [AdmGrow/vivero-seedbank](https://github.com/AdmGrow/vivero-seedbank)
 - **Score:** 95/100
-- **Updated:** 2026-11-06T15:47:21Z
-- **Labels:** kind/bug, good first issue, help wanted, priority/backlog, sig/testing
+- **Updated:** 2026-11-06T21:12:36Z
+- **Labels:** help wanted, good first issue, tests
 - **Comments:** 8
-- **Stars:** 54
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -24,113 +34,123 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [feat(behavior): integrate BEHAVIOR-1K simulation evaluation and establish a correctness baseline](https://github.com/MINT-SJTU/RoboScope-Kit/issues/29)
-- **Repository:** [MINT-SJTU/RoboScope-Kit](https://github.com/MINT-SJTU/RoboScope-Kit)
+## [[good first issue, hacktoberfest] 🍥 Add new Trivia Question 392 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33701)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 91/100
-- **Updated:** 2026-11-06T16:16:22Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 48
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [feat(robocasa): integrate RoboCasa365 evaluation and improve throughput](https://github.com/MINT-SJTU/RoboScope-Kit/issues/97)
-- **Repository:** [MINT-SJTU/RoboScope-Kit](https://github.com/MINT-SJTU/RoboScope-Kit)
-- **Score:** 91/100
-- **Updated:** 2026-11-06T16:15:04Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-06T22:10:59Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
-- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
+## [API Gateway HTTP API JWT authorizers](https://github.com/Alejo2075/cloud-to-code/issues/4)
+- **Repository:** [Alejo2075/cloud-to-code](https://github.com/Alejo2075/cloud-to-code)
+- **Score:** 91/100
+- **Updated:** 2026-11-06T20:12:55Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[bounty: 74000 ETH] start building company town for contributing agents](https://github.com/dwebagents/AgentPipe/issues/1663)
+- **Repository:** [dwebagents/AgentPipe](https://github.com/dwebagents/AgentPipe)
 - **Score:** 90/100
-- **Updated:** 2026-11-06T16:17:51Z
+- **Updated:** 2026-11-06T22:23:15Z
+- **Labels:** bug, documentation, enhancement, help wanted, good first issue, bounty
+- **Comments:** 26
+- **Stars:** 207
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1)
+- **Repository:** [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier)
+- **Score:** 90/100
+- **Updated:** 2026-11-06T22:17:38Z
 - **Labels:** help wanted, good first issue, bounty
 - **Comments:** 3
 - **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
-- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
+## [Microcks.io Migration to Docusaurus + Netlify: Validation Phase & Feedback Wanted](https://github.com/microcks/microcks.io/issues/25)
+- **Repository:** [microcks/microcks.io](https://github.com/microcks/microcks.io)
 - **Score:** 90/100
-- **Updated:** 2026-11-06T16:17:50Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 3
-- **Stars:** not checked
+- **Updated:** 2026-11-06T21:58:43Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 24
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a gain contract so one more skill can be scored](https://github.com/SkillGauntlet/SkillGauntlet/issues/34)
-- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
+- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
+- **Score:** 90/100
+- **Updated:** 2026-11-06T21:48:25Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 3
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2)
+- **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
 - **Score:** 86/100
-- **Updated:** 2026-11-06T16:29:46Z
-- **Labels:** good first issue, help wanted
+- **Updated:** 2026-11-06T22:48:16Z
+- **Labels:** help wanted, good first issue, bounty
 - **Comments:** 1
-- **Stars:** 2
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Package skill with APM](https://github.com/mcpchecker/mcpchecker/issues/344)
-- **Repository:** [mcpchecker/mcpchecker](https://github.com/mcpchecker/mcpchecker)
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1)
+- **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
 - **Score:** 86/100
-- **Updated:** 2026-11-06T15:00:50Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-06T22:48:15Z
+- **Labels:** help wanted, good first issue, bounty
 - **Comments:** 1
-- **Stars:** 36
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [chore: clarify optional integrations in the env example](https://github.com/DineshDhanoki/Lumiqe/issues/18)
-- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
+- **Repository:** [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier)
+- **Score:** 86/100
+- **Updated:** 2026-11-06T22:17:39Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
+- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
+- **Score:** 86/100
+- **Updated:** 2026-11-06T21:48:26Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Write docs/why-ceiling-ratio-matters.md: the util-vs-MFU explainer](https://github.com/ehtishammubarik/truthscale/issues/16)
+- **Repository:** [ehtishammubarik/truthscale](https://github.com/ehtishammubarik/truthscale)
 - **Score:** 83/100
-- **Updated:** 2026-11-06T16:43:50Z
-- **Labels:** documentation, enhancement, help wanted, good first issue
+- **Updated:** 2026-11-06T21:25:07Z
+- **Labels:** documentation, help wanted, good first issue, seo
+- **Comments:** 0
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a Smithery config so the MCP server can be listed there](https://github.com/MandalorianBatman/austere-axi/issues/23)
+- **Repository:** [MandalorianBatman/austere-axi](https://github.com/MandalorianBatman/austere-axi)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T21:07:46Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: add a privacy reminder before photo upload](https://github.com/DineshDhanoki/Lumiqe/issues/15)
-- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T16:43:40Z
-- **Labels:** documentation, enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: explain the model-weights setup path](https://github.com/DineshDhanoki/Lumiqe/issues/11)
-- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T16:43:28Z
-- **Labels:** documentation, enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: add a clear local frontend-only quickstart](https://github.com/DineshDhanoki/Lumiqe/issues/10)
-- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T16:43:24Z
-- **Labels:** documentation, enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [feat(editor): make Home and End line navigation shortcuts customizable](https://github.com/eugenioenko/ttt/issues/1371)
-- **Repository:** [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T15:06:03Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 1063
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -160,88 +180,38 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-04T02:17:53Z
 - **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add Docker, CI, and a contributor-ready development guide](https://github.com/Aevor/ai/issues/14)
-- **Repository:** [Aevor/ai](https://github.com/Aevor/ai)
+## [we don't run lints](https://github.com/objectionary/eo-lsp-server/issues/47)
+- **Repository:** [objectionary/eo-lsp-server](https://github.com/objectionary/eo-lsp-server)
+- **Score:** 82/100
+- **Updated:** 2026-11-06T22:54:28Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 6
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Audit Registry Attribution Against First-Party Terms](https://github.com/Rekin226/aquascope/issues/473)
+- **Repository:** [Rekin226/aquascope](https://github.com/Rekin226/aquascope)
 - **Score:** 80/100
-- **Updated:** 2026-11-06T16:40:35Z
-- **Labels:** documentation, good first issue, help wanted
-- **Comments:** 3
-- **Stars:** 0
+- **Updated:** 2026-11-06T21:45:05Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 26
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [frontend: add an empty state for a new wardrobe](https://github.com/DineshDhanoki/Lumiqe/issues/16)
-- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
+## [bash and PowerShell completion for "deja last" and "deja stats" offers flags after --project, --since, and --from](https://github.com/vshulcz/deja-vu/issues/5941)
+- **Repository:** [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)
 - **Score:** 78/100
-- **Updated:** 2026-11-06T16:43:43Z
+- **Updated:** 2026-11-06T19:45:10Z
 - **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [frontend: improve the analysis submit loading state](https://github.com/DineshDhanoki/Lumiqe/issues/13)
-- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
-- **Score:** 78/100
-- **Updated:** 2026-11-06T16:43:34Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Review the Japanese prompts in the CLI](https://github.com/SkillGauntlet/SkillGauntlet/issues/33)
-- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
-- **Score:** 78/100
-- **Updated:** 2026-11-06T16:14:27Z
-- **Labels:** documentation, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Try the CLI from scratch and tell us where you got stuck](https://github.com/SkillGauntlet/SkillGauntlet/issues/32)
-- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
-- **Score:** 78/100
-- **Updated:** 2026-11-06T16:14:25Z
-- **Labels:** good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Confirm a leaderboard row with one test run](https://github.com/SkillGauntlet/SkillGauntlet/issues/31)
-- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
-- **Score:** 78/100
-- **Updated:** 2026-11-06T16:14:23Z
-- **Labels:** good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [demo: a --json flag, with a test](https://github.com/bolubo/checkpoint-governor/issues/204)
-- **Repository:** [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor)
-- **Score:** 78/100
-- **Updated:** 2026-11-06T14:43:33Z
-- **Labels:** enhancement, help wanted, good first issue, kind/feature, area/python
 - **Comments:** 1
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[SEC / DEVOPS] Agent microservice ports 8081 and 8082 are bound to 0.0.0.0 in docker-compose.yml, bypassing Hub security](https://github.com/oscarbol09/a2a-hub/issues/58)
-- **Repository:** [oscarbol09/a2a-hub](https://github.com/oscarbol09/a2a-hub)
-- **Score:** 78/100
-- **Updated:** 2026-11-05T23:50:05Z
-- **Labels:** bug, help wanted, good first issue, security, devops
-- **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Tree-sitter symbols for Go](https://github.com/Blhasn-Sehli/repo-interview/issues/3)
@@ -252,4 +222,34 @@ Repositories checked for funding metadata: 12
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Añadir AWS user groups](https://github.com/ComBuildersES/communities-directory/issues/124)
+- **Repository:** [ComBuildersES/communities-directory](https://github.com/ComBuildersES/communities-directory)
+- **Score:** 78/100
+- **Updated:** 2026-11-05T22:36:20Z
+- **Labels:** good first issue, help wanted, data
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [CLAUDE.md: Document step-level conventions (securityContext, TEST_OUTPUT, exit paths)](https://github.com/konflux-ci/konflux-operator-tasks/issues/403)
+- **Repository:** [konflux-ci/konflux-operator-tasks](https://github.com/konflux-ci/konflux-operator-tasks)
+- **Score:** 77/100
+- **Updated:** 2026-11-06T23:01:11Z
+- **Labels:** documentation, good first issue, ready-for-triage, ready-to-code
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a CONTRIBUTING.md](https://github.com/codrlabs/vizably/issues/140)
+- **Repository:** [codrlabs/vizably](https://github.com/codrlabs/vizably)
+- **Score:** 77/100
+- **Updated:** 2026-11-06T20:46:06Z
+- **Labels:** documentation, good first issue
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

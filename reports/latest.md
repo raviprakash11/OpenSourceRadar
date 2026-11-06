@@ -1,66 +1,36 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-05T23:36:40.657222+00:00
-Unique issues discovered: 209
+Generated: 2026-11-06T06:33:30.454892+00:00
+Unique issues discovered: 221
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎏 Add new False Friend Pair 510 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33661)
+## [[good first issue, hacktoberfest] 🎐 Add new Anime Quote 145 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33672)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-11-05T23:20:56Z
+- **Updated:** 2026-11-06T06:10:58Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3808
+- **Stars:** 3810
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-## [Investigation API: GET /v1/investigation (E01)](https://github.com/OneBusAway/watchdog/issues/215)
+## [Coding agents: hooks for OpenHands (CLI and SDK)](https://github.com/Cygnux-Labs/Tracekit/issues/563)
+- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+- **Score:** 95/100
+- **Updated:** 2026-11-06T06:07:22Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 6
+- **Stars:** 481
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Investigation API: GET /v1/vehicle-anomaly-types (E30)](https://github.com/OneBusAway/watchdog/issues/244)
 - **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
 - **Score:** 95/100
-- **Updated:** 2026-11-05T22:59:08Z
+- **Updated:** 2026-11-06T01:26:32Z
 - **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 5
+- **Comments:** 3
 - **Stars:** 27
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [good first issue: capture a short terminal recording of the BAR attack demo](https://github.com/steerion-labs/bounded-agent-runtime/issues/93)
-- **Repository:** [steerion-labs/bounded-agent-runtime](https://github.com/steerion-labs/bounded-agent-runtime)
-- **Score:** 95/100
-- **Updated:** 2026-11-05T22:30:42Z
-- **Labels:** documentation, good first issue, help wanted
-- **Comments:** 3
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
-- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
-- **Score:** 95/100
-- **Updated:** 2026-11-05T22:25:54Z
-- **Labels:** help wanted, good first issue, bounty-waiting
-- **Comments:** 4
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [vis.js timeline rounding off timeAxis.step](https://github.com/visjs/vis-timeline/issues/1030)
-- **Repository:** [visjs/vis-timeline](https://github.com/visjs/vis-timeline)
-- **Score:** 95/100
-- **Updated:** 2026-11-05T22:13:19Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 4
-- **Stars:** 2576
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: # Replace with a single Patreon username; open_collective: visjs; ko_fi: # Replace with a single Ko-fi username; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; otechie: # Replace with a single Otechie username; custom: # Replace with a single custom sponsorship URL
-
-## [Expose the OpenBao version as a Prometheus metric (openbao_build_info)](https://github.com/openbao/openbao/issues/4394)
-- **Repository:** [openbao/openbao](https://github.com/openbao/openbao)
-- **Score:** 95/100
-- **Updated:** 2026-11-05T20:28:27Z
-- **Labels:** good first issue, help wanted, feature, go
-- **Comments:** 3
-- **Stars:** 8891
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -70,95 +40,145 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-05T16:04:07Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 225
-- **Stars:** 9790
+- **Stars:** 9791
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Write a tutorial: "How to Create a Custom Agent Tool"](https://github.com/nutstore/eo2weave/issues/1)
-- **Repository:** [nutstore/eo2weave](https://github.com/nutstore/eo2weave)
+## [Document a failed scoped edit and its evidence using the local demo](https://github.com/Voyagerroc/voyagerroc-forge/issues/13)
+- **Repository:** [Voyagerroc/voyagerroc-forge](https://github.com/Voyagerroc/voyagerroc-forge)
 - **Score:** 91/100
-- **Updated:** 2026-11-05T23:26:29Z
-- **Labels:** documentation, good first issue, help wanted
+- **Updated:** 2026-11-06T05:52:13Z
+- **Labels:** documentation, help wanted, good first issue
 - **Comments:** 2
-- **Stars:** 18
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [good first issue: add machine-readable output to the public attack demo](https://github.com/steerion-labs/bounded-agent-runtime/issues/92)
-- **Repository:** [steerion-labs/bounded-agent-runtime](https://github.com/steerion-labs/bounded-agent-runtime)
+## [ciblame why: accept a pull request URL](https://github.com/amlaban65/ciblame/issues/10)
+- **Repository:** [amlaban65/ciblame](https://github.com/amlaban65/ciblame)
 - **Score:** 91/100
-- **Updated:** 2026-11-05T22:30:40Z
-- **Labels:** documentation, good first issue, help wanted
+- **Updated:** 2026-11-06T02:04:08Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[good first issue, hacktoberfest] 🎏 Add new Japanese Idiom 1207 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33660)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 91/100
-- **Updated:** 2026-11-05T22:20:59Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Call for Testing] Try ModelWarmup in AIBrix v0.8.0 or master branch](https://github.com/vllm-project/aibrix/issues/3100)
-- **Repository:** [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
-- **Score:** 91/100
-- **Updated:** 2026-11-05T20:53:42Z
-- **Labels:** good first issue, help wanted, kind/misc, area/website
-- **Comments:** 2
-- **Stars:** 5181
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/vehicle-anomaly-types (E30)](https://github.com/OneBusAway/watchdog/issues/244)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 91/100
-- **Updated:** 2026-11-05T20:22:20Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Feature]: Enhance text placement in relation to edges](https://github.com/github/gh-skyline/issues/12)
-- **Repository:** [github/gh-skyline](https://github.com/github/gh-skyline)
-- **Score:** 91/100
-- **Updated:** 2026-11-05T20:21:52Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 2
-- **Stars:** 1371
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [gRPC server stops serving subscribers while /healthz stays healthy; only a restart recovers](https://github.com/open-cluster-management-io/ocm/issues/1808)
-- **Repository:** [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm)
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
+- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
 - **Score:** 90/100
-- **Updated:** 2026-11-05T22:15:43Z
-- **Labels:** bug, good first issue, help wanted
+- **Updated:** 2026-11-06T06:17:49Z
+- **Labels:** help wanted, good first issue, bounty
 - **Comments:** 3
-- **Stars:** 1121
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [gRPC broker: make per-subscriber event queue size configurable (hard-coded 100)](https://github.com/open-cluster-management-io/sdk-go/issues/243)
-- **Repository:** [open-cluster-management-io/sdk-go](https://github.com/open-cluster-management-io/sdk-go)
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
+- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
+- **Score:** 90/100
+- **Updated:** 2026-11-06T06:17:48Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
+- **Repository:** [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier)
 - **Score:** 86/100
-- **Updated:** 2026-11-05T22:08:58Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 1
-- **Stars:** 4
+- **Updated:** 2026-11-06T05:48:09Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 2
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Qualifying a GROUP BY key is reported as `group_by_changed`](https://github.com/exmergo/dex/issues/1164)
-- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
+## [Add --compare to show this quarter against last quarter](https://github.com/aamirtechs/ifta-mileage-doctor/issues/4)
+- **Repository:** [aamirtechs/ifta-mileage-doctor](https://github.com/aamirtechs/ifta-mileage-doctor)
 - **Score:** 83/100
-- **Updated:** 2026-11-05T23:10:38Z
-- **Labels:** bug, good first issue, help wanted
+- **Updated:** 2026-11-06T06:32:09Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add --format csv to emit the per-state table as CSV](https://github.com/aamirtechs/ifta-mileage-doctor/issues/2)
+- **Repository:** [aamirtechs/ifta-mileage-doctor](https://github.com/aamirtechs/ifta-mileage-doctor)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T06:31:59Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a complete Turkish offline quickstart and troubleshooting guide](https://github.com/Voyagerroc/AptFlow/issues/3)
+- **Repository:** [Voyagerroc/AptFlow](https://github.com/Voyagerroc/AptFlow)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T06:02:47Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add table-driven boundary tests for storyboard validation](https://github.com/Voyagerroc/AptFlow/issues/2)
+- **Repository:** [Voyagerroc/AptFlow](https://github.com/Voyagerroc/AptFlow)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T06:02:45Z
+- **Labels:** help wanted, good first issue, testing
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Expose accessible busy states for repository and workflow submissions](https://github.com/Voyagerroc/voyagerroc-forge/issues/12)
+- **Repository:** [Voyagerroc/voyagerroc-forge](https://github.com/Voyagerroc/voyagerroc-forge)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T04:54:05Z
+- **Labels:** accessibility, help wanted, good first issue, area: ui
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a local .patch download to the run evidence dialog](https://github.com/Voyagerroc/voyagerroc-forge/issues/11)
+- **Repository:** [Voyagerroc/voyagerroc-forge](https://github.com/Voyagerroc/voyagerroc-forge)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T04:54:04Z
+- **Labels:** enhancement, help wanted, good first issue, area: ui
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Example] WKS as a sidecar in Kubernetes](https://github.com/wolveflake/wolvekafka/issues/105)
+- **Repository:** [wolveflake/wolvekafka](https://github.com/wolveflake/wolvekafka)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T04:47:42Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 3
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Tried Bob on a Raspberry Pi 4 or 5? Tell us how it went](https://github.com/MouseWurX/Bob/issues/6)
+- **Repository:** [MouseWurX/Bob](https://github.com/MouseWurX/Bob)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T04:29:42Z
+- **Labels:** help wanted, good first issue, hardware report
+- **Comments:** 0
+- **Stars:** 1
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Tried Bob on a real Mac? Tell us how it went](https://github.com/MouseWurX/Bob/issues/5)
+- **Repository:** [MouseWurX/Bob](https://github.com/MouseWurX/Bob)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T04:29:37Z
+- **Labels:** help wanted, good first issue, hardware report
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -194,61 +214,41 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Dependency Dashboard](https://github.com/Morin3/Andoka-morni/issues/10)
-- **Repository:** [Morin3/Andoka-morni](https://github.com/Morin3/Andoka-morni)
+## [Policy: deleting CI workflows, or writing one that sends a secret out, waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/405)
+- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
 - **Score:** 80/100
-- **Updated:** 2026-11-05T23:04:16Z
-- **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, question, wontfix, dependencies, javascript
-- **Comments:** 3
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good first issue, hacktoberfest] 🍚 Add new Anime Quote 1090 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33631)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 80/100
-- **Updated:** 2026-11-05T22:27:04Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 4
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [enhancement(rag): Diagnóstico y notificación clara al usuario ante PDFs escaneados basados en imágenes sin capa de texto OCR](https://github.com/oscarbol09/thesisforge/issues/42)
-- **Repository:** [oscarbol09/thesisforge](https://github.com/oscarbol09/thesisforge)
-- **Score:** 78/100
-- **Updated:** 2026-11-05T23:29:06Z
-- **Labels:** enhancement, help wanted, good first issue, rag
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(upload): show short file types instead of raw MIME strings](https://github.com/notjj1234/jj_audio_website/issues/72)
-- **Repository:** [notjj1234/jj_audio_website](https://github.com/notjj1234/jj_audio_website)
-- **Score:** 78/100
-- **Updated:** 2026-11-05T23:26:28Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(home): say the Not analysed filter is empty instead of a missed search](https://github.com/notjj1234/jj_audio_website/issues/71)
-- **Repository:** [notjj1234/jj_audio_website](https://github.com/notjj1234/jj_audio_website)
-- **Score:** 78/100
-- **Updated:** 2026-11-05T23:26:25Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Tree-sitter symbols for Go](https://github.com/Blhasn-Sehli/repo-interview/issues/3)
-- **Repository:** [Blhasn-Sehli/repo-interview](https://github.com/Blhasn-Sehli/repo-interview)
-- **Score:** 78/100
-- **Updated:** 2026-11-05T22:58:14Z
+- **Updated:** 2026-11-06T06:29:09Z
 - **Labels:** help wanted, good first issue
+- **Comments:** 5
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
+- **Repository:** [tadanobutubutu/screeps](https://github.com/tadanobutubutu/screeps)
+- **Score:** 80/100
+- **Updated:** 2026-11-06T05:55:51Z
+- **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, workflow-health, automated, bot, dependencies, ci, feature, javascript, github-actions, major, test, in-progress, stale, needs-review, security, config, renovate, sonarcloud, codecov, quality-report, chore, needs-triage, ai-solve, bounty
+- **Comments:** 1200
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Fix duplicate entries and null handling in bean XML property serialization](https://github.com/KaotoIO/kaoto/issues/4372)
+- **Repository:** [KaotoIO/kaoto](https://github.com/KaotoIO/kaoto)
+- **Score:** 78/100
+- **Updated:** 2026-11-06T06:07:58Z
+- **Labels:** bug, good first issue, help wanted
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add --version support for checkout and installed CLI entry points](https://github.com/Voyagerroc/AptFlow/issues/1)
+- **Repository:** [Voyagerroc/AptFlow](https://github.com/Voyagerroc/AptFlow)
+- **Score:** 78/100
+- **Updated:** 2026-11-06T06:02:43Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week

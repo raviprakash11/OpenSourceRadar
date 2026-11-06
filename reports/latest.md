@@ -1,73 +1,53 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-06T06:33:30.454892+00:00
-Unique issues discovered: 221
+Generated: 2026-11-06T16:44:59.592673+00:00
+Unique issues discovered: 219
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎐 Add new Anime Quote 145 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33672)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-- **Score:** 99/100
-- **Updated:** 2026-11-06T06:10:58Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
-- **Stars:** 3810
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-
-## [Coding agents: hooks for OpenHands (CLI and SDK)](https://github.com/Cygnux-Labs/Tracekit/issues/563)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [Make GitHub Actions checks independently addressable](https://github.com/kubernetes-sigs/mcp-lifecycle-operator/issues/389)
+- **Repository:** [kubernetes-sigs/mcp-lifecycle-operator](https://github.com/kubernetes-sigs/mcp-lifecycle-operator)
 - **Score:** 95/100
-- **Updated:** 2026-11-06T06:07:22Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 6
-- **Stars:** 481
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/vehicle-anomaly-types (E30)](https://github.com/OneBusAway/watchdog/issues/244)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 95/100
-- **Updated:** 2026-11-06T01:26:32Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 3
-- **Stars:** 27
+- **Updated:** 2026-11-06T15:47:21Z
+- **Labels:** kind/bug, good first issue, help wanted, priority/backlog, sig/testing
+- **Comments:** 8
+- **Stars:** 54
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [[Umbrella][Improve] Migrate Connector/Transform Validation to Declarative OptionRule — Claim & Tracking](https://github.com/apache/seatunnel/issues/11007)
 - **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
 - **Score:** 95/100
-- **Updated:** 2026-11-05T16:04:07Z
+- **Updated:** 2026-11-06T07:37:41Z
 - **Labels:** help wanted, good first issue
-- **Comments:** 225
+- **Comments:** 226
 - **Stars:** 9791
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Document a failed scoped edit and its evidence using the local demo](https://github.com/Voyagerroc/voyagerroc-forge/issues/13)
-- **Repository:** [Voyagerroc/voyagerroc-forge](https://github.com/Voyagerroc/voyagerroc-forge)
+## [feat(behavior): integrate BEHAVIOR-1K simulation evaluation and establish a correctness baseline](https://github.com/MINT-SJTU/RoboScope-Kit/issues/29)
+- **Repository:** [MINT-SJTU/RoboScope-Kit](https://github.com/MINT-SJTU/RoboScope-Kit)
 - **Score:** 91/100
-- **Updated:** 2026-11-06T05:52:13Z
-- **Labels:** documentation, help wanted, good first issue
-- **Comments:** 2
-- **Stars:** 1
+- **Updated:** 2026-11-06T16:16:22Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 48
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [ciblame why: accept a pull request URL](https://github.com/amlaban65/ciblame/issues/10)
-- **Repository:** [amlaban65/ciblame](https://github.com/amlaban65/ciblame)
+## [feat(robocasa): integrate RoboCasa365 evaluation and improve throughput](https://github.com/MINT-SJTU/RoboScope-Kit/issues/97)
+- **Repository:** [MINT-SJTU/RoboScope-Kit](https://github.com/MINT-SJTU/RoboScope-Kit)
 - **Score:** 91/100
-- **Updated:** 2026-11-06T02:04:08Z
-- **Labels:** enhancement, help wanted, good first issue
+- **Updated:** 2026-11-06T16:15:04Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 1
-- **Stars:** 2
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
 - **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
 - **Score:** 90/100
-- **Updated:** 2026-11-06T06:17:49Z
+- **Updated:** 2026-11-06T16:17:51Z
 - **Labels:** help wanted, good first issue, bounty
 - **Comments:** 3
 - **Stars:** 0
@@ -77,110 +57,80 @@ Repositories checked for funding metadata: 12
 ## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
 - **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
 - **Score:** 90/100
-- **Updated:** 2026-11-06T06:17:48Z
+- **Updated:** 2026-11-06T16:17:50Z
 - **Labels:** help wanted, good first issue, bounty
 - **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
-- **Repository:** [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier)
+## [Add a gain contract so one more skill can be scored](https://github.com/SkillGauntlet/SkillGauntlet/issues/34)
+- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
 - **Score:** 86/100
-- **Updated:** 2026-11-06T05:48:09Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 2
-- **Stars:** 0
+- **Updated:** 2026-11-06T16:29:46Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 1
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add --compare to show this quarter against last quarter](https://github.com/aamirtechs/ifta-mileage-doctor/issues/4)
-- **Repository:** [aamirtechs/ifta-mileage-doctor](https://github.com/aamirtechs/ifta-mileage-doctor)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T06:32:09Z
+## [Package skill with APM](https://github.com/mcpchecker/mcpchecker/issues/344)
+- **Repository:** [mcpchecker/mcpchecker](https://github.com/mcpchecker/mcpchecker)
+- **Score:** 86/100
+- **Updated:** 2026-11-06T15:00:50Z
 - **Labels:** help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Comments:** 1
+- **Stars:** 36
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add --format csv to emit the per-state table as CSV](https://github.com/aamirtechs/ifta-mileage-doctor/issues/2)
-- **Repository:** [aamirtechs/ifta-mileage-doctor](https://github.com/aamirtechs/ifta-mileage-doctor)
+## [chore: clarify optional integrations in the env example](https://github.com/DineshDhanoki/Lumiqe/issues/18)
+- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
 - **Score:** 83/100
-- **Updated:** 2026-11-06T06:31:59Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add a complete Turkish offline quickstart and troubleshooting guide](https://github.com/Voyagerroc/AptFlow/issues/3)
-- **Repository:** [Voyagerroc/AptFlow](https://github.com/Voyagerroc/AptFlow)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T06:02:47Z
-- **Labels:** documentation, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add table-driven boundary tests for storyboard validation](https://github.com/Voyagerroc/AptFlow/issues/2)
-- **Repository:** [Voyagerroc/AptFlow](https://github.com/Voyagerroc/AptFlow)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T06:02:45Z
-- **Labels:** help wanted, good first issue, testing
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Expose accessible busy states for repository and workflow submissions](https://github.com/Voyagerroc/voyagerroc-forge/issues/12)
-- **Repository:** [Voyagerroc/voyagerroc-forge](https://github.com/Voyagerroc/voyagerroc-forge)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T04:54:05Z
-- **Labels:** accessibility, help wanted, good first issue, area: ui
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add a local .patch download to the run evidence dialog](https://github.com/Voyagerroc/voyagerroc-forge/issues/11)
-- **Repository:** [Voyagerroc/voyagerroc-forge](https://github.com/Voyagerroc/voyagerroc-forge)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T04:54:04Z
-- **Labels:** enhancement, help wanted, good first issue, area: ui
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Example] WKS as a sidecar in Kubernetes](https://github.com/wolveflake/wolvekafka/issues/105)
-- **Repository:** [wolveflake/wolvekafka](https://github.com/wolveflake/wolvekafka)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T04:47:42Z
-- **Labels:** documentation, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 3
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Tried Bob on a Raspberry Pi 4 or 5? Tell us how it went](https://github.com/MouseWurX/Bob/issues/6)
-- **Repository:** [MouseWurX/Bob](https://github.com/MouseWurX/Bob)
-- **Score:** 83/100
-- **Updated:** 2026-11-06T04:29:42Z
-- **Labels:** help wanted, good first issue, hardware report
+- **Updated:** 2026-11-06T16:43:50Z
+- **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Tried Bob on a real Mac? Tell us how it went](https://github.com/MouseWurX/Bob/issues/5)
-- **Repository:** [MouseWurX/Bob](https://github.com/MouseWurX/Bob)
+## [docs: add a privacy reminder before photo upload](https://github.com/DineshDhanoki/Lumiqe/issues/15)
+- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
 - **Score:** 83/100
-- **Updated:** 2026-11-06T04:29:37Z
-- **Labels:** help wanted, good first issue, hardware report
+- **Updated:** 2026-11-06T16:43:40Z
+- **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs: explain the model-weights setup path](https://github.com/DineshDhanoki/Lumiqe/issues/11)
+- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T16:43:28Z
+- **Labels:** documentation, enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs: add a clear local frontend-only quickstart](https://github.com/DineshDhanoki/Lumiqe/issues/10)
+- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T16:43:24Z
+- **Labels:** documentation, enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [feat(editor): make Home and End line navigation shortcuts customizable](https://github.com/eugenioenko/ttt/issues/1371)
+- **Repository:** [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
+- **Score:** 83/100
+- **Updated:** 2026-11-06T15:06:03Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 1063
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -190,7 +140,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-04T17:45:49Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 0
-- **Stars:** not checked
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -210,45 +160,95 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-04T02:17:53Z
 - **Labels:** documentation, enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** not checked
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Policy: deleting CI workflows, or writing one that sends a secret out, waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/405)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [Add Docker, CI, and a contributor-ready development guide](https://github.com/Aevor/ai/issues/14)
+- **Repository:** [Aevor/ai](https://github.com/Aevor/ai)
 - **Score:** 80/100
-- **Updated:** 2026-11-06T06:29:09Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 5
-- **Stars:** not checked
+- **Updated:** 2026-11-06T16:40:35Z
+- **Labels:** documentation, good first issue, help wanted
+- **Comments:** 3
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
-- **Repository:** [tadanobutubutu/screeps](https://github.com/tadanobutubutu/screeps)
-- **Score:** 80/100
-- **Updated:** 2026-11-06T05:55:51Z
-- **Labels:** bug, documentation, duplicate, enhancement, help wanted, good first issue, invalid, workflow-health, automated, bot, dependencies, ci, feature, javascript, github-actions, major, test, in-progress, stale, needs-review, security, config, renovate, sonarcloud, codecov, quality-report, chore, needs-triage, ai-solve, bounty
-- **Comments:** 1200
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Fix duplicate entries and null handling in bean XML property serialization](https://github.com/KaotoIO/kaoto/issues/4372)
-- **Repository:** [KaotoIO/kaoto](https://github.com/KaotoIO/kaoto)
+## [frontend: add an empty state for a new wardrobe](https://github.com/DineshDhanoki/Lumiqe/issues/16)
+- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
 - **Score:** 78/100
-- **Updated:** 2026-11-06T06:07:58Z
-- **Labels:** bug, good first issue, help wanted
+- **Updated:** 2026-11-06T16:43:43Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add --version support for checkout and installed CLI entry points](https://github.com/Voyagerroc/AptFlow/issues/1)
-- **Repository:** [Voyagerroc/AptFlow](https://github.com/Voyagerroc/AptFlow)
+## [frontend: improve the analysis submit loading state](https://github.com/DineshDhanoki/Lumiqe/issues/13)
+- **Repository:** [DineshDhanoki/Lumiqe](https://github.com/DineshDhanoki/Lumiqe)
 - **Score:** 78/100
-- **Updated:** 2026-11-06T06:02:43Z
+- **Updated:** 2026-11-06T16:43:34Z
 - **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Review the Japanese prompts in the CLI](https://github.com/SkillGauntlet/SkillGauntlet/issues/33)
+- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
+- **Score:** 78/100
+- **Updated:** 2026-11-06T16:14:27Z
+- **Labels:** documentation, good first issue, help wanted
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Try the CLI from scratch and tell us where you got stuck](https://github.com/SkillGauntlet/SkillGauntlet/issues/32)
+- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
+- **Score:** 78/100
+- **Updated:** 2026-11-06T16:14:25Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Confirm a leaderboard row with one test run](https://github.com/SkillGauntlet/SkillGauntlet/issues/31)
+- **Repository:** [SkillGauntlet/SkillGauntlet](https://github.com/SkillGauntlet/SkillGauntlet)
+- **Score:** 78/100
+- **Updated:** 2026-11-06T16:14:23Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [demo: a --json flag, with a test](https://github.com/bolubo/checkpoint-governor/issues/204)
+- **Repository:** [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor)
+- **Score:** 78/100
+- **Updated:** 2026-11-06T14:43:33Z
+- **Labels:** enhancement, help wanted, good first issue, kind/feature, area/python
+- **Comments:** 1
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[SEC / DEVOPS] Agent microservice ports 8081 and 8082 are bound to 0.0.0.0 in docker-compose.yml, bypassing Hub security](https://github.com/oscarbol09/a2a-hub/issues/58)
+- **Repository:** [oscarbol09/a2a-hub](https://github.com/oscarbol09/a2a-hub)
+- **Score:** 78/100
+- **Updated:** 2026-11-05T23:50:05Z
+- **Labels:** bug, help wanted, good first issue, security, devops
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Tree-sitter symbols for Go](https://github.com/Blhasn-Sehli/repo-interview/issues/3)
+- **Repository:** [Blhasn-Sehli/repo-interview](https://github.com/Blhasn-Sehli/repo-interview)
+- **Score:** 78/100
+- **Updated:** 2026-11-05T22:58:14Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week

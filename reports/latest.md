@@ -1,26 +1,16 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-07T12:54:29.830550+00:00
-Unique issues discovered: 222
+Generated: 2026-11-07T19:23:55.810751+00:00
+Unique issues discovered: 213
 Repositories checked for funding metadata: 12
 
-## [Add unit tests for the outbound link rel helper](https://github.com/elmohq/elmo/issues/1145)
-- **Repository:** [elmohq/elmo](https://github.com/elmohq/elmo)
-- **Score:** 99/100
-- **Updated:** 2026-11-07T12:09:42Z
-- **Labels:** good first issue, help wanted, area/marketing
-- **Comments:** 1
-- **Stars:** 575
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: elmohq
-
-## [Harden the pprof debug listener: crash isolation, explicit mux, and the docs it still needs](https://github.com/streamcoreai/streamcore-server/issues/64)
-- **Repository:** [streamcoreai/streamcore-server](https://github.com/streamcoreai/streamcore-server)
+## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
+- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
 - **Score:** 95/100
-- **Updated:** 2026-11-07T11:13:44Z
-- **Labels:** documentation, enhancement, good first issue, help wanted, area: config, effort: small, translation, tests
-- **Comments:** 7
-- **Stars:** 245
+- **Updated:** 2026-11-07T18:56:14Z
+- **Labels:** help wanted, good first issue, bounty-waiting
+- **Comments:** 4
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -44,13 +34,13 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[BUG] Go SDK clients panic on a malformed ID instead of returning an error](https://github.com/hatchet-dev/hatchet/issues/5425)
-- **Repository:** [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+## [CI never runs on macOS even though the tool explicitly documents macOS support](https://github.com/saimskywalker/alignmint/issues/6)
+- **Repository:** [saimskywalker/alignmint](https://github.com/saimskywalker/alignmint)
 - **Score:** 91/100
-- **Updated:** 2026-11-07T11:20:01Z
-- **Labels:** good first issue, help wanted, sdk-go, accepted
-- **Comments:** 2
-- **Stars:** 8237
+- **Updated:** 2026-11-07T18:38:39Z
+- **Labels:** enhancement, help wanted, good first issue, ci
+- **Comments:** 1
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -74,181 +64,191 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2)
-- **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
-- **Score:** 86/100
-- **Updated:** 2026-11-07T12:47:59Z
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1)
+- **Repository:** [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier)
+- **Score:** 90/100
+- **Updated:** 2026-11-07T19:17:18Z
 - **Labels:** help wanted, good first issue, bounty
+- **Comments:** 3
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [A non-zip or truncated APK is reported as misaligned by the real zipalign (exit 1) instead of could-not-verify (exit 2)](https://github.com/saimskywalker/alignmint/issues/5)
+- **Repository:** [saimskywalker/alignmint](https://github.com/saimskywalker/alignmint)
+- **Score:** 90/100
+- **Updated:** 2026-11-07T18:38:30Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2)
+- **Repository:** [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier)
+- **Score:** 86/100
+- **Updated:** 2026-11-07T19:17:19Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[chore]: Fix release process](https://github.com/jaegertracing/jaeger-ui/issues/3882)
+- **Repository:** [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+- **Score:** 86/100
+- **Updated:** 2026-11-07T19:15:34Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 2
+- **Stars:** 1546
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Wi-Fi name and signal are blank when Windows is not set to English](https://github.com/IkariShinjiii/gabay/issues/324)
+- **Repository:** [IkariShinjiii/gabay](https://github.com/IkariShinjiii/gabay)
+- **Score:** 86/100
+- **Updated:** 2026-11-07T19:15:05Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 1
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Permission error in v0.25.0](https://github.com/sustainable-computing-io/kepler-operator/issues/706)
+- **Repository:** [sustainable-computing-io/kepler-operator](https://github.com/sustainable-computing-io/kepler-operator)
+- **Score:** 86/100
+- **Updated:** 2026-11-07T19:11:33Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 1
+- **Stars:** 40
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Bounty $1,200] security(validator): reject float and bool sequence inputs in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48)
+- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
+- **Score:** 86/100
+- **Updated:** 2026-11-07T19:10:32Z
+- **Labels:** bug, help wanted, good first issue, 💎 Bounty $500, Stellar Wave, bounty, up-for-grabs
 - **Comments:** 1
 - **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1)
-- **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
-- **Score:** 86/100
-- **Updated:** 2026-11-07T12:47:58Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Wrap the lazy-loaded Ask Jaeger dock in an error boundary](https://github.com/jaegertracing/jaeger-ui/issues/4706)
-- **Repository:** [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-- **Score:** 86/100
-- **Updated:** 2026-11-07T12:28:29Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 1546
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add an offline comparison of Python runtime diagnostics across hosting plans](https://github.com/yeongseon/azure-functions-doctor-python/issues/664)
-- **Repository:** [yeongseon/azure-functions-doctor-python](https://github.com/yeongseon/azure-functions-doctor-python)
+## [Fix FLUX image sizes: 1440x816 is not a multiple of 32](https://github.com/blixvip/GenMotion/issues/21)
+- **Repository:** [blixvip/GenMotion](https://github.com/blixvip/GenMotion)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:52:38Z
-- **Labels:** help wanted, good first issue, needs-triage, size: S, priority: low
+- **Updated:** 2026-11-07T19:05:54Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 24
+- **Stars:** 42
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Write a self-contained MockHttpRequest testing recipe for validated handlers](https://github.com/yeongseon/azure-functions-validation-python/issues/634)
-- **Repository:** [yeongseon/azure-functions-validation-python](https://github.com/yeongseon/azure-functions-validation-python)
+## [Stop the static showcase build from linking to the server-only /editor page](https://github.com/blixvip/MotionClone/issues/45)
+- **Repository:** [blixvip/MotionClone](https://github.com/blixvip/MotionClone)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:52:29Z
-- **Labels:** help wanted, good first issue, needs-triage, priority: low, size: S
-- **Comments:** 0
-- **Stars:** 13
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Show supported and rejected generic response shorthand in a small tested example](https://github.com/yeongseon/azure-functions-openapi-python/issues/895)
-- **Repository:** [yeongseon/azure-functions-openapi-python](https://github.com/yeongseon/azure-functions-openapi-python)
-- **Score:** 83/100
-- **Updated:** 2026-11-07T12:52:27Z
-- **Labels:** help wanted, good first issue, needs-triage, priority: low, size: S
-- **Comments:** 0
-- **Stars:** 33
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Show how diagnostic profiles change results on the same local project](https://github.com/yeongseon/azure-functions-doctor-python/issues/662)
-- **Repository:** [yeongseon/azure-functions-doctor-python](https://github.com/yeongseon/azure-functions-doctor-python)
-- **Score:** 83/100
-- **Updated:** 2026-11-07T12:47:55Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, size: S, priority: low
+- **Updated:** 2026-11-07T19:03:31Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a local synthetic queue-message smoke example for a generated worker](https://github.com/yeongseon/azure-functions-scaffold-python/issues/480)
-- **Repository:** [yeongseon/azure-functions-scaffold-python](https://github.com/yeongseon/azure-functions-scaffold-python)
+## [Make `doctor --json` exit non-zero when the setup is not ready](https://github.com/blixvip/easyedit/issues/54)
+- **Repository:** [blixvip/easyedit](https://github.com/blixvip/easyedit)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:47:53Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T19:00:24Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Document duplicate SQL result labels with an offline reader example](https://github.com/yeongseon/azure-functions-db-python/issues/520)
-- **Repository:** [yeongseon/azure-functions-db-python](https://github.com/yeongseon/azure-functions-db-python)
+## [Write the preview composition during --no-render so `hyperframes preview` works](https://github.com/blixvip/easyedit/issues/53)
+- **Repository:** [blixvip/easyedit](https://github.com/blixvip/easyedit)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:47:50Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T19:00:23Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Create a focused recipe for custom validation-error status and media type](https://github.com/yeongseon/azure-functions-validation-python/issues/632)
-- **Repository:** [yeongseon/azure-functions-validation-python](https://github.com/yeongseon/azure-functions-validation-python)
+## [Add tests for the ANDROID_SDK_ROOT, ANDROID_NDK_ROOT and default SDK fallbacks](https://github.com/saimskywalker/alignmint/issues/15)
+- **Repository:** [saimskywalker/alignmint](https://github.com/saimskywalker/alignmint)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:47:44Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T18:38:37Z
+- **Labels:** help wanted, good first issue, tests
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a CLI strict-mode walkthrough for validating custom HTTP method specifications](https://github.com/yeongseon/azure-functions-openapi-python/issues/892)
-- **Repository:** [yeongseon/azure-functions-openapi-python](https://github.com/yeongseon/azure-functions-openapi-python)
+## [README: show how to find which dependency ships a failing .so](https://github.com/saimskywalker/alignmint/issues/22)
+- **Repository:** [saimskywalker/alignmint](https://github.com/saimskywalker/alignmint)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:47:42Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T18:38:35Z
+- **Labels:** documentation, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a credential-free SARIF CI example with schema validation](https://github.com/yeongseon/azure-functions-doctor-python/issues/661)
-- **Repository:** [yeongseon/azure-functions-doctor-python](https://github.com/yeongseon/azure-functions-doctor-python)
+## [Test the install scripts in CI](https://github.com/GregoireF/ship-it/issues/97)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:47Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, size: S, priority: low
+- **Updated:** 2026-11-07T17:54:05Z
+- **Labels:** help wanted, good first issue, kind/test, priority/p2, triage/accepted, area/release
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add an offline event-hub template smoke test using a synthetic message](https://github.com/yeongseon/azure-functions-scaffold-python/issues/479)
-- **Repository:** [yeongseon/azure-functions-scaffold-python](https://github.com/yeongseon/azure-functions-scaffold-python)
+## [Package ship-it for Nix](https://github.com/GregoireF/ship-it/issues/96)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:43Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T17:53:59Z
+- **Labels:** help wanted, good first issue, kind/build, priority/p2, triage/accepted, area/release
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a safe client example that distinguishes buffered SSE from true streaming](https://github.com/yeongseon/azure-functions-langgraph-python/issues/820)
-- **Repository:** [yeongseon/azure-functions-langgraph-python](https://github.com/yeongseon/azure-functions-langgraph-python)
+## [Package ship-it for Arch Linux (AUR)](https://github.com/GregoireF/ship-it/issues/95)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:41Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T17:53:53Z
+- **Labels:** help wanted, good first issue, kind/build, priority/p2, triage/accepted, area/release
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Show percent-encoded database URL expansion in a small offline example](https://github.com/yeongseon/azure-functions-db-python/issues/519)
-- **Repository:** [yeongseon/azure-functions-db-python](https://github.com/yeongseon/azure-functions-db-python)
+## [Docs: troubleshooting for the first errors people meet](https://github.com/GregoireF/ship-it/issues/94)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:40Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T17:53:46Z
+- **Labels:** kind/docs, help wanted, good first issue, priority/p2, triage/accepted, area/docs
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Expose the existing OpenTelemetry correlation app as a reproducible cookbook walkthrough](https://github.com/yeongseon/azure-functions-logging-python/issues/657)
-- **Repository:** [yeongseon/azure-functions-logging-python](https://github.com/yeongseon/azure-functions-logging-python)
+## [Docs: a tutorial for your first stack](https://github.com/GregoireF/ship-it/issues/93)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:38Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T17:53:40Z
+- **Labels:** kind/docs, help wanted, good first issue, priority/p2, triage/accepted, area/stack, area/docs
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a standalone scalar-query validation recipe without a BaseModel](https://github.com/yeongseon/azure-functions-validation-python/issues/631)
-- **Repository:** [yeongseon/azure-functions-validation-python](https://github.com/yeongseon/azure-functions-validation-python)
+## [Docs: use ship-it in GitHub Actions](https://github.com/GregoireF/ship-it/issues/92)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:35Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add a version-aware nullable schema comparison for OpenAPI 3.0 and 3.1](https://github.com/yeongseon/azure-functions-openapi-python/issues/891)
-- **Repository:** [yeongseon/azure-functions-openapi-python](https://github.com/yeongseon/azure-functions-openapi-python)
-- **Score:** 83/100
-- **Updated:** 2026-11-07T12:45:34Z
-- **Labels:** documentation, help wanted, good first issue, needs-triage, priority: low, size: S
+- **Updated:** 2026-11-07T17:53:33Z
+- **Labels:** kind/docs, help wanted, good first issue, priority/p2, triage/accepted, area/docs
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week

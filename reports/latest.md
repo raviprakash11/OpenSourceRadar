@@ -1,66 +1,76 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-08T10:12:45.334973+00:00
-Unique issues discovered: 219
+Generated: 2026-11-08T17:54:49.288459+00:00
+Unique issues discovered: 221
 Repositories checked for funding metadata: 12
 
 ## [Lambda deployments acknowledge the webhook only after the whole review has run](https://github.com/The-PR-Agent/pr-agent/issues/4748)
 - **Repository:** [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
-- **Score:** 99/100
-- **Updated:** 2026-11-08T08:12:48Z
+- **Score:** 100/100
+- **Updated:** 2026-11-08T10:50:34Z
 - **Labels:** good first issue, help wanted, Medium Effort Issue, bug
-- **Comments:** 2
-- **Stars:** 15513
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Comments:** 3
+- **Stars:** 15566
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: naorpeled
 
-## [Text size setting for the floating window](https://github.com/GianlucaBave/murmury/issues/13)
-- **Repository:** [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury)
+## [`ship stack sync` accepts `--yes`, like the other commands that write](https://github.com/GregoireF/ship-it/issues/57)
+- **Repository:** [GregoireF/ship-it](https://github.com/GregoireF/ship-it)
 - **Score:** 95/100
-- **Updated:** 2026-11-08T10:05:18Z
-- **Labels:** enhancement, help wanted, good first issue, wocs, level 2
-- **Comments:** 5
-- **Stars:** 9
+- **Updated:** 2026-11-08T15:50:40Z
+- **Labels:** kind/bug, help wanted, good first issue, priority/p1, triage/accepted, area/cli, area/stack
+- **Comments:** 7
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [publish: long titles on thumbnails and covers lose words without an ellipsis](https://github.com/laaielichter/Ai-edit-studio/issues/48)
+## [[BUG] Go SDK clients panic on a malformed ID instead of returning an error](https://github.com/hatchet-dev/hatchet/issues/5425)
+- **Repository:** [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+- **Score:** 95/100
+- **Updated:** 2026-11-08T15:36:58Z
+- **Labels:** good first issue, help wanted, sdk-go, accepted
+- **Comments:** 3
+- **Stars:** 8248
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Call for Testing] Try ModelWarmup in AIBrix v0.8.0 or master branch](https://github.com/vllm-project/aibrix/issues/3100)
+- **Repository:** [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
+- **Score:** 95/100
+- **Updated:** 2026-11-08T15:07:55Z
+- **Labels:** good first issue, help wanted, kind/misc, area/website
+- **Comments:** 3
+- **Stars:** 5182
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [A declared mart named with `__` gets no derived semantic model](https://github.com/exmergo/dex/issues/1207)
+- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
+- **Score:** 91/100
+- **Updated:** 2026-11-08T17:50:22Z
+- **Labels:** enhancement, good first issue, help wanted
+- **Comments:** 2
+- **Stars:** 116
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [export_timeline: the CSV shot list lets a label run as a spreadsheet formula (=HYPERLINK...)](https://github.com/laaielichter/Ai-edit-studio/issues/59)
 - **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
 - **Score:** 91/100
-- **Updated:** 2026-11-08T09:20:36Z
+- **Updated:** 2026-11-08T17:15:31Z
 - **Labels:** bug, help wanted, good first issue
 - **Comments:** 1
 - **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [publish: hashtags repeat in another case ("#GameDev #gamedev", "#shorts #Shorts")](https://github.com/laaielichter/Ai-edit-studio/issues/47)
-- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
+## [`semantic define|update|plan` gives dbt's raw "dbt deps" message when packages are not installed](https://github.com/exmergo/dex/issues/1206)
+- **Repository:** [exmergo/dex](https://github.com/exmergo/dex)
 - **Score:** 91/100
-- **Updated:** 2026-11-08T09:12:08Z
-- **Labels:** bug, help wanted, good first issue
+- **Updated:** 2026-11-08T16:51:43Z
+- **Labels:** bug, good first issue, help wanted
 - **Comments:** 1
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [clips: sentence ends in Chinese and Japanese (。！？) are not recognised](https://github.com/laaielichter/Ai-edit-studio/issues/51)
-- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
-- **Score:** 91/100
-- **Updated:** 2026-11-08T09:07:00Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/vehicle-position-endpoints/{endpoint_id} (E07)](https://github.com/OneBusAway/watchdog/issues/221)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 91/100
-- **Updated:** 2026-11-08T07:19:21Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 1
-- **Stars:** 27
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -84,172 +94,162 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [CI never runs on macOS even though the tool explicitly documents macOS support](https://github.com/saimskywalker/alignmint/issues/6)
-- **Repository:** [saimskywalker/alignmint](https://github.com/saimskywalker/alignmint)
-- **Score:** 91/100
-- **Updated:** 2026-11-07T18:38:39Z
-- **Labels:** enhancement, help wanted, good first issue, ci
-- **Comments:** 1
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+## [[good first issue, hacktoberfest] 🪭 Add new Example Sentence 1052 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/33640)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 88/100
+- **Updated:** 2026-11-08T17:25:14Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, stale-warning, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 5
+- **Stars:** 3828
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time, public funding metadata detected; verify details
+- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+
+## [[Feature]: Unify MoE "Oracles" with Class Structure](https://github.com/vllm-project/vllm/issues/37753)
+- **Repository:** [vllm-project/vllm](https://github.com/vllm-project/vllm)
+- **Score:** 88/100
+- **Updated:** 2026-11-08T17:07:40Z
+- **Labels:** help wanted, good first issue, feature request
+- **Comments:** 23
+- **Stars:** 96553
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time, public funding metadata detected; verify details
+- **Funding signals:** github: [vllm-project]; open_collective: vllm
+
+## [fix(flexi-content): wrap editor aria-labels with i18n](https://github.com/noruzzamans/gslider-blocks/issues/697)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:43:33Z
+- **Labels:** help wanted, good first issue, type: bug, focus: blocks, focus: accessibility, focus: i18n, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** 13
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
-- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
-- **Score:** 90/100
-- **Updated:** 2026-11-08T09:45:19Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 15
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [brand: accept short hex colours like #FFF](https://github.com/laaielichter/Ai-edit-studio/issues/49)
-- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
-- **Score:** 90/100
-- **Updated:** 2026-11-08T09:35:19Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 3
+## [fix(testimonial): wrap editor aria-labels with i18n](https://github.com/noruzzamans/gslider-blocks/issues/696)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:43:31Z
+- **Labels:** help wanted, good first issue, type: bug, focus: blocks, focus: accessibility, focus: i18n, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add screenshot of website to `README.md`](https://github.com/martinfrancois/question-driven-talk-assistant/issues/550)
-- **Repository:** [martinfrancois/question-driven-talk-assistant](https://github.com/martinfrancois/question-driven-talk-assistant)
-- **Score:** 87/100
-- **Updated:** 2026-11-08T09:37:36Z
-- **Labels:** documentation, help wanted, good first issue
+## [fix(base): wrap editor aria-labels with i18n](https://github.com/noruzzamans/gslider-blocks/issues/695)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:43:28Z
+- **Labels:** help wanted, good first issue, type: bug, focus: blocks, focus: accessibility, focus: i18n, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(logo-carousel): wrap editor aria-labels with i18n](https://github.com/noruzzamans/gslider-blocks/issues/694)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:42:50Z
+- **Labels:** help wanted, good first issue, type: bug, focus: blocks, focus: swiper-engine, focus: accessibility, focus: i18n, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(image-slider): wrap editor aria-labels with i18n](https://github.com/noruzzamans/gslider-blocks/issues/693)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:42:49Z
+- **Labels:** help wanted, good first issue, type: bug, focus: blocks, focus: swiper-engine, focus: accessibility, focus: i18n, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs(flexi-content-item): replace invalid JSDoc returns tag with return in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/692)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:42:47Z
+- **Labels:** help wanted, good first issue, type: documentation, focus: blocks, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs(testimonial): replace invalid JSDoc returns tag with return in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/691)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:42:45Z
+- **Labels:** help wanted, good first issue, type: documentation, focus: blocks, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs(logo-carousel): replace invalid JSDoc returns tag with return in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/690)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:42:43Z
+- **Labels:** help wanted, good first issue, type: documentation, focus: blocks, focus: swiper-engine, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs(image-slider): replace invalid JSDoc returns tag with return in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/689)
+- **Repository:** [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T17:42:42Z
+- **Labels:** help wanted, good first issue, type: documentation, focus: blocks, focus: swiper-engine, hacktoberfest, up-for-grabs, winter-of-code, first-timers-only
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Codex: check whether a person can approve a held call from inside the Codex session, and if so give the held line that form](https://github.com/Cygnux-Labs/Tracekit/issues/672)
+- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T05:27:34Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 603
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Gemini CLI: check whether a `!` line runs as the person, and if so give the held line that form](https://github.com/Cygnux-Labs/Tracekit/issues/671)
+- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+- **Score:** 83/100
+- **Updated:** 2026-11-08T05:27:19Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [automation: test NextEligible through RunOnce rather than runBatch](https://github.com/TerraSkye/eventsourcing/issues/269)
+- **Repository:** [TerraSkye/eventsourcing](https://github.com/TerraSkye/eventsourcing)
+- **Score:** 78/100
+- **Updated:** 2026-11-08T13:06:36Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Recognise ghalint as workflow security](https://github.com/MustacheCase/zanadir/issues/451)
+- **Repository:** [MustacheCase/zanadir](https://github.com/MustacheCase/zanadir)
+- **Score:** 77/100
+- **Updated:** 2026-11-08T16:07:16Z
+- **Labels:** enhancement, good first issue
+- **Comments:** 4
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add support for OSv in urunc](https://github.com/urunc-dev/urunc/issues/103)
+- **Repository:** [urunc-dev/urunc](https://github.com/urunc-dev/urunc)
+- **Score:** 77/100
+- **Updated:** 2026-11-08T14:51:12Z
+- **Labels:** enhancement, good first issue, feature, dev, Guests
 - **Comments:** 6
-- **Stars:** 7
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [check --max-change: -c default and no -c keep separate row-count histories](https://github.com/laaielichter/Gulliver/issues/75)
-- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T10:11:19Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [bdweb: fix the two svelte-check errors in `routes/+page.svelte`](https://github.com/petercorke/bdsim/issues/217)
-- **Repository:** [petercorke/bdsim](https://github.com/petercorke/bdsim)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T10:04:34Z
-- **Labels:** help wanted, good first issue, bdweb
-- **Comments:** 1
-- **Stars:** 277
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2)
-- **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T09:49:54Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 1
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1)
-- **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T09:49:53Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 1
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
-- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T09:45:18Z
-- **Labels:** help wanted, good first issue, bounty
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [check --range: refuse NaN, infinite and inverted bounds with a clear message](https://github.com/laaielichter/Gulliver/issues/74)
-- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T09:35:53Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Budget: refuse fractional values for whole-number limits and true/false for any limit](https://github.com/laaielichter/Gulliver/issues/76)
-- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
-- **Score:** 86/100
-- **Updated:** 2026-11-08T09:33:42Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Show a visible note when a fallback model produced the output](https://github.com/The-PR-Agent/pr-agent/issues/4764)
-- **Repository:** [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T09:48:17Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Close the full-screen QR code with Escape](https://github.com/martinfrancois/question-driven-talk-assistant/issues/1090)
-- **Repository:** [martinfrancois/question-driven-talk-assistant](https://github.com/martinfrancois/question-driven-talk-assistant)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T09:45:19Z
-- **Labels:** bug, help wanted, good first issue, a11y
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[docs] Add cross-reference index for all closed issues to docs/](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/577)
-- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T09:20:28Z
-- **Labels:** documentation, help wanted, good first issue, repo-health
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[sdk] Add validateMerkleTreeFile test for malformed proof arrays](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/575)
-- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T09:20:20Z
-- **Labels:** help wanted, good first issue, sdk, testing
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[contract] Add test for claimed_count after batch_claim](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/574)
-- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T09:20:16Z
-- **Labels:** help wanted, good first issue, contract, testing
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [publish: a long brief cuts the call to action and hashtags off the X draft](https://github.com/laaielichter/Ai-edit-studio/issues/50)
-- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T08:28:14Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

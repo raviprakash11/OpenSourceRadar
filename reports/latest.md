@@ -1,86 +1,86 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-08T00:31:43.973195+00:00
-Unique issues discovered: 220
+Generated: 2026-11-08T10:12:45.334973+00:00
+Unique issues discovered: 219
 Repositories checked for funding metadata: 12
 
-## [[Test] TPU plugin unit tests that never run or can't fail](https://github.com/sgl-project/sglang-torchtpu/issues/1984)
-- **Repository:** [sgl-project/sglang-torchtpu](https://github.com/sgl-project/sglang-torchtpu)
+## [Lambda deployments acknowledge the webhook only after the whole review has run](https://github.com/The-PR-Agent/pr-agent/issues/4748)
+- **Repository:** [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- **Score:** 99/100
+- **Updated:** 2026-11-08T08:12:48Z
+- **Labels:** good first issue, help wanted, Medium Effort Issue, bug
+- **Comments:** 2
+- **Stars:** 15513
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: naorpeled
+
+## [Text size setting for the floating window](https://github.com/GianlucaBave/murmury/issues/13)
+- **Repository:** [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury)
 - **Score:** 95/100
-- **Updated:** 2026-11-08T00:30:44Z
-- **Labels:** good first issue, help wanted, tpu
-- **Comments:** 4
-- **Stars:** 75
+- **Updated:** 2026-11-08T10:05:18Z
+- **Labels:** enhancement, help wanted, good first issue, wocs, level 2
+- **Comments:** 5
+- **Stars:** 9
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Onboarding / Good First Issue]: Curate beginner-friendly AST parser stubs](https://github.com/SankarGaneshb/rover-slim/issues/5)
-- **Repository:** [SankarGaneshb/rover-slim](https://github.com/SankarGaneshb/rover-slim)
-- **Score:** 95/100
-- **Updated:** 2026-11-08T00:11:54Z
-- **Labels:** help wanted, good first issue, core
-- **Comments:** 3
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[reviewer] Review backlog (correctness): move-hub-registered-cutover.md cites env-vars.md:306-321 for derived keys, but that section is at 464-475](https://github.com/hivecommons/hive/issues/17038)
-- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
-- **Score:** 95/100
-- **Updated:** 2026-11-07T23:27:59Z
-- **Labels:** good first issue, help wanted, agent/reviewer, stage/040-covered-by-pr
-- **Comments:** 4
-- **Stars:** 80
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [EMBA does not detect all components / SBOM is incomplete](https://github.com/e-m-b-a/emba/issues/2132)
-- **Repository:** [e-m-b-a/emba](https://github.com/e-m-b-a/emba)
-- **Score:** 95/100
-- **Updated:** 2026-11-07T01:30:23Z
-- **Labels:** bug, documentation, enhancement, help wanted, good first issue, stale, Core modules (Sxx), EMBA, SBOM
-- **Comments:** 4
-- **Stars:** 3750
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Umbrella][Improve] Migrate Connector/Transform Validation to Declarative OptionRule — Claim & Tracking](https://github.com/apache/seatunnel/issues/11007)
-- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
-- **Score:** 95/100
-- **Updated:** 2026-11-06T07:37:41Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 226
-- **Stars:** 9795
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Bounty $900] perf(validator): replace floor division with bitwise mask in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/44)
-- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
+## [publish: long titles on thumbnails and covers lose words without an ellipsis](https://github.com/laaielichter/Ai-edit-studio/issues/48)
+- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
 - **Score:** 91/100
-- **Updated:** 2026-11-07T23:50:36Z
-- **Labels:** help wanted, good first issue, 💎 Bounty $500, Stellar Wave, bounty, up-for-grabs, 🤖 Bot-Tier-2: Template-Sybil [S:21-40], 🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80], 🎯 Bot-Score: 95-100% [Confirmed-AI]
+- **Updated:** 2026-11-08T09:20:36Z
+- **Labels:** bug, help wanted, good first issue
 - **Comments:** 1
-- **Stars:** 0
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq=64 in TestLedgerValidator](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/49)
-- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
+## [publish: hashtags repeat in another case ("#GameDev #gamedev", "#shorts #Shorts")](https://github.com/laaielichter/Ai-edit-studio/issues/47)
+- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
 - **Score:** 91/100
-- **Updated:** 2026-11-07T23:50:30Z
-- **Labels:** help wanted, good first issue, 💎 Bounty $500, Stellar Wave, bounty, up-for-grabs, 🤖 Bot-Tier-2: Template-Sybil [S:21-40], 🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80], 🎯 Bot-Score: 95-100% [Confirmed-AI]
+- **Updated:** 2026-11-08T09:12:08Z
+- **Labels:** bug, help wanted, good first issue
 - **Comments:** 1
 - **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [clips: sentence ends in Chinese and Japanese (。！？) are not recognised](https://github.com/laaielichter/Ai-edit-studio/issues/51)
+- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
+- **Score:** 91/100
+- **Updated:** 2026-11-08T09:07:00Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Investigation API: GET /v1/vehicle-position-endpoints/{endpoint_id} (E07)](https://github.com/OneBusAway/watchdog/issues/221)
+- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
+- **Score:** 91/100
+- **Updated:** 2026-11-08T07:19:21Z
+- **Labels:** enhancement, good first issue, help wanted
+- **Comments:** 1
+- **Stars:** 27
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
 - **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
 - **Score:** 91/100
-- **Updated:** 2026-11-07T21:47:11Z
+- **Updated:** 2026-11-08T04:34:31Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 2
 - **Stars:** 287
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [External Link Check Report](https://github.com/microcks/microcks.io/issues/75)
+- **Repository:** [microcks/microcks.io](https://github.com/microcks/microcks.io)
+- **Score:** 91/100
+- **Updated:** 2026-11-08T00:57:48Z
+- **Labels:** help wanted, good first issue, report, automated issue, contribution message
+- **Comments:** 1
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -94,40 +94,60 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [API Gateway HTTP API JWT authorizers](https://github.com/Alejo2075/cloud-to-code/issues/4)
-- **Repository:** [Alejo2075/cloud-to-code](https://github.com/Alejo2075/cloud-to-code)
-- **Score:** 91/100
-- **Updated:** 2026-11-06T20:12:55Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Translations wanted](https://github.com/lucaswotta/control-kill/issues/5)
-- **Repository:** [lucaswotta/control-kill](https://github.com/lucaswotta/control-kill)
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1)
+- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
 - **Score:** 90/100
-- **Updated:** 2026-11-07T22:26:33Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 3
-- **Stars:** 1
+- **Updated:** 2026-11-08T09:45:19Z
+- **Labels:** help wanted, good first issue, bounty
+- **Comments:** 15
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [A non-zip or truncated APK is reported as misaligned by the real zipalign (exit 1) instead of could-not-verify (exit 2)](https://github.com/saimskywalker/alignmint/issues/5)
-- **Repository:** [saimskywalker/alignmint](https://github.com/saimskywalker/alignmint)
+## [brand: accept short hex colours like #FFF](https://github.com/laaielichter/Ai-edit-studio/issues/49)
+- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
 - **Score:** 90/100
-- **Updated:** 2026-11-07T18:38:30Z
-- **Labels:** bug, help wanted, good first issue
+- **Updated:** 2026-11-08T09:35:19Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
+## [Add screenshot of website to `README.md`](https://github.com/martinfrancois/question-driven-talk-assistant/issues/550)
+- **Repository:** [martinfrancois/question-driven-talk-assistant](https://github.com/martinfrancois/question-driven-talk-assistant)
+- **Score:** 87/100
+- **Updated:** 2026-11-08T09:37:36Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 6
+- **Stars:** 7
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [check --max-change: -c default and no -c keep separate row-count histories](https://github.com/laaielichter/Gulliver/issues/75)
+- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
+- **Score:** 86/100
+- **Updated:** 2026-11-08T10:11:19Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [bdweb: fix the two svelte-check errors in `routes/+page.svelte`](https://github.com/petercorke/bdsim/issues/217)
+- **Repository:** [petercorke/bdsim](https://github.com/petercorke/bdsim)
+- **Score:** 86/100
+- **Updated:** 2026-11-08T10:04:34Z
+- **Labels:** help wanted, good first issue, bdweb
+- **Comments:** 1
+- **Stars:** 277
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
 ## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2)
 - **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
 - **Score:** 86/100
-- **Updated:** 2026-11-08T00:17:31Z
+- **Updated:** 2026-11-08T09:49:54Z
 - **Labels:** help wanted, good first issue, bounty
 - **Comments:** 1
 - **Stars:** 2
@@ -137,118 +157,98 @@ Repositories checked for funding metadata: 12
 ## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1)
 - **Repository:** [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix)
 - **Score:** 86/100
-- **Updated:** 2026-11-08T00:17:30Z
+- **Updated:** 2026-11-08T09:49:53Z
 - **Labels:** help wanted, good first issue, bounty
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=256 in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/46)
-- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2)
+- **Repository:** [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance)
 - **Score:** 86/100
-- **Updated:** 2026-11-07T23:50:32Z
-- **Labels:** bug, help wanted, good first issue, 💎 Bounty $500, Stellar Wave, bounty, up-for-grabs, 🤖 Bot-Tier-3: Prompt-Injected [S:41-60], 🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80], 🎯 Bot-Score: 95-100% [Confirmed-AI]
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Bounty $1,200] security(validator): reject float and bool sequence inputs in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48)
-- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
-- **Score:** 86/100
-- **Updated:** 2026-11-07T23:50:29Z
-- **Labels:** bug, help wanted, good first issue, 💎 Bounty $500, Stellar Wave, bounty, up-for-grabs, 🤖 Bot-Tier-2: Template-Sybil [S:21-40], 🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80], 🎯 Bot-Score: 95-100% [Confirmed-AI]
+- **Updated:** 2026-11-08T09:45:18Z
+- **Labels:** help wanted, good first issue, bounty
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Document a verified VS Code MCP setup on Linux](https://github.com/yuki4266/ruin-everything/issues/1)
-- **Repository:** [yuki4266/ruin-everything](https://github.com/yuki4266/ruin-everything)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T00:23:38Z
-- **Labels:** documentation, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 4
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Bounty $350] docs(validator): add docstring usage examples for verify_sequence_gap in src/ledger_validator.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/16)
-- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
-- **Score:** 83/100
-- **Updated:** 2026-11-08T00:21:00Z
-- **Labels:** help wanted, good first issue, 💎 Bounty $500, bounty, hacktoberfest, up-for-grabs, 🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80], 🎯 Bot-Score: 95-100% [Confirmed-AI]
+## [check --range: refuse NaN, infinite and inverted bounds with a clear message](https://github.com/laaielichter/Gulliver/issues/74)
+- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
+- **Score:** 86/100
+- **Updated:** 2026-11-08T09:35:53Z
+- **Labels:** bug, help wanted, good first issue
 - **Comments:** 1
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Bounty $800] refactor(validator): handle legacy sequence key alias in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/47)
-- **Repository:** [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark)
+## [Budget: refuse fractional values for whole-number limits and true/false for any limit](https://github.com/laaielichter/Gulliver/issues/76)
+- **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
+- **Score:** 86/100
+- **Updated:** 2026-11-08T09:33:42Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Show a visible note when a fallback model produced the output](https://github.com/The-PR-Agent/pr-agent/issues/4764)
+- **Repository:** [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T23:50:56Z
-- **Labels:** help wanted, good first issue, 💎 Bounty $500, Stellar Wave, bounty, up-for-grabs, 🤖 Bot-Tier-4: Auto-PR-Fork [S:61-80], 🎯 Bot-Score: 95-100% [Confirmed-AI]
+- **Updated:** 2026-11-08T09:48:17Z
+- **Labels:** enhancement, good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Type-check the public TypeScript declarations in CI](https://github.com/iziuqo/compresso/issues/74)
-- **Repository:** [iziuqo/compresso](https://github.com/iziuqo/compresso)
+## [Close the full-screen QR code with Escape](https://github.com/martinfrancois/question-driven-talk-assistant/issues/1090)
+- **Repository:** [martinfrancois/question-driven-talk-assistant](https://github.com/martinfrancois/question-driven-talk-assistant)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T23:50:11Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-08T09:45:19Z
+- **Labels:** bug, help wanted, good first issue, a11y
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add "Open in StackBlitz" links for the framework examples](https://github.com/iziuqo/compresso/issues/73)
-- **Repository:** [iziuqo/compresso](https://github.com/iziuqo/compresso)
+## [[docs] Add cross-reference index for all closed issues to docs/](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/577)
+- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T23:50:06Z
-- **Labels:** documentation, help wanted, good first issue
+- **Updated:** 2026-11-08T09:20:28Z
+- **Labels:** documentation, help wanted, good first issue, repo-health
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a SolidJS example to examples/](https://github.com/iziuqo/compresso/issues/72)
-- **Repository:** [iziuqo/compresso](https://github.com/iziuqo/compresso)
+## [[sdk] Add validateMerkleTreeFile test for malformed proof arrays](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/575)
+- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T23:50:01Z
-- **Labels:** documentation, help wanted, good first issue
+- **Updated:** 2026-11-08T09:20:20Z
+- **Labels:** help wanted, good first issue, sdk, testing
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[docs][good first] Add a glossary and first-hour contributor walkthrough](https://github.com/looptag-labs/looptag/issues/23)
-- **Repository:** [looptag-labs/looptag](https://github.com/looptag-labs/looptag)
+## [[contract] Add test for claimed_count after batch_claim](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/574)
+- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T23:38:37Z
-- **Labels:** help wanted, good first issue, Stellar Wave, priority: low, complexity: trivial, docs
+- **Updated:** 2026-11-08T09:20:16Z
+- **Labels:** help wanted, good first issue, contract, testing
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Good First Issue] 众包校勘：为历史大事、地标事件与人物行迹补充史籍出处 / Add historical sources for milestones, events & figures](https://github.com/DeanChensj/jiangshan-map/issues/309)
-- **Repository:** [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+## [publish: a long brief cuts the call to action and hashtags off the X draft](https://github.com/laaielichter/Ai-edit-studio/issues/50)
+- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
 - **Score:** 83/100
-- **Updated:** 2026-11-07T22:02:12Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Try the installer on Windows, Linux or an Intel Mac and report back](https://github.com/reeper316099/VariantScope/issues/2)
-- **Repository:** [reeper316099/VariantScope](https://github.com/reeper316099/VariantScope)
-- **Score:** 83/100
-- **Updated:** 2026-11-07T21:25:08Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-08T08:28:14Z
+- **Labels:** bug, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week

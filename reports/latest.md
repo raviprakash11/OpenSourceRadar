@@ -1,7 +1,7 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-13T17:10:26.894425+00:00
-Unique issues discovered: 213
+Generated: 2026-11-13T23:30:29.909185+00:00
+Unique issues discovered: 220
 Repositories checked for funding metadata: 12
 
 ## [[i18n] Native-speaker review welcome: Chinese (Simplified) README polish](https://github.com/faizkhairi/claude-code-blueprint/issues/8)
@@ -14,63 +14,53 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: [faizkhairi]
 
-## [[good first issue, hacktoberfest] 🎍 Add new Learner Mistake 241 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34051)
+## [[good first issue, hacktoberfest] ⛩️ Add new False Friend Pair 119 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34061)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-11-13T17:01:28Z
+- **Updated:** 2026-11-13T22:45:56Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3857
+- **Stars:** 3858
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-## [Create an accessibility and browser test matrix](https://github.com/MostafaMedhat19/EyeTracking/issues/3)
-- **Repository:** [MostafaMedhat19/EyeTracking](https://github.com/MostafaMedhat19/EyeTracking)
-- **Score:** 99/100
-- **Updated:** 2026-11-13T16:31:30Z
-- **Labels:** accessibility, help wanted, good first issue, tests
-- **Comments:** 2
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: MostafaMedhat19
-
-## [Calendar week and day views get an all-day row](https://github.com/neomjs/neo/issues/20883)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 99/100
-- **Updated:** 2026-11-13T16:08:49Z
-- **Labels:** enhancement, help wanted, good first issue, design, ai
-- **Comments:** 2
-- **Stars:** 3301
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: [tobiu]
-
-## [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- **Repository:** [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [🔧 Repository: Enable `listDeprecations` for Maintainer Owned Workspaces](https://github.com/backstage/community-plugins/issues/5994)
+- **Repository:** [backstage/community-plugins](https://github.com/backstage/community-plugins)
 - **Score:** 95/100
-- **Updated:** 2026-11-13T17:05:55Z
-- **Labels:** help wanted, good first issue, lang:pt, triage:accepted:needs-pr
-- **Comments:** 19
-- **Stars:** 998
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [🐛 bug: ugrading hive dropped PDF knowledge source](https://github.com/hivecommons/hive/issues/18058)
-- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
-- **Score:** 95/100
-- **Updated:** 2026-11-13T16:51:50Z
-- **Labels:** bug, good first issue, help wanted, triage/accepted, stage/040-covered-by-pr, hive/claimed-by-human
-- **Comments:** 4
-- **Stars:** 85
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
-- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
-- **Score:** 95/100
-- **Updated:** 2026-11-13T08:33:54Z
-- **Labels:** kind/enhancement, help wanted, good first issue, kind/epic, issue/willfix, kubernetes, component/catalog
+- **Updated:** 2026-11-13T22:52:52Z
+- **Labels:** good first issue, help wanted, do-not-stale
 - **Comments:** 17
-- **Stars:** 12184
+- **Stars:** 430
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [🔧 Repository: Enable `knipReports` for Maintainer Owned Workspaces](https://github.com/backstage/community-plugins/issues/5992)
+- **Repository:** [backstage/community-plugins](https://github.com/backstage/community-plugins)
+- **Score:** 95/100
+- **Updated:** 2026-11-13T22:52:45Z
+- **Labels:** good first issue, help wanted, do-not-stale
+- **Comments:** 8
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [🔧 Repository: enhance workspace-level READMEs](https://github.com/backstage/community-plugins/issues/4056)
+- **Repository:** [backstage/community-plugins](https://github.com/backstage/community-plugins)
+- **Score:** 95/100
+- **Updated:** 2026-11-13T22:09:42Z
+- **Labels:** enhancement, good first issue, help wanted, do-not-stale
+- **Comments:** 13
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Setup `dev` environment for workspaces](https://github.com/backstage/community-plugins/issues/413)
+- **Repository:** [backstage/community-plugins](https://github.com/backstage/community-plugins)
+- **Score:** 95/100
+- **Updated:** 2026-11-13T22:05:07Z
+- **Labels:** good first issue, help wanted, do-not-stale
+- **Comments:** 13
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -94,162 +84,172 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Count the trailing zeros of a Python factorial without computing it](https://github.com/andrewsiah/agentswarm-data-tasks/issues/298)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:09:11Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python
-- **Comments:** 1
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Write unittest tests for an age-based ticket price function](https://github.com/andrewsiah/agentswarm-data-tasks/issues/253)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:08:28Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python, testing
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Validate a canonical 8-4-4-4-12 UUID string in JavaScript](https://github.com/andrewsiah/agentswarm-data-tasks/issues/295)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:07:19Z
-- **Labels:** help wanted, good first issue, up-for-grabs, javascript
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Convert a snake_case JS string to camelCase](https://github.com/andrewsiah/agentswarm-data-tasks/issues/260)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:06:46Z
-- **Labels:** help wanted, good first issue, up-for-grabs, javascript
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Check that the round, square and curly brackets of a JS string are balanced](https://github.com/andrewsiah/agentswarm-data-tasks/issues/249)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:06:08Z
-- **Labels:** help wanted, good first issue, up-for-grabs, javascript
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Write unittest tests for a tiered library late fee function](https://github.com/andrewsiah/agentswarm-data-tasks/issues/278)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:05:33Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python, testing
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Write unittest tests for a tiered speeding fine function](https://github.com/andrewsiah/agentswarm-data-tasks/issues/289)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:04:22Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python, testing
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [[shared-ci] Check consumer validation evidence failing across projectbluefin/actions](https://github.com/projectbluefin/actions/issues/748)
 - **Repository:** [projectbluefin/actions](https://github.com/projectbluefin/actions)
 - **Score:** 91/100
-- **Updated:** 2026-11-13T17:03:34Z
+- **Updated:** 2026-11-13T23:20:41Z
 - **Labels:** agent/ci-maintainer, stage/040-covered-by-pr, kind/bug, good first issue, help wanted, origin/governor
 - **Comments:** 2
 - **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Format a bounded Python integer as a plain binary digit string](https://github.com/andrewsiah/agentswarm-data-tasks/issues/251)
+## [Write unittest tests for a capped hourly bike rental fee function](https://github.com/andrewsiah/agentswarm-data-tasks/issues/324)
 - **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
 - **Score:** 91/100
-- **Updated:** 2026-11-13T17:03:12Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python
+- **Updated:** 2026-11-13T23:11:08Z
+- **Labels:** help wanted, good first issue, up-for-grabs, python, testing
 - **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Count the Collatz steps a bounded Python integer takes to reach 1](https://github.com/andrewsiah/agentswarm-data-tasks/issues/255)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:02:38Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Return the exact nth Fibonacci number for a bounded Python integer](https://github.com/andrewsiah/agentswarm-data-tasks/issues/243)
-- **Repository:** [andrewsiah/agentswarm-data-tasks](https://github.com/andrewsiah/agentswarm-data-tasks)
-- **Score:** 91/100
-- **Updated:** 2026-11-13T17:01:46Z
-- **Labels:** help wanted, good first issue, up-for-grabs, python
-- **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
 - **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
 - **Score:** 91/100
-- **Updated:** 2026-11-13T11:30:31Z
+- **Updated:** 2026-11-13T19:55:40Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 2
 - **Stars:** 287
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add Go 1.27 support](https://github.com/mandiant/GoReSym/issues/90)
-- **Repository:** [mandiant/GoReSym](https://github.com/mandiant/GoReSym)
+## [🐛 shortcuts: Shortcuts displayed in sidebar with its own hidden scrollbar](https://github.com/backstage/community-plugins/issues/4841)
+- **Repository:** [backstage/community-plugins](https://github.com/backstage/community-plugins)
 - **Score:** 90/100
-- **Updated:** 2026-11-13T17:02:37Z
-- **Labels:** good first issue, help wanted
-- **Comments:** 6
-- **Stars:** 1128
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Feature][Connector] Add connectors for these datasources](https://github.com/apache/seatunnel/issues/10443)
-- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
-- **Score:** 90/100
-- **Updated:** 2026-11-13T07:34:51Z
-- **Labels:** help wanted, good first issue, feature
-- **Comments:** 66
-- **Stars:** 9802
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [HP-Plugin still fail to install](https://github.com/projectbluefin/hplip-printer-app/issues/207)
-- **Repository:** [projectbluefin/hplip-printer-app](https://github.com/projectbluefin/hplip-printer-app)
-- **Score:** 90/100
-- **Updated:** 2026-11-12T23:55:02Z
-- **Labels:** good first issue, help wanted, triage/accepted, kind/bug, approved-direction, hive/already-done, stage/010-actionable, hive/partially-addressed
-- **Comments:** 7
+- **Updated:** 2026-11-13T22:52:00Z
+- **Labels:** bug, good first issue, help wanted, workspace/shortcuts
+- **Comments:** 12
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[shared-ci] zizmor failing across projectbluefin/server](https://github.com/projectbluefin/server/issues/651)
-- **Repository:** [projectbluefin/server](https://github.com/projectbluefin/server)
-- **Score:** 86/100
-- **Updated:** 2026-11-13T17:01:09Z
-- **Labels:** kind/bug, agent/ci-maintainer, needs-triage, stage/stalled, good first issue, help wanted, stage/015-triage-needed, origin/governor
-- **Comments:** 2
+## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal-start/issues/440)
+- **Repository:** [uPortal-Project/uPortal-start](https://github.com/uPortal-Project/uPortal-start)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T23:19:56Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 16
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add Slack as a notification channel](https://github.com/srtab/daiv/issues/1797)
+- **Repository:** [srtab/daiv](https://github.com/srtab/daiv)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T23:03:00Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 28
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Retire the legacy thought alias after the Brain pin moves](https://github.com/neomjs/neo-agent-institution/issues/910)
+- **Repository:** [neomjs/neo-agent-institution](https://github.com/neomjs/neo-agent-institution)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:37:06Z
+- **Labels:** enhancement, good first issue, help wanted, agent-os, ai, refactoring
+- **Comments:** 0
+- **Stars:** 12
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs: translate the README quick start into your language (German, Spanish, French, Portuguese, Chinese, Japanese, Hindi ...)](https://github.com/laaielichter/Stashpad/issues/78)
+- **Repository:** [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:18:14Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Exit codes: a wrong option value exits with 1 (store problem) instead of 2 for `feedback --signal`, `handoff leave --expires-days` and `--kind` filters](https://github.com/laaielichter/Stashpad/issues/74)
+- **Repository:** [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:17:13Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 0
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [decide: a choice written in Chinese, Japanese, Russian or Arabic always gets the id `decision-note` (then `decision-note-2`, `decision-note-3`)](https://github.com/laaielichter/Stashpad/issues/72)
+- **Repository:** [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:16:25Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Number options accept "", 1e1 and 0x5: `stashpad ui --port ""` starts on a random port, and `shown --limit abc` is not checked at all when the log is empty](https://github.com/laaielichter/Stashpad/issues/70)
+- **Repository:** [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:15:58Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Eight adapters are still "unverified": check one on your own computer (Roo Code, Windsurf, Kiro, OpenCode, Amp, Zed, pi, LM Studio)](https://github.com/laaielichter/Agentdisk/issues/51)
+- **Repository:** [laaielichter/Agentdisk](https://github.com/laaielichter/Agentdisk)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:15:17Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 1
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [check-text and check-file: say which kinds of key were found (Anthropic, Mistral), not only how many](https://github.com/laaielichter/AgathOS/issues/56)
+- **Repository:** [laaielichter/AgathOS](https://github.com/laaielichter/AgathOS)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T22:11:43Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** 1
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Test on XFCE, Cinnamon, COSMIC or Sway and report what doctor says](https://github.com/ajithakdev/claude-desktop-rpm/issues/15)
+- **Repository:** [ajithakdev/claude-desktop-rpm](https://github.com/ajithakdev/claude-desktop-rpm)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T20:53:34Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Contributors wanted: where to start](https://github.com/lenichols/dua-platform/issues/1)
+- **Repository:** [lenichols/dua-platform](https://github.com/lenichols/dua-platform)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T19:53:09Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add decision tests for block-git-push.sh](https://github.com/faizkhairi/claude-code-blueprint/issues/75)
+- **Repository:** [faizkhairi/claude-code-blueprint](https://github.com/faizkhairi/claude-code-blueprint)
+- **Score:** 83/100
+- **Updated:** 2026-11-13T03:49:27Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a Configuring Azure DevOps guide](https://github.com/rightcommit/rightcommit/issues/1)
+- **Repository:** [rightcommit/rightcommit](https://github.com/rightcommit/rightcommit)
+- **Score:** 83/100
+- **Updated:** 2026-11-12T21:28:38Z
+- **Labels:** documentation, good first issue, help wanted
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

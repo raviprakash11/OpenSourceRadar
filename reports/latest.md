@@ -1,15 +1,35 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-14T22:18:57.839166+00:00
-Unique issues discovered: 209
+Generated: 2026-11-15T06:20:30.771817+00:00
+Unique issues discovered: 217
 Repositories checked for funding metadata: 12
+
+## [Calendar week and day views get an all-day row](https://github.com/neomjs/neo/issues/20883)
+- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+- **Score:** 100/100
+- **Updated:** 2026-11-15T05:20:43Z
+- **Labels:** enhancement, help wanted, good first issue, design, ai
+- **Comments:** 3
+- **Stars:** 3303
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: [tobiu]
+
+## [[good first issue, hacktoberfest] 🎏 Add new Wallpaper URL #46 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34137)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 99/100
+- **Updated:** 2026-11-15T05:25:48Z
+- **Labels:** documentation, help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 1
+- **Stars:** 3867
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 ## [[Umbrella][Improve] Migrate Connector/Transform Validation to Declarative OptionRule — Claim & Tracking](https://github.com/apache/seatunnel/issues/11007)
 - **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
 - **Score:** 95/100
-- **Updated:** 2026-11-14T06:55:39Z
+- **Updated:** 2026-11-15T02:05:28Z
 - **Labels:** help wanted, good first issue
-- **Comments:** 229
+- **Comments:** 230
 - **Stars:** 9805
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
@@ -20,7 +40,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-14T06:53:39Z
 - **Labels:** kind/enhancement, help wanted, good first issue, issue/willfix, component/extensions, type/visual-design
 - **Comments:** 13
-- **Stars:** 12193
+- **Stars:** 12197
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -74,103 +94,93 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, sendRawTransaction, methods and getGenesis](https://github.com/janzeerOrg/janzeer-sdk-go/issues/1)
-- **Repository:** [janzeerOrg/janzeer-sdk-go](https://github.com/janzeerOrg/janzeer-sdk-go)
-- **Score:** 91/100
-- **Updated:** 2026-11-14T22:17:52Z
-- **Labels:** enhancement, help wanted, good first issue, bounty
-- **Comments:** 2
-- **Stars:** 0
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [CI: lint, type check and tests for apps/web](https://github.com/octacity-org/vigil/issues/267)
-- **Repository:** [octacity-org/vigil](https://github.com/octacity-org/vigil)
-- **Score:** 91/100
-- **Updated:** 2026-11-14T22:15:46Z
-- **Labels:** good first issue, help wanted, easy, area: qa, area: infra, mvp, component: ci, type: feature, priority: low
-- **Comments:** 1
-- **Stars:** 5
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Health and readiness endpoint](https://github.com/octacity-org/vigil/issues/200)
-- **Repository:** [octacity-org/vigil](https://github.com/octacity-org/vigil)
-- **Score:** 91/100
-- **Updated:** 2026-11-14T22:11:34Z
-- **Labels:** good first issue, help wanted, easy, area: api, mvp, component: endpoint, type: feature
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [[shared-ci] Check consumer validation evidence failing across projectbluefin/actions](https://github.com/projectbluefin/actions/issues/748)
 - **Repository:** [projectbluefin/actions](https://github.com/projectbluefin/actions)
 - **Score:** 91/100
-- **Updated:** 2026-11-14T22:04:49Z
+- **Updated:** 2026-11-15T06:04:58Z
 - **Labels:** agent/ci-maintainer, stage/040-covered-by-pr, kind/bug, good first issue, help wanted, origin/governor
 - **Comments:** 2
 - **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [fix --verify: an unknown `--timezone` is not refused; the rewrite is reported as "exactly the same rows" with exit code 0 and nothing was tested](https://github.com/laaielichter/Gulliver/issues/153)
+## [receipt --list: when nothing matches it prints an empty line and "Use a receipt_id ...", also for a mistyped `--status`](https://github.com/laaielichter/Gulliver/issues/155)
 - **Repository:** [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver)
 - **Score:** 91/100
-- **Updated:** 2026-11-14T21:48:32Z
-- **Labels:** bug, help wanted, good first issue
+- **Updated:** 2026-11-15T05:34:36Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 1
 - **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Integrations: the seven frameworks instrument() wires don't warn about an untested version when wired by hand](https://github.com/Cygnux-Labs/Tracekit/issues/841)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [examples: a small Godot 3 project to port with `godotwright migrate`, with the before and after](https://github.com/laaielichter/Godotwright/issues/199)
+- **Repository:** [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright)
 - **Score:** 91/100
-- **Updated:** 2026-11-14T21:41:09Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-15T05:27:19Z
+- **Labels:** documentation, help wanted, good first issue
 - **Comments:** 1
-- **Stars:** 726
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [freeze: a freeze frame at or after the end of the edit fails with UNSUPPORTED_MEDIA "Cannot read .../freeze-xxx.png" instead of saying the time is outside the edit](https://github.com/laaielichter/Ai-edit-studio/issues/132)
-- **Repository:** [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio)
-- **Score:** 91/100
-- **Updated:** 2026-11-14T20:12:24Z
-- **Labels:** bug, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 3
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
 - **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
 - **Score:** 91/100
-- **Updated:** 2026-11-14T19:00:41Z
+- **Updated:** 2026-11-15T04:55:42Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 2
 - **Stars:** 287
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
+## [[P2][Docs] Make the optional local integration guide independent of a personal path](https://github.com/RhinoLink-Tech/data-fabric/issues/561)
+- **Repository:** [RhinoLink-Tech/data-fabric](https://github.com/RhinoLink-Tech/data-fabric)
+- **Score:** 91/100
+- **Updated:** 2026-11-15T04:16:43Z
+- **Labels:** documentation, help wanted, good first issue, priority: P2, status: ready
+- **Comments:** 1
+- **Stars:** 21
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
 ## [[shared-ci] zizmor failing across projectbluefin/server](https://github.com/projectbluefin/server/issues/651)
 - **Repository:** [projectbluefin/server](https://github.com/projectbluefin/server)
 - **Score:** 90/100
-- **Updated:** 2026-11-14T22:14:24Z
+- **Updated:** 2026-11-15T05:59:37Z
 - **Labels:** kind/bug, agent/ci-maintainer, needs-triage, stage/stalled, good first issue, help wanted, stage/015-triage-needed, origin/governor
 - **Comments:** 3
 - **Stars:** 58
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[reviewer] Review backlog (intent-alignment): No-queue path still cannot land a bump PR that falls BEHIND main under strict freshness](https://github.com/projectbluefin/utah-packages/issues/864)
-- **Repository:** [projectbluefin/utah-packages](https://github.com/projectbluefin/utah-packages)
+## [Inline editing of a "Short text" (TextLine) cell crashes with a JS error](https://github.com/nextcloud/tables/issues/3012)
+- **Repository:** [nextcloud/tables](https://github.com/nextcloud/tables)
 - **Score:** 90/100
-- **Updated:** 2026-11-14T21:51:44Z
-- **Labels:** good first issue, help wanted, stage/040-covered-by-pr, agent/reviewer, triage/accepted, approved-direction, hive/workflows-lane
-- **Comments:** 7
-- **Stars:** 2
+- **Updated:** 2026-11-15T05:25:36Z
+- **Labels:** bug, help wanted, good first issue, 1. to develop
+- **Comments:** 10
+- **Stars:** 221
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[shared-ci] E2E — composed common suite / e2e / GNOME — common failing across projectbluefin/common](https://github.com/projectbluefin/common/issues/1688)
+- **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
+- **Score:** 90/100
+- **Updated:** 2026-11-15T04:59:35Z
+- **Labels:** kind/bug, agent/ci-maintainer, good first issue, help wanted, needs-triage, stage/015-triage-needed, origin/governor
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [How to write a compose.yaml for rootless setup?](https://github.com/louislam/uptime-kuma-wiki/issues/134)
+- **Repository:** [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki)
+- **Score:** 90/100
+- **Updated:** 2026-11-15T04:58:05Z
+- **Labels:** feature-request, help wanted, good first issue
+- **Comments:** 9
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -204,52 +214,42 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Mask more token formats (one service per pull request)](https://github.com/ysb3996-blip/oops/issues/15)
-- **Repository:** [ysb3996-blip/oops](https://github.com/ysb3996-blip/oops)
+## [[CI] Nightly compliance failed](https://github.com/projectbluefin/chairlift/issues/789)
+- **Repository:** [projectbluefin/chairlift](https://github.com/projectbluefin/chairlift)
 - **Score:** 86/100
-- **Updated:** 2026-11-14T18:38:30Z
-- **Labels:** enhancement, help wanted, good first issue
+- **Updated:** 2026-11-15T06:16:56Z
+- **Labels:** help wanted, good first issue, kind/bug, priority/critical-urgent, stage/010-actionable
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [GET /v1/meta](https://github.com/octacity-org/vigil/issues/216)
-- **Repository:** [octacity-org/vigil](https://github.com/octacity-org/vigil)
-- **Score:** 83/100
-- **Updated:** 2026-11-14T22:18:30Z
-- **Labels:** good first issue, help wanted, easy, area: api, mvp, component: endpoint, type: feature, priority: low
-- **Comments:** 0
+## [[Good First Issue]: Add GitHub Actions CI workflow for cross-platform smoke tests](https://github.com/Abhishek-Jose7/ideOS/issues/3)
+- **Repository:** [Abhishek-Jose7/ideOS](https://github.com/Abhishek-Jose7/ideOS)
+- **Score:** 86/100
+- **Updated:** 2026-11-15T05:46:09Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 1
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Mock data matching the API contract](https://github.com/octacity-org/vigil/issues/233)
-- **Repository:** [octacity-org/vigil](https://github.com/octacity-org/vigil)
-- **Score:** 83/100
-- **Updated:** 2026-11-14T22:17:42Z
-- **Labels:** good first issue, help wanted, easy, area: frontend, mvp, component: web-shell, type: test, priority: medium
-- **Comments:** 0
+## [[OPEN BUILD / GENESIS] Independently validate first-user onboarding, AGC and wallet upgrade on mobile](https://github.com/Noetfield-Systems/ARQANT/issues/47)
+- **Repository:** [Noetfield-Systems/ARQANT](https://github.com/Noetfield-Systems/ARQANT)
+- **Score:** 86/100
+- **Updated:** 2026-11-15T05:32:15Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 2
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Period label: point in time, cumulative, 3-month](https://github.com/octacity-org/vigil/issues/235)
-- **Repository:** [octacity-org/vigil](https://github.com/octacity-org/vigil)
-- **Score:** 83/100
-- **Updated:** 2026-11-14T22:17:34Z
-- **Labels:** good first issue, help wanted, easy, area: frontend, mvp, component: ui-component, type: feature, priority: low
-- **Comments:** 0
+## [[shared-ci] Tests Passed failing across projectbluefin/chairlift](https://github.com/projectbluefin/chairlift/issues/788)
+- **Repository:** [projectbluefin/chairlift](https://github.com/projectbluefin/chairlift)
+- **Score:** 86/100
+- **Updated:** 2026-11-15T05:31:57Z
+- **Labels:** help wanted, good first issue, agent/ci-maintainer, kind/bug, needs-triage, stage/015-triage-needed, origin/governor
+- **Comments:** 2
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Data quality badge](https://github.com/octacity-org/vigil/issues/236)
-- **Repository:** [octacity-org/vigil](https://github.com/octacity-org/vigil)
-- **Score:** 83/100
-- **Updated:** 2026-11-14T22:17:31Z
-- **Labels:** good first issue, help wanted, easy, area: frontend, mvp, component: ui-component, type: feature, priority: low
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

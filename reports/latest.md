@@ -1,66 +1,36 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-15T22:46:21.729133+00:00
-Unique issues discovered: 210
+Generated: 2026-11-16T06:19:19.670266+00:00
+Unique issues discovered: 215
 Repositories checked for funding metadata: 12
 
-## [Calendar week and day views get an all-day row](https://github.com/neomjs/neo/issues/20883)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 100/100
-- **Updated:** 2026-11-15T21:50:53Z
-- **Labels:** enhancement, help wanted, good first issue, design, ai
-- **Comments:** 3
-- **Stars:** 3303
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: [tobiu]
-
-## [[good first issue, hacktoberfest] 🪭 Add new Learner Mistake 453 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34169)
+## [[good first issue, hacktoberfest] 🎐 Add new Etiquette Tip 547 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34183)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-11-15T22:01:21Z
+- **Updated:** 2026-11-16T06:05:45Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3876
+- **Stars:** 3878
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-## [Zip-content range responses have invalid headers for suffix ranges longer than the file and for inverted ranges](https://github.com/learningequality/kolibri/issues/15807)
-- **Repository:** [learningequality/kolibri](https://github.com/learningequality/kolibri)
+## [A pressed Effect button never tells assistive technology it is pressed](https://github.com/neomjs/neo/issues/21016)
+- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
 - **Score:** 98/100
-- **Updated:** 2026-11-15T21:58:51Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-16T04:29:27Z
+- **Labels:** bug, help wanted, good first issue, ai, core, accessibility
 - **Comments:** 3
-- **Stars:** 1174
+- **Stars:** 3304
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: learningequality; custom: ["https://learningequality.org/donate/", "https://www.every.org/learningequality"]
+- **Funding signals:** github: [tobiu]
 
-## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
-- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
+## [[Good First Issue] 众包校勘：为历史大事、地标事件与人物行迹补充史籍出处 / Add historical sources for milestones, events & figures](https://github.com/DeanChensj/jiangshan-map/issues/309)
+- **Repository:** [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
 - **Score:** 95/100
-- **Updated:** 2026-11-15T22:13:23Z
-- **Labels:** help wanted, good first issue, bounty-waiting
-- **Comments:** 4
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add pressed background, text, and glyph tokens to Neo.button.Base](https://github.com/neomjs/neo/issues/20735)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 95/100
-- **Updated:** 2026-11-15T21:50:50Z
-- **Labels:** enhancement, help wanted, good first issue, design, ai, core
-- **Comments:** 3
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [The State & Data examples get their overview](https://github.com/neomjs/neo/issues/20696)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 95/100
-- **Updated:** 2026-11-15T21:50:48Z
-- **Labels:** enhancement, help wanted, good first issue, ai, portal
-- **Comments:** 4
-- **Stars:** not checked
+- **Updated:** 2026-11-16T05:56:28Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 10
+- **Stars:** 6381
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -74,83 +44,73 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [chore: remove stray scripts and files from the repository root](https://github.com/sorolens/sorolens/issues/540)
-- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
-- **Score:** 95/100
-- **Updated:** 2026-11-15T14:35:23Z
-- **Labels:** good first issue, help wanted, trivial, devops, Stellar Wave
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [[shared-ci] Check consumer validation evidence failing across projectbluefin/actions](https://github.com/projectbluefin/actions/issues/748)
 - **Repository:** [projectbluefin/actions](https://github.com/projectbluefin/actions)
 - **Score:** 91/100
-- **Updated:** 2026-11-15T22:39:07Z
+- **Updated:** 2026-11-16T06:14:03Z
 - **Labels:** agent/ci-maintainer, stage/040-covered-by-pr, kind/bug, good first issue, help wanted, origin/governor
 - **Comments:** 2
 - **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [A raw tree-row batch is lost after re-add and reprojection](https://github.com/neomjs/neo/issues/21008)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [Hide the empty Step Memory card on CPU-only runs](https://github.com/traceopt-ai/traceml/issues/648)
+- **Repository:** [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml)
 - **Score:** 91/100
-- **Updated:** 2026-11-15T21:51:05Z
-- **Labels:** bug, help wanted, good first issue, ai, core
+- **Updated:** 2026-11-16T06:09:22Z
+- **Labels:** good first issue, help wanted, dashboard
 - **Comments:** 2
+- **Stars:** 189
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[good first issue, hacktoberfest] 🗻 Add new False Friend Pair 584 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34182)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 91/100
+- **Updated:** 2026-11-16T05:31:08Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Portal: a dead Blog route, two framework labels, Connect's own links](https://github.com/neomjs/neo/issues/20947)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/272)
+- **Repository:** [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 - **Score:** 91/100
-- **Updated:** 2026-11-15T21:51:02Z
-- **Labels:** bug, help wanted, good first issue, ai, portal
-- **Comments:** 2
+- **Updated:** 2026-11-16T04:23:44Z
+- **Labels:** enhancement, help wanted, good first issue, community, low hanging fruit, up-for-grabs, first-timers-only, micro-contribution, type: task, beginner-friendly, category:privacy
+- **Comments:** 1
+- **Stars:** 118
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/271)
+- **Repository:** [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+- **Score:** 91/100
+- **Updated:** 2026-11-16T04:23:41Z
+- **Labels:** enhancement, help wanted, good first issue, community, low hanging fruit, up-for-grabs, first-timers-only, micro-contribution, type: task, beginner-friendly, category:fixtures
+- **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [The shared-state example opens its second window itself](https://github.com/neomjs/neo/issues/20903)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/270)
+- **Repository:** [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 - **Score:** 91/100
-- **Updated:** 2026-11-15T21:50:57Z
-- **Labels:** enhancement, help wanted, good first issue, ai
-- **Comments:** 2
+- **Updated:** 2026-11-16T04:23:37Z
+- **Labels:** enhancement, help wanted, good first issue, community, low hanging fruit, up-for-grabs, first-timers-only, micro-contribution, type: task, beginner-friendly, category:remediation
+- **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Without the VDom worker, meta, auto-mounts and the paint hook break](https://github.com/neomjs/neo/issues/20780)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [[$2 site credit] Add a TypeScript example that lists open bounties](https://github.com/andrewsiah/agentswarm-mcp/issues/25)
+- **Repository:** [andrewsiah/agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp)
 - **Score:** 91/100
-- **Updated:** 2026-11-15T21:50:52Z
-- **Labels:** bug, help wanted, good first issue, ai, core
+- **Updated:** 2026-11-16T03:41:16Z
+- **Labels:** help wanted, good first issue, up-for-grabs, easy, bounty, site-credit, code
 - **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [The visual components, canvas and wrappers get their overview](https://github.com/neomjs/neo/issues/20695)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 91/100
-- **Updated:** 2026-11-15T21:50:46Z
-- **Labels:** enhancement, help wanted, good first issue, ai, portal
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Buttons, containers, lists, menus and trees get their overview](https://github.com/neomjs/neo/issues/20694)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 91/100
-- **Updated:** 2026-11-15T21:50:45Z
-- **Labels:** enhancement, help wanted, good first issue, ai, portal
-- **Comments:** 2
-- **Stars:** not checked
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -164,91 +124,131 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
-- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
-- **Score:** 91/100
-- **Updated:** 2026-11-15T16:54:06Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** 287
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+## [parity(dakota): kmscon for VT consoles](https://github.com/projectbluefin/utah/issues/1237)
+- **Repository:** [projectbluefin/utah](https://github.com/projectbluefin/utah)
+- **Score:** 90/100
+- **Updated:** 2026-11-16T06:13:44Z
+- **Labels:** good first issue, help wanted, kind/feature, needs-triage, stage/040-covered-by-pr
+- **Comments:** 5
+- **Stars:** 26
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [parity(dakota): homed-aware PAM and systemd-homed-firstboot](https://github.com/projectbluefin/utah/issues/1238)
+- **Repository:** [projectbluefin/utah](https://github.com/projectbluefin/utah)
+- **Score:** 90/100
+- **Updated:** 2026-11-16T06:13:40Z
+- **Labels:** good first issue, help wanted, kind/feature, needs-triage, stage/040-covered-by-pr
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [[shared-ci] E2E — composed common suite / e2e / GNOME — common failing across projectbluefin/common](https://github.com/projectbluefin/common/issues/1688)
 - **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
 - **Score:** 90/100
-- **Updated:** 2026-11-15T22:39:06Z
-- **Labels:** kind/bug, agent/ci-maintainer, good first issue, help wanted, needs-triage, stage/040-covered-by-pr, origin/governor
+- **Updated:** 2026-11-16T05:14:49Z
+- **Labels:** kind/bug, agent/ci-maintainer, good first issue, help wanted, stage/040-covered-by-pr, origin/governor
 - **Comments:** 5
 - **Stars:** 32
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [The guide explains standing, the badge and what a claim does](https://github.com/neomjs/neo/issues/20895)
+## [[Feature][Connector] Add connectors for these datasources](https://github.com/apache/seatunnel/issues/10443)
+- **Repository:** [apache/seatunnel](https://github.com/apache/seatunnel)
+- **Score:** 90/100
+- **Updated:** 2026-11-16T02:12:24Z
+- **Labels:** help wanted, good first issue, feature
+- **Comments:** 69
+- **Stars:** 9805
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Test: HeaderActions.spec 'tab SortZone admits only tab buttons' races a dynamic import with a fixed 10 ms sleep](https://github.com/neomjs/neo/issues/21094)
 - **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
 - **Score:** 86/100
-- **Updated:** 2026-11-15T22:44:53Z
-- **Labels:** documentation, enhancement, help wanted, good first issue, contributor-experience, ai
+- **Updated:** 2026-11-16T04:27:51Z
+- **Labels:** bug, help wanted, good first issue, ai, testing
 - **Comments:** 2
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Content node tree endpoints return 500 for invalid depth and next__gt query parameters](https://github.com/learningequality/kolibri/issues/15835)
-- **Repository:** [learningequality/kolibri](https://github.com/learningequality/kolibri)
-- **Score:** 86/100
-- **Updated:** 2026-11-15T21:58:49Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Non-draft exam creation returns 500 when a section omits questions and no earlier section has any](https://github.com/learningequality/kolibri/issues/15830)
-- **Repository:** [learningequality/kolibri](https://github.com/learningequality/kolibri)
-- **Score:** 86/100
-- **Updated:** 2026-11-15T21:58:46Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [detectScanInPipeline names one arbitrary Lambda under HIGH when several link to the scanning function](https://github.com/Sidd27/infrawise/issues/131)
-- **Repository:** [Sidd27/infrawise](https://github.com/Sidd27/infrawise)
-- **Score:** 86/100
-- **Updated:** 2026-11-15T17:03:16Z
-- **Labels:** bug, help wanted, good first issue, hacktoberfest
-- **Comments:** 1
-- **Stars:** 22
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Give the Workstation one visitor-facing tour](https://github.com/neomjs/neo/issues/20926)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [Report whether grow and up work on Linux and Windows](https://github.com/aacker71/foliage/issues/3)
+- **Repository:** [aacker71/foliage](https://github.com/aacker71/foliage)
 - **Score:** 83/100
-- **Updated:** 2026-11-15T21:51:00Z
-- **Labels:** bug, help wanted, good first issue, design, ai, testing
+- **Updated:** 2026-11-16T05:24:37Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [The timeline reads to a person: editor, header, long bars, today, links](https://github.com/neomjs/neo/issues/20890)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [[Good First Issue] Verify and fix CLI commands in dual-format playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks/issues/15)
+- **Repository:** [Scoutflo/Scoutflo-SRE-Playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks)
 - **Score:** 83/100
-- **Updated:** 2026-11-15T21:50:55Z
-- **Labels:** enhancement, help wanted, good first issue, design, ai
+- **Updated:** 2026-11-16T05:18:39Z
+- **Labels:** documentation, good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Give the 17 cover-less Grid and Table example cards real covers](https://github.com/neomjs/neo/issues/20679)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [[Good First Issue] Add Sentry playbook: releases or deploys missing in Sentry](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks/issues/11)
+- **Repository:** [Scoutflo/Scoutflo-SRE-Playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks)
 - **Score:** 83/100
-- **Updated:** 2026-11-15T21:50:41Z
-- **Labels:** enhancement, help wanted, good first issue, design, ai, grid, portal
+- **Updated:** 2026-11-16T05:18:27Z
+- **Labels:** good first issue, help wanted, sentry-playbook, new-playbook
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Good First Issue] Add playbook for SNS delivery failures](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks/issues/9)
+- **Repository:** [Scoutflo/Scoutflo-SRE-Playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks)
+- **Score:** 83/100
+- **Updated:** 2026-11-16T05:18:22Z
+- **Labels:** good first issue, help wanted, aws-playbook, new-playbook
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Good First Issue] Add playbook for SQS queue backlog and dead-letter queue growth](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks/issues/8)
+- **Repository:** [Scoutflo/Scoutflo-SRE-Playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks)
+- **Score:** 83/100
+- **Updated:** 2026-11-16T05:18:19Z
+- **Labels:** good first issue, help wanted, aws-playbook, new-playbook
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Good First Issue] Add playbook for Karpenter node provisioning failures](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks/issues/7)
+- **Repository:** [Scoutflo/Scoutflo-SRE-Playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks)
+- **Score:** 83/100
+- **Updated:** 2026-11-16T05:18:11Z
+- **Labels:** good first issue, help wanted, k8s-playbook, new-playbook
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Detect more API token formats (npm, Telegram, SendGrid, Shopify, DigitalOcean)](https://github.com/reseachrandomv/privacy-shield-studio/issues/1)
+- **Repository:** [reseachrandomv/privacy-shield-studio](https://github.com/reseachrandomv/privacy-shield-studio)
+- **Score:** 83/100
+- **Updated:** 2026-11-16T00:54:45Z
+- **Labels:** help wanted, good first issue, new-pattern
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [README lists 5 *.flisk.si MCP hosts that do not resolve, plus a 404 app-factory link](https://github.com/flisk-sh/flisk-marketplaces/issues/59)
+- **Repository:** [flisk-sh/flisk-marketplaces](https://github.com/flisk-sh/flisk-marketplaces)
+- **Score:** 83/100
+- **Updated:** 2026-11-15T23:54:24Z
+- **Labels:** bug, documentation, enhancement, good first issue, help wanted, json-output, cli, starters, developer-experience, tests, chore, area: runtime, difficulty: easy, priority: P3, hygiene, automation, agents, consistency, javascript, markdown, mcp
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week

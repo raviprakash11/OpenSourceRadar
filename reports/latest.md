@@ -1,18 +1,28 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-16T19:33:02.749891+00:00
-Unique issues discovered: 201
+Generated: 2026-11-17T03:47:39.776781+00:00
+Unique issues discovered: 214
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🍵 Add new Japanese Proverb 183 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34219)
+## [[good first issue, hacktoberfest] 🌊 Add new Theme: Mochi Pastel (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34229)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-11-16T19:11:02Z
+- **Updated:** 2026-11-17T03:15:54Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
 - **Stars:** 3881
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+
+## [askdb-http: --port accepts hex, exponent and other non-decimal values (0x50 listens on 80)](https://github.com/Ygilany/AskDB/issues/873)
+- **Repository:** [Ygilany/AskDB](https://github.com/Ygilany/AskDB)
+- **Score:** 99/100
+- **Updated:** 2026-11-17T03:11:40Z
+- **Labels:** bug, help wanted, good first issue, ready-for-human
+- **Comments:** 2
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: [Ygilany]; buy_me_a_coffee: ygilany
 
 ## [[Good First Issue] Verify and fix CLI commands in dual-format playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks/issues/15)
 - **Repository:** [Scoutflo/Scoutflo-SRE-Playbooks](https://github.com/Scoutflo/Scoutflo-SRE-Playbooks)
@@ -24,26 +34,6 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** custom: ['https://scoutflo.com']
 
-## [fix(up): `flisk up --only api` prints all 100 valid service names on one line (sorted now, with a suggestion) and exits 2 where an unknown stack exits 1](https://github.com/flisk-sh/flisk/issues/4447)
-- **Repository:** [flisk-sh/flisk](https://github.com/flisk-sh/flisk)
-- **Score:** 98/100
-- **Updated:** 2026-11-16T18:58:45Z
-- **Labels:** bug, good first issue, help wanted, testing, dx, area: cli, difficulty: easy, tech: typescript, tech: javascript, tech: bun, tech: vitest, tech: biome, tech: tilt, rank: 8 kyu, configuration, debugging, dev-tools, developer-experience
-- **Comments:** 3
-- **Stars:** 51
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: flisk-sh
-
-## [☂️ Help us bring missing APIs to e2e](https://github.com/e2e-inc/e2e/issues/1855)
-- **Repository:** [e2e-inc/e2e](https://github.com/e2e-inc/e2e)
-- **Score:** 95/100
-- **Updated:** 2026-11-16T19:31:44Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 4
-- **Stars:** 13952
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - **Repository:** [meshery/meshery.io](https://github.com/meshery/meshery.io)
 - **Score:** 95/100
@@ -52,6 +42,26 @@ Repositories checked for funding metadata: 12
 - **Comments:** 19
 - **Stars:** 912
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[shared-ci] Check consumer validation evidence failing across projectbluefin/actions](https://github.com/projectbluefin/actions/issues/748)
+- **Repository:** [projectbluefin/actions](https://github.com/projectbluefin/actions)
+- **Score:** 91/100
+- **Updated:** 2026-11-17T03:46:20Z
+- **Labels:** agent/ci-maintainer, stage/040-covered-by-pr, kind/bug, good first issue, help wanted, origin/governor
+- **Comments:** 2
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
+- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
+- **Score:** 91/100
+- **Updated:** 2026-11-17T03:07:53Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 2
+- **Stars:** 289
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Add the missing Lambda and Elastic Beanstalk detector links](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/10207)
@@ -114,91 +124,101 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
+## [[CI] Plain Install E2E failed on main](https://github.com/projectbluefin/dakota-iso/issues/322)
+- **Repository:** [projectbluefin/dakota-iso](https://github.com/projectbluefin/dakota-iso)
+- **Score:** 90/100
+- **Updated:** 2026-11-17T03:44:49Z
+- **Labels:** kind/bug, triage/accepted, priority/critical-urgent, good first issue, help wanted, stage/040-covered-by-pr
+- **Comments:** 7
+- **Stars:** 8
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Feature] Use CUDA event for measuring elasped time](https://github.com/huggingface/nanotron/issues/88)
+- **Repository:** [huggingface/nanotron](https://github.com/huggingface/nanotron)
+- **Score:** 90/100
+- **Updated:** 2026-11-17T03:21:09Z
+- **Labels:** enhancement, good first issue, help wanted
+- **Comments:** 5
+- **Stars:** 2864
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
 ## [[shared-ci] E2E — composed common suite / e2e / GNOME — common failing across projectbluefin/common](https://github.com/projectbluefin/common/issues/1688)
 - **Repository:** [projectbluefin/common](https://github.com/projectbluefin/common)
 - **Score:** 90/100
-- **Updated:** 2026-11-16T19:22:26Z
+- **Updated:** 2026-11-17T03:20:39Z
 - **Labels:** kind/bug, agent/ci-maintainer, good first issue, help wanted, stage/040-covered-by-pr, origin/governor
 - **Comments:** 5
 - **Stars:** 32
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[shared-ci] Canary (read-only) failing across projectbluefin/utah-packages](https://github.com/projectbluefin/utah-packages/issues/1175)
+## [[shared-ci] pass6 / rebuild0 (["libical", "vulkan-headers"]) / build (vulkan-headers) failing across projectbluefin/utah-packages](https://github.com/projectbluefin/utah-packages/issues/1165)
 - **Repository:** [projectbluefin/utah-packages](https://github.com/projectbluefin/utah-packages)
 - **Score:** 90/100
-- **Updated:** 2026-11-16T19:10:24Z
-- **Labels:** good first issue, help wanted, agent/ci-maintainer, hive/already-done, stage/010-actionable, kind/bug, origin/governor
-- **Comments:** 4
+- **Updated:** 2026-11-17T03:15:11Z
+- **Labels:** good first issue, help wanted, agent/ci-maintainer, stage/010-actionable, kind/bug, origin/governor
+- **Comments:** 5
 - **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[shared-ci] pass6 / rebuild0 (["libical", "vulkan-headers"]) / build (vulkan-headers) failing across projectbluefin/utah-packages](https://github.com/projectbluefin/utah-packages/issues/1165)
-- **Repository:** [projectbluefin/utah-packages](https://github.com/projectbluefin/utah-packages)
-- **Score:** 90/100
-- **Updated:** 2026-11-16T19:06:29Z
-- **Labels:** good first issue, help wanted, agent/ci-maintainer, stage/010-actionable, kind/bug, origin/governor
-- **Comments:** 3
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add actionable hints when the Docker daemon is unavailable](https://github.com/NovolineGast/RepoRepro/issues/3)
-- **Repository:** [NovolineGast/RepoRepro](https://github.com/NovolineGast/RepoRepro)
+## [The generated postinstall installs the engine's devDependencies twice](https://github.com/neomjs/create-app/issues/68)
+- **Repository:** [neomjs/create-app](https://github.com/neomjs/create-app)
 - **Score:** 86/100
-- **Updated:** 2026-11-16T19:17:39Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Coverage] packages below 90% threshold](https://github.com/hivecommons/hive/issues/18454)
-- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
-- **Score:** 86/100
-- **Updated:** 2026-11-16T19:07:13Z
-- **Labels:** good first issue, help wanted, kind/bug, ci-coverage, stage/010-actionable
-- **Comments:** 1
-- **Stars:** 85
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Mask more token formats (one service per pull request)](https://github.com/ysb3996-blip/oops/issues/15)
-- **Repository:** [ysb3996-blip/oops](https://github.com/ysb3996-blip/oops)
-- **Score:** 86/100
-- **Updated:** 2026-11-16T12:53:30Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 9
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(install): cloudflared .deb is installed with sudo dpkg without a checksum check, and curl has no retry](https://github.com/flisk-sh/live-preview/issues/8)
-- **Repository:** [flisk-sh/live-preview](https://github.com/flisk-sh/live-preview)
-- **Score:** 86/100
-- **Updated:** 2026-11-16T12:00:34Z
-- **Labels:** bug, documentation, good first issue, help wanted, github-actions, shell, bash, tests, difficulty: easy, developer-experience, automation, cloudflare, reliability, security, supply-chain, priority: P2, ci-cd
+- **Updated:** 2026-11-17T03:31:48Z
+- **Labels:** enhancement, good first issue, help wanted
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Six Grid and Table records leave the examples catalog](https://github.com/neomjs/neo/issues/21186)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+## [Studio's /api/suggest answers 500 for an unknown table or column id](https://github.com/Ygilany/AskDB/issues/638)
+- **Repository:** [Ygilany/AskDB](https://github.com/Ygilany/AskDB)
+- **Score:** 86/100
+- **Updated:** 2026-11-17T03:12:08Z
+- **Labels:** bug, help wanted, good first issue, ready-for-human
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [askdb introspect derives schemaId "." or "" from --out ., / or .schema](https://github.com/Ygilany/AskDB/issues/782)
+- **Repository:** [Ygilany/AskDB](https://github.com/Ygilany/AskDB)
+- **Score:** 86/100
+- **Updated:** 2026-11-17T02:45:44Z
+- **Labels:** bug, help wanted, good first issue, ready-for-human
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [askdb introspect: the missing @askdb/prisma hint doesn't name ai and zod for Yarn PnP](https://github.com/Ygilany/AskDB/issues/779)
+- **Repository:** [Ygilany/AskDB](https://github.com/Ygilany/AskDB)
+- **Score:** 86/100
+- **Updated:** 2026-11-17T02:45:40Z
+- **Labels:** bug, help wanted, good first issue, ready-for-human
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs: the dashboard font notice names an unused font](https://github.com/ClickHouse/loom/issues/751)
+- **Repository:** [ClickHouse/loom](https://github.com/ClickHouse/loom)
 - **Score:** 83/100
-- **Updated:** 2026-11-16T19:28:42Z
-- **Labels:** enhancement, help wanted, good first issue, ai, grid, portal
+- **Updated:** 2026-11-17T03:44:30Z
+- **Labels:** documentation, good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Benchmark: add a "thousands separator" defect family](https://github.com/Yoh5/intelligent_data_cleaner/issues/1)
-- **Repository:** [Yoh5/intelligent_data_cleaner](https://github.com/Yoh5/intelligent_data_cleaner)
+## [feat(integrations): Add 1-line client wrapper for Cohere SDK (wrap_cohere_client)](https://github.com/aakash1552005/rerunner/issues/137)
+- **Repository:** [aakash1552005/rerunner](https://github.com/aakash1552005/rerunner)
 - **Score:** 83/100
-- **Updated:** 2026-11-16T19:26:21Z
-- **Labels:** help wanted, good first issue, benchmark
+- **Updated:** 2026-11-17T03:32:24Z
+- **Labels:** enhancement, help wanted, good first issue, integration
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -207,7 +227,7 @@ Repositories checked for funding metadata: 12
 ## [A grid example exports what it shows as CSV](https://github.com/neomjs/neo/issues/21188)
 - **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
 - **Score:** 83/100
-- **Updated:** 2026-11-16T19:25:42Z
+- **Updated:** 2026-11-17T02:54:26Z
 - **Labels:** enhancement, help wanted, good first issue, ai, grid
 - **Comments:** 0
 - **Stars:** not checked
@@ -217,37 +237,17 @@ Repositories checked for funding metadata: 12
 ## [A grid example shows the built-in cell types on one sheet](https://github.com/neomjs/neo/issues/21187)
 - **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
 - **Score:** 83/100
-- **Updated:** 2026-11-16T19:25:26Z
+- **Updated:** 2026-11-17T02:54:24Z
 - **Labels:** enhancement, help wanted, good first issue, ai, grid
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [The table's own example says when a table beats a grid](https://github.com/neomjs/neo/issues/21185)
+## [The tree grid at scale opens on its tree](https://github.com/neomjs/neo/issues/21165)
 - **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
 - **Score:** 83/100
-- **Updated:** 2026-11-16T19:24:53Z
-- **Labels:** enhancement, help wanted, good first issue, ai, grid
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [The table filtering example filters data a visitor would filter](https://github.com/neomjs/neo/issues/21184)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 83/100
-- **Updated:** 2026-11-16T19:24:37Z
-- **Labels:** enhancement, help wanted, good first issue, ai, grid
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [The content-sized rows example wraps real text, not random words](https://github.com/neomjs/neo/issues/21183)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 83/100
-- **Updated:** 2026-11-16T19:24:23Z
+- **Updated:** 2026-11-17T02:54:19Z
 - **Labels:** enhancement, help wanted, good first issue, ai, grid
 - **Comments:** 0
 - **Stars:** not checked

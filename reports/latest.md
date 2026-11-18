@@ -1,146 +1,186 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-18T11:32:18.140022+00:00
-Unique issues discovered: 221
+Generated: 2026-11-18T20:26:44.494190+00:00
+Unique issues discovered: 218
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎌 Add new Etiquette Tip 1090 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34286)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+## [Test on XFCE, Cinnamon, COSMIC or Sway and report what doctor says](https://github.com/ajithakdev/claude-desktop-rpm/issues/15)
+- **Repository:** [ajithakdev/claude-desktop-rpm](https://github.com/ajithakdev/claude-desktop-rpm)
 - **Score:** 99/100
-- **Updated:** 2026-11-18T10:55:48Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 1
-- **Stars:** 3886
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-
-## [Linux audibility: paplay and aplay untested, ffplay plumbing verified](https://github.com/kiril6/vibeaudio/issues/6)
-- **Repository:** [kiril6/vibeaudio](https://github.com/kiril6/vibeaudio)
-- **Score:** 98/100
-- **Updated:** 2026-11-18T10:20:32Z
+- **Updated:** 2026-11-18T19:25:16Z
 - **Labels:** help wanted, good first issue
+- **Comments:** 2
+- **Stars:** 50
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** ko_fi: ajithakdev; custom: ["https://github.com/ajithakdev/claude-desktop-rpm#support"]
+
+## [The board's card editor keeps its contrast in cyberpunk and neo-light](https://github.com/neomjs/neo/issues/21371)
+- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+- **Score:** 99/100
+- **Updated:** 2026-11-18T19:22:10Z
+- **Labels:** bug, help wanted, good first issue, design, ai
+- **Comments:** 2
+- **Stars:** 3304
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: [tobiu]
+
+## [ci: add concurrency groups, least-privilege permissions and consistent action versions](https://github.com/sorolens/sorolens/issues/541)
+- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
+- **Score:** 95/100
+- **Updated:** 2026-11-18T20:14:46Z
+- **Labels:** good first issue, help wanted, trivial, devops, Stellar Wave
 - **Comments:** 7
-- **Stars:** 2
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** ko_fi: kdelovski
+- **Stars:** 86
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(cli): add a global --api-key flag and SOROLENS_API_KEY support](https://github.com/sorolens/sorolens/issues/565)
+- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
+- **Score:** 95/100
+- **Updated:** 2026-11-18T20:10:21Z
+- **Labels:** good first issue, help wanted, trivial, cli, Stellar Wave
+- **Comments:** 8
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [OTLP import: read Docker MCP Gateway's `mcp.tool.call` spans as tool calls](https://github.com/Cygnux-Labs/Tracekit/issues/961)
+- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+- **Score:** 95/100
+- **Updated:** 2026-11-18T20:06:10Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 5
+- **Stars:** 772
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(cli): return a non-zero exit code when the API returns an error](https://github.com/sorolens/sorolens/issues/566)
+- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
+- **Score:** 95/100
+- **Updated:** 2026-11-18T20:05:43Z
+- **Labels:** good first issue, help wanted, trivial, cli, Stellar Wave
+- **Comments:** 10
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Tracking issue: Convert components to TypeScript](https://github.com/openedx/paragon/issues/3739)
+- **Repository:** [openedx/paragon](https://github.com/openedx/paragon)
+- **Score:** 95/100
+- **Updated:** 2026-11-18T19:19:20Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 6
+- **Stars:** 141
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
 
 ## [chore: remove stray scripts and files from the repository root](https://github.com/sorolens/sorolens/issues/540)
 - **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
 - **Score:** 95/100
-- **Updated:** 2026-11-18T11:10:35Z
-- **Labels:** good first issue, help wanted, trivial, devops, Stellar Wave
-- **Comments:** 6
-- **Stars:** 88
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [☂️ Help us translate e2e](https://github.com/e2e-inc/e2e/issues/1890)
-- **Repository:** [e2e-inc/e2e](https://github.com/e2e-inc/e2e)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T11:09:47Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 4
-- **Stars:** 14017
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [☂️ Help us bring missing APIs to e2e](https://github.com/e2e-inc/e2e/issues/1855)
-- **Repository:** [e2e-inc/e2e](https://github.com/e2e-inc/e2e)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T10:51:09Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 57
+- **Updated:** 2026-11-18T18:46:03Z
+- **Labels:** good first issue, help wanted, trivial, devops
+- **Comments:** 11
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [feat(sdk): add AWS Bedrock Python SDK instrumentation + TypeScript example](https://github.com/traceroot-ai/traceroot/issues/737)
-- **Repository:** [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T09:34:02Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 8
-- **Stars:** 1419
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+## [Search: Use store from @grafana/data instead of window.localStorage in search utils](https://github.com/grafana/grafana/issues/138266)
+- **Repository:** [grafana/grafana](https://github.com/grafana/grafana)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T20:23:23Z
+- **Labels:** type/tech, area/search, help wanted, area/frontend, good first issue, internal
+- **Comments:** 1
+- **Stars:** 78008
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Good First Issue] 众包校勘：为历史大事、地标事件与人物行迹补充史籍出处 / Add historical sources for milestones, events & figures](https://github.com/DeanChensj/jiangshan-map/issues/309)
-- **Repository:** [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T08:57:48Z
+## [A field named tags in kb.yaml is silently ignored, and kb validate says the schema is valid](https://github.com/pyrite-wiki/pyrite/issues/1756)
+- **Repository:** [pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T20:21:36Z
+- **Labels:** bug, help wanted, good first issue, cli
+- **Comments:** 1
+- **Stars:** 17
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[cli] Fix deploy.yml duplicate 'Print result' step name](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/505)
+- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T20:21:14Z
+- **Labels:** bug, help wanted, good first issue, Stellar Wave, ci
+- **Comments:** 1
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Wanted: a chart of accounts from your country](https://github.com/OfinTech/ofinTech-Dask/issues/15)
+- **Repository:** [OfinTech/ofinTech-Dask](https://github.com/OfinTech/ofinTech-Dask)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T20:13:27Z
+- **Labels:** good first issue, help wanted
+- **Comments:** 1
+- **Stars:** 4
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [A list field written as a single string: repeated --field drops values, --append has no remedy, qa validate is silent](https://github.com/pyrite-wiki/pyrite/issues/1760)
+- **Repository:** [pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T19:56:37Z
+- **Labels:** bug, help wanted, good first issue, cli
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a parser preset for Kreuzberg](https://github.com/complydoc/complydoc/issues/82)
+- **Repository:** [complydoc/complydoc](https://github.com/complydoc/complydoc)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T19:55:08Z
 - **Labels:** help wanted, good first issue
-- **Comments:** 12
-- **Stars:** 7757
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[AGENT] Add 'mens-care-coordinator' Men's Health & Screening Coordinator manifest and persona](https://github.com/spectrayan/carefold/issues/61)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
-- **Score:** 91/100
-- **Updated:** 2026-11-18T11:29:44Z
-- **Labels:** good first issue, help wanted, type:agent, area:agents, audience:junior-dev, effort:small, priority:p2, safety:boundary
 - **Comments:** 1
-- **Stars:** 2
+- **Stars:** 10
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[AGENT] Add 'metabolic-care-coordinator' Metabolic & Glucose Care Coordinator manifest and persona](https://github.com/spectrayan/carefold/issues/68)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
+## [Good first issue: verify the harmless demo on one OS](https://github.com/cryptostrapon/npm-install-audit/issues/28)
+- **Repository:** [cryptostrapon/npm-install-audit](https://github.com/cryptostrapon/npm-install-audit)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T11:28:01Z
-- **Labels:** good first issue, help wanted, type:agent, area:agents, audience:junior-dev, effort:small, priority:p2, safety:boundary
+- **Updated:** 2026-11-18T18:48:04Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 1
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Policy lint: refuse an `explains` host glob over a public suffix (`*.co.uk`, `*.github.io`)](https://github.com/Cygnux-Labs/Tracekit/issues/960)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [Contributors wanted: where to start](https://github.com/lenichols/dua-platform/issues/1)
+- **Repository:** [lenichols/dua-platform](https://github.com/lenichols/dua-platform)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T11:24:28Z
+- **Updated:** 2026-11-18T16:51:16Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 2
-- **Stars:** 771
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[DOCS] Build hands-on CLI cookbook and tutorial recipes in docs/getting-started/quickstart.md](https://github.com/spectrayan/carefold/issues/38)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
+## [Mask more token formats (one service per pull request)](https://github.com/ysb3996-blip/oops/issues/15)
+- **Repository:** [ysb3996-blip/oops](https://github.com/ysb3996-blip/oops)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T11:22:25Z
-- **Labels:** good first issue, help wanted, type:docs, area:docs, audience:student, effort:small, priority:p2
+- **Updated:** 2026-11-18T13:24:54Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[DOCS] Add Workspace Ephemeral Notes guide (docs/tools/workspace-notes.md)](https://github.com/spectrayan/carefold/issues/42)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
+## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
+- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T11:20:27Z
-- **Labels:** documentation, good first issue, help wanted, type:docs, area:tools, area:docs, audience:student, effort:small, priority:p2
-- **Comments:** 1
+- **Updated:** 2026-11-18T11:46:15Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 2
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[DOCS] Add Complete Carefold CLI Command Reference (docs/cli/reference.md)](https://github.com/spectrayan/carefold/issues/43)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
-- **Score:** 91/100
-- **Updated:** 2026-11-18T11:16:02Z
-- **Labels:** documentation, good first issue, help wanted, type:docs, area:cli, area:docs, audience:junior-dev, effort:small, priority:p2
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Kotlin] Add language basics](https://github.com/codethesaurus/codethesaur.us/issues/737)
-- **Repository:** [codethesaurus/codethesaur.us](https://github.com/codethesaurus/codethesaur.us)
-- **Score:** 91/100
-- **Updated:** 2026-11-18T11:08:01Z
-- **Labels:** help wanted, good first issue, hacktoberfest, Experience: Language Concept, Language: Kotlin
-- **Comments:** 1
-- **Stars:** 297
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -150,105 +190,65 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-18T04:34:30Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 1
-- **Stars:** 502
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Let's document: az (azure-cli)](https://github.com/tldr-pages/tldr/issues/6141)
-- **Repository:** [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-- **Score:** 91/100
-- **Updated:** 2026-11-17T21:13:16Z
-- **Labels:** new command, help wanted, good first issue, let's document
-- **Comments:** 2
-- **Stars:** 64243
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Retire the 16-character trace ID form and settle on 32 hex characters everywhere](https://github.com/jaegertracing/jaeger/issues/9717)
-- **Repository:** [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+## [Test `build-no-msgspec` fails in CI](https://github.com/wemake-services/django-modern-rest/issues/1849)
+- **Repository:** [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest)
 - **Score:** 90/100
-- **Updated:** 2026-11-18T09:55:20Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 5
-- **Stars:** 23421
+- **Updated:** 2026-11-18T19:51:11Z
+- **Labels:** bug, good first issue, help wanted
+- **Comments:** 3
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[SKILLS] Create 'pediatrics-prep' clinical visit preparation skill pack with CDC/AAP milestone references](https://github.com/spectrayan/carefold/issues/35)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
+## [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
+- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
+- **Score:** 90/100
+- **Updated:** 2026-11-18T19:27:53Z
+- **Labels:** enhancement, help wanted, good first issue, contributor-experience, hacktoberfest, ai, testing
+- **Comments:** 5
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[outreach] contributor retention risk — 20 external PRs waiting, oldest 58 days with no merge path](https://github.com/kubestellar/kubestellar/issues/3814)
+- **Repository:** [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
 - **Score:** 86/100
-- **Updated:** 2026-11-18T11:24:26Z
-- **Labels:** good first issue, help wanted, type:skill, area:skills, audience:clinician-advisor, effort:medium, priority:p2, safety:boundary
+- **Updated:** 2026-11-18T18:30:56Z
+- **Labels:** help wanted, priority/medium, kind/documentation, good first issue
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Test approval threshold of 100 requires unanimous YES](https://github.com/ogenyialice120/soroban-upgrade-manager/issues/62)
+- **Repository:** [ogenyialice120/soroban-upgrade-manager](https://github.com/ogenyialice120/soroban-upgrade-manager)
+- **Score:** 86/100
+- **Updated:** 2026-11-18T14:51:23Z
+- **Labels:** help wanted, good first issue, tests, difficulty: easy, Stellar Wave
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[AGENT] Add 'maternal-perinatal-coordinator' Maternal & Perinatal Care Coordinator and 'perinatal-prep' skill](https://github.com/spectrayan/carefold/issues/273)
-- **Repository:** [spectrayan/carefold](https://github.com/spectrayan/carefold)
-- **Score:** 86/100
-- **Updated:** 2026-11-18T11:03:34Z
-- **Labels:** good first issue, help wanted, type:agent, type:skill, area:agents, area:skills, audience:student, audience:clinician-advisor, effort:small, priority:p1, safety:boundary, safety:emergency
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [OTLP import: read Docker MCP Gateway's `mcp.tool.call` spans as tool calls](https://github.com/Cygnux-Labs/Tracekit/issues/961)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+## [Bedrock: support the default AWS credential chain (IAM role / OIDC)](https://github.com/parvez3019/ai-code-review-gitlab-plugin/issues/3)
+- **Repository:** [parvez3019/ai-code-review-gitlab-plugin](https://github.com/parvez3019/ai-code-review-gitlab-plugin)
 - **Score:** 83/100
-- **Updated:** 2026-11-18T11:01:43Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-18T18:00:07Z
+- **Labels:** enhancement, help wanted, good first issue, provider
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[FEAT] Introduce Alfresco Bulk File System Import Repository Connector (oc-alfresco-bfsi-repository-connector)](https://github.com/opencrawling/opencrawling/issues/216)
-- **Repository:** [opencrawling/opencrawling](https://github.com/opencrawling/opencrawling)
+## [good first issue: Redact Stripe secret keys (sk_live_ / sk_test_)](https://github.com/sharkohark1234/redact-sensitive/issues/17)
+- **Repository:** [sharkohark1234/redact-sensitive](https://github.com/sharkohark1234/redact-sensitive)
 - **Score:** 83/100
-- **Updated:** 2026-11-18T08:30:14Z
-- **Labels:** enhancement, help wanted, good first issue, java, connector, repository-connector
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[FEAT] Introduce AWS S3 Repository Connector for Object Storage, OIS Sidecars & Event-Driven Ingestion (oc-s3-repository-connector)](https://github.com/opencrawling/opencrawling/issues/346)
-- **Repository:** [opencrawling/opencrawling](https://github.com/opencrawling/opencrawling)
-- **Score:** 83/100
-- **Updated:** 2026-11-18T08:27:12Z
-- **Labels:** enhancement, help wanted, good first issue, java, connector, repository-connector
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Verify swarmauri_auth_idp_salesforce: add deterministic provider contract tests](https://github.com/swarmauri/swarmauri-sdk/issues/6297)
-- **Repository:** [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk)
-- **Score:** 83/100
-- **Updated:** 2026-11-18T06:03:06Z
-- **Labels:** good first issue, help wanted, missing coverage, python
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Verify swarmauri_auth_idp_okta: add deterministic provider contract tests](https://github.com/swarmauri/swarmauri-sdk/issues/6292)
-- **Repository:** [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk)
-- **Score:** 83/100
-- **Updated:** 2026-11-18T06:02:57Z
-- **Labels:** good first issue, help wanted, missing coverage, python
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Verify swarmauri_auth_idp_keycloak: add deterministic provider contract tests](https://github.com/swarmauri/swarmauri-sdk/issues/6290)
-- **Repository:** [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk)
-- **Score:** 83/100
-- **Updated:** 2026-11-18T06:02:50Z
-- **Labels:** good first issue, help wanted, missing coverage, python
+- **Updated:** 2026-11-18T16:49:29Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week

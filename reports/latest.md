@@ -1,8 +1,18 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-18T20:26:44.494190+00:00
-Unique issues discovered: 218
+Generated: 2026-11-19T02:31:22.490500+00:00
+Unique issues discovered: 212
 Repositories checked for funding metadata: 12
+
+## [[good first issue, hacktoberfest] 🍁 Add new Dialect Entry 154 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34306)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 99/100
+- **Updated:** 2026-11-19T02:20:59Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 1
+- **Stars:** 3886
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 ## [Test on XFCE, Cinnamon, COSMIC or Sway and report what doctor says](https://github.com/ajithakdev/claude-desktop-rpm/issues/15)
 - **Repository:** [ajithakdev/claude-desktop-rpm](https://github.com/ajithakdev/claude-desktop-rpm)
@@ -14,63 +24,13 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** ko_fi: ajithakdev; custom: ["https://github.com/ajithakdev/claude-desktop-rpm#support"]
 
-## [The board's card editor keeps its contrast in cyberpunk and neo-light](https://github.com/neomjs/neo/issues/21371)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 99/100
-- **Updated:** 2026-11-18T19:22:10Z
-- **Labels:** bug, help wanted, good first issue, design, ai
-- **Comments:** 2
-- **Stars:** 3304
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: [tobiu]
-
 ## [ci: add concurrency groups, least-privilege permissions and consistent action versions](https://github.com/sorolens/sorolens/issues/541)
 - **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
 - **Score:** 95/100
-- **Updated:** 2026-11-18T20:14:46Z
+- **Updated:** 2026-11-18T23:35:53Z
 - **Labels:** good first issue, help wanted, trivial, devops, Stellar Wave
-- **Comments:** 7
-- **Stars:** 86
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(cli): add a global --api-key flag and SOROLENS_API_KEY support](https://github.com/sorolens/sorolens/issues/565)
-- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T20:10:21Z
-- **Labels:** good first issue, help wanted, trivial, cli, Stellar Wave
-- **Comments:** 8
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [OTLP import: read Docker MCP Gateway's `mcp.tool.call` spans as tool calls](https://github.com/Cygnux-Labs/Tracekit/issues/961)
-- **Repository:** [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T20:06:10Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 5
-- **Stars:** 772
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(cli): return a non-zero exit code when the API returns an error](https://github.com/sorolens/sorolens/issues/566)
-- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T20:05:43Z
-- **Labels:** good first issue, help wanted, trivial, cli, Stellar Wave
-- **Comments:** 10
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Tracking issue: Convert components to TypeScript](https://github.com/openedx/paragon/issues/3739)
-- **Repository:** [openedx/paragon](https://github.com/openedx/paragon)
-- **Score:** 95/100
-- **Updated:** 2026-11-18T19:19:20Z
-- **Labels:** help wanted, good first issue
 - **Comments:** 6
-- **Stars:** 141
+- **Stars:** 85
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -84,73 +44,123 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Search: Use store from @grafana/data instead of window.localStorage in search utils](https://github.com/grafana/grafana/issues/138266)
-- **Repository:** [grafana/grafana](https://github.com/grafana/grafana)
+## [fix(seo): bot.flisk.si/sitemap.xml returns 404 and robots.txt has no Sitemap line](https://github.com/flisk-sh/jobs/issues/25)
+- **Repository:** [flisk-sh/jobs](https://github.com/flisk-sh/jobs)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T20:23:23Z
-- **Labels:** type/tech, area/search, help wanted, area/frontend, good first issue, internal
-- **Comments:** 1
-- **Stars:** 78008
+- **Updated:** 2026-11-19T02:26:39Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, javascript, tech: cloudflare-workers, difficulty: easy, quality, user-experience, dx, backend, frontend, priority: P3, tech: html, area: pages, seo, ai-discoverability
+- **Comments:** 2
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [A field named tags in kb.yaml is silently ignored, and kb validate says the schema is valid](https://github.com/pyrite-wiki/pyrite/issues/1756)
-- **Repository:** [pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)
+## [perf(cache): os.flisk.si static files (css, logo, icons) are revalidated on every page view (max-age=0)](https://github.com/flisk-sh/fliskos/issues/169)
+- **Repository:** [flisk-sh/fliskos](https://github.com/flisk-sh/fliskos)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T20:21:36Z
-- **Labels:** bug, help wanted, good first issue, cli
+- **Updated:** 2026-11-19T02:26:02Z
+- **Labels:** good first issue, help wanted, dx, difficulty: easy, performance, frontend, user-experience, area: http-headers, priority: P3, quality, javascript, tech: cloudflare-workers, area: pages, latency, caching, assets
 - **Comments:** 1
-- **Stars:** 17
+- **Stars:** 2
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[cli] Fix deploy.yml duplicate 'Print result' step name](https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/505)
-- **Repository:** [eogenyi23-creator/soroban-merkle-airdrop](https://github.com/eogenyi23-creator/soroban-merkle-airdrop)
+## [fix(a11y): the ranker.flisk.si home page has no main landmark, so screen-reader users cannot jump to the content](https://github.com/flisk-sh/ranker/issues/24)
+- **Repository:** [flisk-sh/ranker](https://github.com/flisk-sh/ranker)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T20:21:14Z
-- **Labels:** bug, help wanted, good first issue, Stellar Wave, ci
+- **Updated:** 2026-11-19T02:19:17Z
+- **Labels:** bug, enhancement, good first issue, help wanted, javascript, difficulty: easy, priority: P3, dx, tech: cloudflare-workers, quality, user-experience, tech: html, frontend, area: pages, accessibility, a11y
+- **Comments:** 2
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(a11y): the chat.flisk.si home page has no main landmark, so screen-reader users cannot jump to the content](https://github.com/flisk-sh/chat/issues/232)
+- **Repository:** [flisk-sh/chat](https://github.com/flisk-sh/chat)
+- **Score:** 91/100
+- **Updated:** 2026-11-19T02:19:15Z
+- **Labels:** bug, enhancement, good first issue, help wanted, tech: cloudflare-workers, javascript, quality, user-experience, difficulty: easy, priority: P3, dx, tech: html, frontend, area: pages, accessibility, a11y
+- **Comments:** 2
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [feat(pwa): add an apple-touch-icon to gardener.flisk.si so iOS home-screen shortcuts show the Flisk icon](https://github.com/flisk-sh/gardener/issues/21)
+- **Repository:** [flisk-sh/gardener](https://github.com/flisk-sh/gardener)
+- **Score:** 91/100
+- **Updated:** 2026-11-19T02:08:06Z
+- **Labels:** enhancement, good first issue, help wanted, javascript, dx, quality, difficulty: easy, priority: P3, tech: cloudflare-workers, user-experience, tech: html, frontend, area: pages, design, pwa, mobile
 - **Comments:** 1
 - **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Wanted: a chart of accounts from your country](https://github.com/OfinTech/ofinTech-Dask/issues/15)
-- **Repository:** [OfinTech/ofinTech-Dask](https://github.com/OfinTech/ofinTech-Dask)
+## [feat(pwa): add an apple-touch-icon to ranker.flisk.si so iOS home-screen shortcuts show the Flisk icon](https://github.com/flisk-sh/ranker/issues/26)
+- **Repository:** [flisk-sh/ranker](https://github.com/flisk-sh/ranker)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T20:13:27Z
-- **Labels:** good first issue, help wanted
+- **Updated:** 2026-11-19T02:08:05Z
+- **Labels:** enhancement, good first issue, help wanted, javascript, difficulty: easy, priority: P3, dx, tech: cloudflare-workers, quality, user-experience, tech: html, frontend, area: pages, design, pwa, mobile
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [The API Reference menu items hard-code port 3000 in three places and open whatever is listening there](https://github.com/Open-Glassbeetle/glassbeetle/issues/310)
+- **Repository:** [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle)
+- **Score:** 91/100
+- **Updated:** 2026-11-19T02:07:30Z
+- **Labels:** bug, good first issue, help wanted, rust
 - **Comments:** 1
 - **Stars:** 4
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [A list field written as a single string: repeated --field drops values, --append has no remedy, qa validate is silent](https://github.com/pyrite-wiki/pyrite/issues/1760)
-- **Repository:** [pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)
+## [feat(pwa): add an apple-touch-icon to jobs.flisk.si and bot.flisk.si so iOS home-screen shortcuts show the Flisk icon](https://github.com/flisk-sh/jobs/issues/30)
+- **Repository:** [flisk-sh/jobs](https://github.com/flisk-sh/jobs)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T19:56:37Z
-- **Labels:** bug, help wanted, good first issue, cli
-- **Comments:** 2
+- **Updated:** 2026-11-19T01:49:02Z
+- **Labels:** enhancement, good first issue, help wanted, javascript, tech: cloudflare-workers, difficulty: easy, quality, user-experience, dx, frontend, priority: P3, tech: html, area: pages, design, pwa, mobile
+- **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add a parser preset for Kreuzberg](https://github.com/complydoc/complydoc/issues/82)
-- **Repository:** [complydoc/complydoc](https://github.com/complydoc/complydoc)
+## [feat(pwa): add a theme-color meta tag to ranker.flisk.si so mobile browser chrome matches the page](https://github.com/flisk-sh/ranker/issues/27)
+- **Repository:** [flisk-sh/ranker](https://github.com/flisk-sh/ranker)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T19:55:08Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-19T01:46:18Z
+- **Labels:** enhancement, good first issue, help wanted, javascript, difficulty: easy, priority: P3, dx, tech: cloudflare-workers, quality, user-experience, tech: html, frontend, area: pages, design, pwa, mobile
 - **Comments:** 1
-- **Stars:** 10
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Good first issue: verify the harmless demo on one OS](https://github.com/cryptostrapon/npm-install-audit/issues/28)
-- **Repository:** [cryptostrapon/npm-install-audit](https://github.com/cryptostrapon/npm-install-audit)
+## [docs(readme): the README has no License section although the repo ships an MIT LICENSE file](https://github.com/flisk-sh/gardener/issues/22)
+- **Repository:** [flisk-sh/gardener](https://github.com/flisk-sh/gardener)
 - **Score:** 91/100
-- **Updated:** 2026-11-18T18:48:04Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-19T01:44:03Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, dx, quality, difficulty: easy, priority: P3, area: readme, community, onboarding, docs, beginner-friendly, licensing, maintenance, tech: markdown
 - **Comments:** 1
-- **Stars:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [docs(readme): the README has no License section although the repo ships an MIT LICENSE file](https://github.com/flisk-sh/chat/issues/236)
+- **Repository:** [flisk-sh/chat](https://github.com/flisk-sh/chat)
+- **Score:** 91/100
+- **Updated:** 2026-11-19T01:42:27Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, quality, difficulty: easy, priority: P3, dx, area: readme, community, onboarding, docs, beginner-friendly, licensing, maintenance, tech: markdown
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
+- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
+- **Score:** 91/100
+- **Updated:** 2026-11-18T21:09:33Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 2
+- **Stars:** 289
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -170,86 +180,76 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-18T13:24:54Z
 - **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 1
-- **Stars:** not checked
+- **Stars:** 10
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
-- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
-- **Score:** 91/100
-- **Updated:** 2026-11-18T11:46:15Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Shift catalog: what would you run overnight?](https://github.com/orwa-mahmoud/nightshift/issues/21)
-- **Repository:** [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)
-- **Score:** 91/100
-- **Updated:** 2026-11-18T04:34:30Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Test `build-no-msgspec` fails in CI](https://github.com/wemake-services/django-modern-rest/issues/1849)
-- **Repository:** [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest)
+## [Add type hints to `test_messages.py`](https://github.com/zulip/zulip-terminal/issues/1337)
+- **Repository:** [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal)
 - **Score:** 90/100
-- **Updated:** 2026-11-18T19:51:11Z
-- **Labels:** bug, good first issue, help wanted
-- **Comments:** 3
+- **Updated:** 2026-11-19T01:56:34Z
+- **Labels:** help wanted, good first issue, area: tests, area: refactoring
+- **Comments:** 70
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
-- **Repository:** [neomjs/neo](https://github.com/neomjs/neo)
-- **Score:** 90/100
-- **Updated:** 2026-11-18T19:27:53Z
-- **Labels:** enhancement, help wanted, good first issue, contributor-experience, hacktoberfest, ai, testing
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[outreach] contributor retention risk — 20 external PRs waiting, oldest 58 days with no merge path](https://github.com/kubestellar/kubestellar/issues/3814)
-- **Repository:** [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
+## [Prefill the engine diagnostics field on crash-report bug links](https://github.com/maniator/verticopolis/issues/1202)
+- **Repository:** [maniator/verticopolis](https://github.com/maniator/verticopolis)
 - **Score:** 86/100
-- **Updated:** 2026-11-18T18:30:56Z
-- **Labels:** help wanted, priority/medium, kind/documentation, good first issue
-- **Comments:** 2
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Test approval threshold of 100 requires unanimous YES](https://github.com/ogenyialice120/soroban-upgrade-manager/issues/62)
-- **Repository:** [ogenyialice120/soroban-upgrade-manager](https://github.com/ogenyialice120/soroban-upgrade-manager)
-- **Score:** 86/100
-- **Updated:** 2026-11-18T14:51:23Z
-- **Labels:** help wanted, good first issue, tests, difficulty: easy, Stellar Wave
+- **Updated:** 2026-11-19T02:28:24Z
+- **Labels:** enhancement, help wanted, good first issue, P3
 - **Comments:** 1
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Bedrock: support the default AWS credential chain (IAM role / OIDC)](https://github.com/parvez3019/ai-code-review-gitlab-plugin/issues/3)
-- **Repository:** [parvez3019/ai-code-review-gitlab-plugin](https://github.com/parvez3019/ai-code-review-gitlab-plugin)
-- **Score:** 83/100
-- **Updated:** 2026-11-18T18:00:07Z
-- **Labels:** enhancement, help wanted, good first issue, provider
-- **Comments:** 0
+## [Grab-hand cursor while the Shift pan modifier is held](https://github.com/maniator/verticopolis/issues/586)
+- **Repository:** [maniator/verticopolis](https://github.com/maniator/verticopolis)
+- **Score:** 86/100
+- **Updated:** 2026-11-19T02:28:23Z
+- **Labels:** enhancement, help wanted, good first issue, ui, P3
+- **Comments:** 2
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [good first issue: Redact Stripe secret keys (sk_live_ / sk_test_)](https://github.com/sharkohark1234/redact-sensitive/issues/17)
-- **Repository:** [sharkohark1234/redact-sensitive](https://github.com/sharkohark1234/redact-sensitive)
-- **Score:** 83/100
-- **Updated:** 2026-11-18T16:49:29Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
+## [feat(seo): ranker.flisk.si has no Open Graph or Twitter card tags, so shared links show a bare URL](https://github.com/flisk-sh/ranker/issues/23)
+- **Repository:** [flisk-sh/ranker](https://github.com/flisk-sh/ranker)
+- **Score:** 86/100
+- **Updated:** 2026-11-19T02:26:01Z
+- **Labels:** documentation, enhancement, good first issue, help wanted, seo, javascript, difficulty: easy, priority: P3, dx, tech: cloudflare-workers, quality, user-experience, tech: html, frontend, area: pages, design
+- **Comments:** 1
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [feat(seo): bot.flisk.si and jobs.flisk.si have no og:image, shared links show text but no picture](https://github.com/flisk-sh/jobs/issues/28)
+- **Repository:** [flisk-sh/jobs](https://github.com/flisk-sh/jobs)
+- **Score:** 86/100
+- **Updated:** 2026-11-19T02:26:00Z
+- **Labels:** enhancement, good first issue, help wanted, javascript, tech: cloudflare-workers, difficulty: easy, quality, user-experience, dx, frontend, priority: P3, tech: html, area: pages, seo, design, assets
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(a11y): citable.flisk.si has no skip-to-content link for keyboard users](https://github.com/flisk-sh/citable/issues/50)
+- **Repository:** [flisk-sh/citable](https://github.com/flisk-sh/citable)
+- **Score:** 86/100
+- **Updated:** 2026-11-19T02:18:06Z
+- **Labels:** enhancement, good first issue, help wanted, dx, tech: cloudflare-workers, difficulty: easy, quality, frontend, tech: html, javascript, priority: P3, area: pages, user-experience, accessibility, a11y, keyboard
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [fix(a11y): diagram.flisk.si has no skip-to-content link for keyboard users](https://github.com/flisk-sh/readme-diagram/issues/15)
+- **Repository:** [flisk-sh/readme-diagram](https://github.com/flisk-sh/readme-diagram)
+- **Score:** 86/100
+- **Updated:** 2026-11-19T02:18:05Z
+- **Labels:** enhancement, good first issue, help wanted, dx, quality, difficulty: easy, javascript, priority: P3, tech: cloudflare-workers, user-experience, tech: html, frontend, area: pages, accessibility, a11y, keyboard
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

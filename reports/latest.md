@@ -1,7 +1,7 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-20T02:16:51.193009+00:00
-Unique issues discovered: 215
+Generated: 2026-11-20T11:27:38.421545+00:00
+Unique issues discovered: 225
 Repositories checked for funding metadata: 12
 
 ## [Test on XFCE, Cinnamon, COSMIC or Sway and report what doctor says](https://github.com/ajithakdev/claude-desktop-rpm/issues/15)
@@ -10,107 +10,67 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-19T19:33:58Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 4
-- **Stars:** 52
+- **Stars:** 53
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** ko_fi: ajithakdev; custom: ["https://github.com/ajithakdev/claude-desktop-rpm#support"]
 
-## [[good first issue, hacktoberfest] 🌺 Add new Japan Fact 409 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34349)
-- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+## [Verify swarmauri_auth_idp_salesforce: add deterministic provider contract tests](https://github.com/swarmauri/swarmauri-sdk/issues/6297)
+- **Repository:** [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk)
 - **Score:** 99/100
-- **Updated:** 2026-11-20T02:15:55Z
-- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Updated:** 2026-11-20T09:32:37Z
+- **Labels:** good first issue, help wanted, missing coverage, python
 - **Comments:** 1
-- **Stars:** 3889
+- **Stars:** 106
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+- **Funding signals:** github: [swarmauri]
 
-## [Good first issue: test project_lookup with two identical captions at the same moment / 同一时刻两条相同字幕的定位测试](https://github.com/frankShan001/CutVoke/issues/46)
-- **Repository:** [frankShan001/CutVoke](https://github.com/frankShan001/CutVoke)
+## [Theme coverage: make the remaining widgets read the frame's theme](https://github.com/thebanri/limoni/issues/97)
+- **Repository:** [thebanri/limoni](https://github.com/thebanri/limoni)
+- **Score:** 98/100
+- **Updated:** 2026-11-20T09:36:34Z
+- **Labels:** help wanted, good first issue, widget
+- **Comments:** 10
+- **Stars:** 196
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** buy_me_a_coffee: thebanri
+
+## [chore: remove stray scripts and files from the repository root](https://github.com/sorolens/sorolens/issues/540)
+- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
 - **Score:** 95/100
-- **Updated:** 2026-11-20T01:56:20Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 6
-- **Stars:** 39
+- **Updated:** 2026-11-20T07:58:46Z
+- **Labels:** good first issue, help wanted, trivial, devops
+- **Comments:** 12
+- **Stars:** 86
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [fix(sources): Add New Proxy Sources](https://github.com/gfpcom/free-proxy-list/issues/21)
-- **Repository:** [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list)
-- **Score:** 95/100
-- **Updated:** 2026-11-20T01:04:55Z
-- **Labels:** help wanted, good first issue, hacktoberfest
-- **Comments:** 5
-- **Stars:** 440
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [fix(deps): root package pins @flisk-sh/flisk 1.3.190, far behind the current 1.4.65](https://github.com/flisk-sh/flisk-cli-starter/issues/9)
-- **Repository:** [flisk-sh/flisk-cli-starter](https://github.com/flisk-sh/flisk-cli-starter)
+## [Docs and packaging drift: `secfoo[api]` extra is obsolete, public version says 0.3.0 while PyPI is 0.3.1, install scripts point at another repo](https://github.com/secfoo-com/secfoo/issues/120)
+- **Repository:** [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo)
 - **Score:** 91/100
-- **Updated:** 2026-11-20T02:11:49Z
-- **Labels:** bug, good first issue, help wanted, dx, difficulty: easy, onboarding, developer-experience, quality, priority: P2, dependencies, flisk-cli, version-drift, ci, docs, maintenance, chore, first-run, area: cli
-- **Comments:** 1
-- **Stars:** 3
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Injection] XPath injection: XML queries built from user input](https://github.com/argus-code-scanning/argus-codescan-mcp/issues/186)
-- **Repository:** [argus-code-scanning/argus-codescan-mcp](https://github.com/argus-code-scanning/argus-codescan-mcp)
-- **Score:** 91/100
-- **Updated:** 2026-11-20T02:02:44Z
-- **Labels:** enhancement, help wanted, good first issue
+- **Updated:** 2026-11-20T11:21:21Z
+- **Labels:** documentation, good first issue, help wanted, hackathon, difficulty: low
 - **Comments:** 2
-- **Stars:** 17
+- **Stars:** 362
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [docs: add a godoc comment for Stats](https://github.com/sorotrail/SoroBeacon/issues/792)
-- **Repository:** [sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)
+## [fix(backend): % and _ in a search box act as wildcards (product, invoice, quotation, credit note and serial searches)](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/issues/805)
+- **Repository:** [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software)
 - **Score:** 91/100
-- **Updated:** 2026-11-20T02:01:29Z
-- **Labels:** documentation, help wanted, good first issue, 100 points, drips-wave, Stellar Wave, go, complexity:trivial
+- **Updated:** 2026-11-20T11:20:30Z
+- **Labels:** bug, help wanted, good first issue, backend
+- **Comments:** 1
+- **Stars:** 23
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
+- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
+- **Score:** 91/100
+- **Updated:** 2026-11-20T02:37:43Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 2
-- **Stars:** 4
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: add a godoc comment for Alerts](https://github.com/sorotrail/SoroBeacon/issues/791)
-- **Repository:** [sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)
-- **Score:** 91/100
-- **Updated:** 2026-11-20T02:01:28Z
-- **Labels:** documentation, help wanted, good first issue, 100 points, drips-wave, Stellar Wave, go, complexity:trivial
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: add a godoc comment for Alert](https://github.com/sorotrail/SoroBeacon/issues/790)
-- **Repository:** [sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)
-- **Score:** 91/100
-- **Updated:** 2026-11-20T02:01:28Z
-- **Labels:** documentation, help wanted, good first issue, 100 points, drips-wave, Stellar Wave, go, complexity:trivial
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: add a godoc comment for Monitors](https://github.com/sorotrail/SoroBeacon/issues/789)
-- **Repository:** [sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)
-- **Score:** 91/100
-- **Updated:** 2026-11-20T02:01:27Z
-- **Labels:** documentation, help wanted, good first issue, 100 points, drips-wave, Stellar Wave, go, complexity:trivial
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [A minimal .NET (C#) client for the memory ops: set, get, search and delete](https://github.com/ClickHouse/loom/issues/621)
-- **Repository:** [ClickHouse/loom](https://github.com/ClickHouse/loom)
-- **Score:** 91/100
-- **Updated:** 2026-11-20T01:58:32Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 1
-- **Stars:** 169
+- **Stars:** 289
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -124,16 +84,6 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
-- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
-- **Score:** 91/100
-- **Updated:** 2026-11-19T11:33:10Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 2
-- **Stars:** 289
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
 ## [docs(readme): six variables in .env.example (origins, BFF URL, HTTP ports) are not explained anywhere](https://github.com/flisk-sh/vercel-store/issues/5)
 - **Repository:** [flisk-sh/vercel-store](https://github.com/flisk-sh/vercel-store)
 - **Score:** 91/100
@@ -144,41 +94,71 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
+## [Access to Alphafold database of 3D modules in a PDBList-like interface](https://github.com/biopython/biopython/issues/3990)
+- **Repository:** [biopython/biopython](https://github.com/biopython/biopython)
+- **Score:** 90/100
+- **Updated:** 2026-11-20T11:18:17Z
+- **Labels:** Enhancement, good first issue, help wanted
+- **Comments:** 12
+- **Stars:** 5276
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add 'cancel' button to discard draft](https://github.com/nextcloud/mail/issues/2492)
+- **Repository:** [nextcloud/mail](https://github.com/nextcloud/mail)
+- **Score:** 90/100
+- **Updated:** 2026-11-20T11:08:45Z
+- **Labels:** help wanted, 1. to develop, good first issue, papercut
+- **Comments:** 11
+- **Stars:** 1060
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[SCF high][easy] Align Node engine metadata with the CI toolchain](https://github.com/karagozemin/OverSync/issues/395)
+- **Repository:** [karagozemin/OverSync](https://github.com/karagozemin/OverSync)
+- **Score:** 86/100
+- **Updated:** 2026-11-20T11:22:16Z
+- **Labels:** help wanted, good first issue, Stellar Wave, priority: high, security
+- **Comments:** 2
+- **Stars:** 12
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[dev-trial #2] Team report: roll stand-ups into one digest (CLI + MCP tool)](https://github.com/jamessunheart/cora-commons/issues/36)
+- **Repository:** [jamessunheart/cora-commons](https://github.com/jamessunheart/cora-commons)
+- **Score:** 86/100
+- **Updated:** 2026-11-20T11:17:40Z
+- **Labels:** help wanted, good first issue, public-lane
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [test: add unit tests for WithSilentAfter in internal/web](https://github.com/sorotrail/SoroBeacon/issues/779)
+- **Repository:** [sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)
+- **Score:** 86/100
+- **Updated:** 2026-11-20T10:03:40Z
+- **Labels:** help wanted, good first issue, 100 points, drips-wave, test, Stellar Wave, go, complexity:trivial
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
 ## [ci(update): the "Update and test the formula" publish step is rejected by the main ruleset (GEL guards required), so releases no longer reach brew](https://github.com/flisk-sh/homebrew-tap/issues/6)
 - **Repository:** [flisk-sh/homebrew-tap](https://github.com/flisk-sh/homebrew-tap)
 - **Score:** 86/100
 - **Updated:** 2026-11-19T13:20:16Z
 - **Labels:** bug, good first issue, help wanted, dx, difficulty: medium, tech: github-actions, ci, release, packaging, developer-experience, quality, priority: P2, automation, reliability, distribution, chore, hygiene, dependencies, brew
 - **Comments:** 1
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[dev-trial #1] Stand-up records: schema + validator (shipped / blocked / need)](https://github.com/jamessunheart/cora-commons/issues/35)
-- **Repository:** [jamessunheart/cora-commons](https://github.com/jamessunheart/cora-commons)
+## [Add optional masking of secrets in logged commands](https://github.com/Crescentic/claude-logger-lite/issues/2)
+- **Repository:** [Crescentic/claude-logger-lite](https://github.com/Crescentic/claude-logger-lite)
 - **Score:** 83/100
-- **Updated:** 2026-11-20T02:11:00Z
-- **Labels:** help wanted, good first issue, public-lane
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[adapter] DigitalOcean Droplets observation](https://github.com/Dedalo101/converger/issues/4)
-- **Repository:** [Dedalo101/converger](https://github.com/Dedalo101/converger)
-- **Score:** 83/100
-- **Updated:** 2026-11-19T18:56:49Z
-- **Labels:** help wanted, good first issue, adapter
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add Prowler to Cloud Security](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues/46)
-- **Repository:** [Prashant-Bhapkar/Awesome-Security-Resources](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources)
-- **Score:** 83/100
-- **Updated:** 2026-11-19T07:25:28Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-20T10:46:45Z
+- **Labels:** enhancement, good first issue, help wanted
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -194,52 +174,22 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[SCF high][easy] Validate repository metadata for every workspace](https://github.com/karagozemin/OverSync/issues/394)
-- **Repository:** [karagozemin/OverSync](https://github.com/karagozemin/OverSync)
-- **Score:** 82/100
-- **Updated:** 2026-11-20T02:01:31Z
-- **Labels:** documentation, help wanted, good first issue, Stellar Wave, priority: high
-- **Comments:** 8
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[SCF high][easy] Add a deterministic formatting check across workspaces](https://github.com/karagozemin/OverSync/issues/390)
-- **Repository:** [karagozemin/OverSync](https://github.com/karagozemin/OverSync)
-- **Score:** 82/100
-- **Updated:** 2026-11-20T02:01:30Z
-- **Labels:** enhancement, help wanted, good first issue, Stellar Wave, priority: high
+## [[CI] Add a structured vulnerability report form](https://github.com/meshery/meshery/issues/23981)
+- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
+- **Score:** 80/100
+- **Updated:** 2026-11-20T10:10:13Z
+- **Labels:** help wanted, good first issue, area/ci, area/devops
 - **Comments:** 7
 - **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[SCF high][easy] Reject public workspace packages missing private metadata](https://github.com/karagozemin/OverSync/issues/392)
-- **Repository:** [karagozemin/OverSync](https://github.com/karagozemin/OverSync)
-- **Score:** 82/100
-- **Updated:** 2026-11-20T02:01:30Z
-- **Labels:** help wanted, good first issue, Stellar Wave, priority: high, security
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[SCF high][easy] Give Slither artifacts commit-specific names](https://github.com/karagozemin/OverSync/issues/388)
-- **Repository:** [karagozemin/OverSync](https://github.com/karagozemin/OverSync)
-- **Score:** 82/100
-- **Updated:** 2026-11-20T02:01:29Z
-- **Labels:** help wanted, good first issue, Stellar Wave, priority: high, security
-- **Comments:** 6
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [docs: add an example to "Who deployed a contract" in ./README.md](https://github.com/soroworks/sorovault/issues/381)
-- **Repository:** [soroworks/sorovault](https://github.com/soroworks/sorovault)
+## [ci: add concurrency groups, least-privilege permissions and consistent action versions](https://github.com/sorolens/sorolens/issues/541)
+- **Repository:** [sorolens/sorolens](https://github.com/sorolens/sorolens)
 - **Score:** 80/100
-- **Updated:** 2026-11-20T00:48:07Z
-- **Labels:** documentation, good first issue, help wanted, complexity: trivial, drips-wave, 100 points, Stellar Wave
-- **Comments:** 3
+- **Updated:** 2026-11-20T07:51:25Z
+- **Labels:** good first issue, help wanted, trivial, devops, Stellar Wave
+- **Comments:** 11
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
@@ -252,4 +202,54 @@ Repositories checked for funding metadata: 12
 - **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Translation review: native speakers wanted](https://github.com/Yusuf-Yonturk/boreas/issues/17)
+- **Repository:** [Yusuf-Yonturk/boreas](https://github.com/Yusuf-Yonturk/boreas)
+- **Score:** 78/100
+- **Updated:** 2026-11-20T11:26:09Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Verify and update EN 50160 even-harmonic limits (h6–h24)](https://github.com/bhuvi-777/gridlens/issues/1)
+- **Repository:** [bhuvi-777/gridlens](https://github.com/bhuvi-777/gridlens)
+- **Score:** 78/100
+- **Updated:** 2026-11-20T11:22:21Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [signature help triggers unexpectedly](https://github.com/clangd/clangd/issues/2426)
+- **Repository:** [clangd/clangd](https://github.com/clangd/clangd)
+- **Score:** 78/100
+- **Updated:** 2026-11-20T02:20:39Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a public /api/account/[id] endpoint](https://github.com/prism-explorer/prism/issues/291)
+- **Repository:** [prism-explorer/prism](https://github.com/prism-explorer/prism)
+- **Score:** 77/100
+- **Updated:** 2026-11-20T11:26:36Z
+- **Labels:** enhancement, good first issue, area:frontend, Stellar Wave
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Clean up orphaned partner-task artifacts left by PR #3921](https://github.com/konflux-ci/build-definitions/issues/3922)
+- **Repository:** [konflux-ci/build-definitions](https://github.com/konflux-ci/build-definitions)
+- **Score:** 77/100
+- **Updated:** 2026-11-20T09:09:43Z
+- **Labels:** bug, good first issue, ready-to-code, ready-for-triage
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata

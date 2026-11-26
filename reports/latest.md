@@ -1,36 +1,46 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-25T19:12:34.868005+00:00
-Unique issues discovered: 217
+Generated: 2026-11-26T03:31:13.240386+00:00
+Unique issues discovered: 213
 Repositories checked for funding metadata: 12
 
-## [[good first issue, hacktoberfest] 🎌 Add new Japanese Proverb 867 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34657)
+## [[good first issue, hacktoberfest] 🧧 Add new Learner Mistake 160 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34669)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 99/100
-- **Updated:** 2026-11-25T18:35:48Z
+- **Updated:** 2026-11-26T02:31:16Z
 - **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 3905
+- **Stars:** 3908
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-## [Add type hints to `test_messages.py`](https://github.com/zulip/zulip-terminal/issues/1337)
-- **Repository:** [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal)
+## [[TV] Skyworth 8N05_Q30 Android: 8.0.0 (SDK 26)](https://github.com/Gathin23/cleanyourtv/issues/2337)
+- **Repository:** [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
 - **Score:** 98/100
-- **Updated:** 2026-11-25T18:28:49Z
-- **Labels:** help wanted, good first issue, area: tests, area: refactoring
-- **Comments:** 71
-- **Stars:** 887
+- **Updated:** 2026-11-26T02:53:01Z
+- **Labels:** good first issue, tv-list, needs-test, help wanted
+- **Comments:** 11
+- **Stars:** 61027
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: zulip; patreon: zulip; open_collective: zulip
+- **Funding signals:** buy_me_a_coffee: gathint
 
-## [[RFC]: Reorganize pkg/plugins/gateway into topic files and subpackages (no behavior change)](https://github.com/vllm-project/aibrix/issues/3557)
-- **Repository:** [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
+## [Add current judge-flow screenshots to README](https://github.com/Saidur-droid/MergeEarn/issues/69)
+- **Repository:** [Saidur-droid/MergeEarn](https://github.com/Saidur-droid/MergeEarn)
 - **Score:** 95/100
-- **Updated:** 2026-11-25T18:52:47Z
-- **Labels:** good first issue, help wanted, area/gateway, triage/accepted, kind/feature
-- **Comments:** 21
-- **Stars:** 5207
+- **Updated:** 2026-11-26T03:04:58Z
+- **Labels:** help wanted, good first issue, bounty-waiting
+- **Comments:** 4
+- **Stars:** 1
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Feature Proposal] - Run the C++ SDK conformance tests with AddressSanitizer and UndefinedBehaviorSanitizer](https://github.com/agones-dev/agones/issues/4854)
+- **Repository:** [agones-dev/agones](https://github.com/agones-dev/agones)
+- **Score:** 95/100
+- **Updated:** 2026-11-26T00:52:43Z
+- **Labels:** kind/feature, help wanted, good first issue, area/tests
+- **Comments:** 3
+- **Stars:** 7107
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -64,33 +74,83 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Translations wanted: Catalan, French, German, Italian, Portuguese...](https://github.com/omorlabs/frescario/issues/1)
-- **Repository:** [omorlabs/frescario](https://github.com/omorlabs/frescario)
+## [docs: fix README typos](https://github.com/shinchan068/nst-campus-hub/issues/4)
+- **Repository:** [shinchan068/nst-campus-hub](https://github.com/shinchan068/nst-campus-hub)
 - **Score:** 91/100
-- **Updated:** 2026-11-25T18:55:38Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 0
-- **Stars:** 1
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** ko_fi: frescario; homepage: https://ko-fi.com/frescario
+- **Updated:** 2026-11-26T03:14:00Z
+- **Labels:** documentation, help wanted, good first issue, beginner, area: docs
+- **Comments:** 1
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Good First Issue] Add clarity guidance for Finding titles [MC-100]](https://github.com/Berserk-hub150/skillhawk/issues/281)
+- **Repository:** [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+- **Score:** 91/100
+- **Updated:** 2026-11-26T01:54:10Z
+- **Labels:** enhancement, help wanted, good first issue, community, low hanging fruit, up-for-grabs, first-timers-only, micro-contribution, type: task, beginner-friendly, category:finding-titles
+- **Comments:** 2
+- **Stars:** 117
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
 
 ## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
 - **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
 - **Score:** 91/100
-- **Updated:** 2026-11-25T18:27:47Z
+- **Updated:** 2026-11-26T01:44:29Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 2
 - **Stars:** 289
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Refresh the suggested Ollama models in Settings → Models](https://github.com/fleetifydev/fleetify/issues/72)
-- **Repository:** [fleetifydev/fleetify](https://github.com/fleetifydev/fleetify)
+## [✨ feature: Hive chat should be able to configure an agent](https://github.com/hivecommons/hive/issues/19788)
+- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
+- **Score:** 90/100
+- **Updated:** 2026-11-26T03:19:39Z
+- **Labels:** enhancement, good first issue, help wanted, triage/accepted, hive/verified-open, stage/010-actionable, hive/partially-addressed
+- **Comments:** 7
+- **Stars:** 91
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[client] Remove the dead Tailwind setup and the unused react-bootstrap dependency](https://github.com/khizzcr7/HireSense/issues/60)
+- **Repository:** [khizzcr7/HireSense](https://github.com/khizzcr7/HireSense)
+- **Score:** 90/100
+- **Updated:** 2026-11-26T01:02:05Z
+- **Labels:** help wanted, good first issue, first-timers-only
+- **Comments:** 7
+- **Stars:** 0
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Good first issue] 除息提醒保留行情源的日历日期](https://github.com/ydflow/Trail/issues/105)
+- **Repository:** [ydflow/Trail](https://github.com/ydflow/Trail)
 - **Score:** 86/100
-- **Updated:** 2026-11-25T18:55:22Z
-- **Labels:** enhancement, good first issue, help wanted, javascript
+- **Updated:** 2026-11-26T03:25:05Z
+- **Labels:** bug, help wanted, good first issue
 - **Comments:** 1
-- **Stars:** 13
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [refactor(backend): resolve deprecation warnings in LangChain, FastAPI TestClient, and Pydantic](https://github.com/Zyrabit-tech/zyrabit-SLM/issues/114)
+- **Repository:** [Zyrabit-tech/zyrabit-SLM](https://github.com/Zyrabit-tech/zyrabit-SLM)
+- **Score:** 86/100
+- **Updated:** 2026-11-26T02:36:46Z
+- **Labels:** help wanted, good first issue, dependencies, python, maintenance, pending
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Check the instruction files in an agent's home folder (~/.claude/CLAUDE.md and others) for hidden text](https://github.com/laaielichter/AgathOS/issues/19)
+- **Repository:** [laaielichter/AgathOS](https://github.com/laaielichter/AgathOS)
+- **Score:** 86/100
+- **Updated:** 2026-11-26T01:20:10Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -100,25 +160,35 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-25T11:45:17Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 1
-- **Stars:** 909
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [docs: explain five Unmess terms beside the local demo](https://github.com/DineshDhanoki/unmess/issues/18)
-- **Repository:** [DineshDhanoki/unmess](https://github.com/DineshDhanoki/unmess)
+## [Add a reusable GitHub Action / composite workflow for LLM cost-regression PR comments](https://github.com/Hoaiduc195/rhinotape/issues/5)
+- **Repository:** [Hoaiduc195/rhinotape](https://github.com/Hoaiduc195/rhinotape)
 - **Score:** 83/100
-- **Updated:** 2026-11-25T18:29:20Z
-- **Labels:** documentation, help wanted, good first issue, phase: cross-cutting, area: documentation, topic: synthetic-data, topic: citations, topic: provenance, topic: glossary, topic: onboarding, difficulty: beginner, size: small, priority: medium, status: ready, dependencies: none, data: synthetic-only
+- **Updated:** 2026-11-26T02:51:01Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Docs: example automation to announce expiring food on a smart speaker](https://github.com/omorlabs/frescario/issues/4)
-- **Repository:** [omorlabs/frescario](https://github.com/omorlabs/frescario)
+## [Add end-to-end integration cookbooks for CrewAI, LangGraph, and Vercel AI SDK](https://github.com/Hoaiduc195/rhinotape/issues/4)
+- **Repository:** [Hoaiduc195/rhinotape](https://github.com/Hoaiduc195/rhinotape)
 - **Score:** 83/100
-- **Updated:** 2026-11-25T18:21:00Z
-- **Labels:** help wanted, good first issue
+- **Updated:** 2026-11-26T02:50:53Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add AWS Bedrock ConverseStream streaming parser support](https://github.com/Hoaiduc195/rhinotape/issues/1)
+- **Repository:** [Hoaiduc195/rhinotape](https://github.com/Hoaiduc195/rhinotape)
+- **Score:** 83/100
+- **Updated:** 2026-11-26T02:50:27Z
+- **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
@@ -130,7 +200,7 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-25T01:53:52Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
@@ -154,102 +224,32 @@ Repositories checked for funding metadata: 12
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [## Summary](https://github.com/OCodejs/OCODEJS/issues/78)
-- **Repository:** [OCodejs/OCODEJS](https://github.com/OCodejs/OCODEJS)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T19:09:54Z
-- **Labels:** accessibility, bug, documentation, duplicate, enhancement, good first issue, help wanted, invalid, question, dependencies, github-actions, tests, source, javascript
-- **Comments:** 4
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[good first issue, hacktoberfest] 🌊 Add new Community Note Line #46 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34452)
+## [[good first issue, hacktoberfest] 🏯 Add new Theme: Yakuza Tattoo (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34671)
 - **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 80/100
-- **Updated:** 2026-11-25T18:46:59Z
-- **Labels:** documentation, help wanted, good first issue, hacktoberfest, community, low hanging fruit, stale-warning, up-for-grabs, first-timers-only, good-first-issue
-- **Comments:** 6
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Investigation API: GET /v1/bounding-box-versions/{bounding_box_version_id} (E29)](https://github.com/OneBusAway/watchdog/issues/243)
-- **Repository:** [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T18:30:17Z
-- **Labels:** enhancement, good first issue, help wanted
-- **Comments:** 8
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Connect the Trace API README to SDK setup](https://github.com/open-telemetry/opentelemetry-go/issues/9414)
-- **Repository:** [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T18:04:01Z
-- **Labels:** help wanted, good first issue, contribfest
+- **Updated:** 2026-11-26T03:14:46Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Remove obsolete encoding cache claims from attribute.Set](https://github.com/open-telemetry/opentelemetry-go/issues/9380)
-- **Repository:** [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+## [[good first issue, hacktoberfest] 🍛 Add new False Friend Pair 980 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34667)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 80/100
-- **Updated:** 2026-11-25T18:03:48Z
-- **Labels:** help wanted, good first issue, contribfest
+- **Updated:** 2026-11-26T03:03:13Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 3
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[UI] Extensions page shows "Unable to fetch list of adapters" when the server returns no adapters](https://github.com/meshery/meshery/issues/24242)
-- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
+## [[good first issue, hacktoberfest] 🌺 Add new Grammar Point 334 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34504)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 80/100
-- **Updated:** 2026-11-25T17:52:05Z
-- **Labels:** kind/bug, help wanted, good first issue, language/javascript, component/ui, framework/react
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[mesheryctl] Include required [token-name] in system token command synopsis](https://github.com/meshery/meshery/issues/24350)
-- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T17:39:40Z
-- **Labels:** kind/bug, help wanted, good first issue, component/mesheryctl, language/go
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Umbrella][Connector] Support new connectors — Claims & Tracking](https://github.com/galaxy-io/filament/issues/660)
-- **Repository:** [galaxy-io/filament](https://github.com/galaxy-io/filament)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T17:13:30Z
-- **Labels:** good first issue, help wanted, connectors
-- **Comments:** 61
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T16:30:42Z
-- **Labels:** kind/enhancement, help wanted, good first issue, issue/willfix, component/extensions, type/visual-design
-- **Comments:** 15
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Prompt tổng thể – Phân tích và tạo toàn bộ Issues](https://github.com/OCodejs/OCODEJS/issues/87)
-- **Repository:** [OCodejs/OCODEJS](https://github.com/OCodejs/OCODEJS)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T14:32:38Z
-- **Labels:** documentation, enhancement, good first issue, help wanted, invalid, question, dependencies, github-actions, tests, source, javascript
-- **Comments:** 3
+- **Updated:** 2026-11-26T02:56:22Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, stale-warning, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 4
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
 - **Funding signals:** No public funding signal found in checked metadata

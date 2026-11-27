@@ -1,8 +1,38 @@
 # OpenSourceRadar report
 
-Generated: 2026-11-26T16:48:23.358729+00:00
-Unique issues discovered: 226
+Generated: 2026-11-27T01:42:14.358003+00:00
+Unique issues discovered: 212
 Repositories checked for funding metadata: 12
+
+## [Test on XFCE, Cinnamon, COSMIC or Sway and report what doctor says](https://github.com/ajithakdev/claude-desktop-rpm/issues/15)
+- **Repository:** [ajithakdev/claude-desktop-rpm](https://github.com/ajithakdev/claude-desktop-rpm)
+- **Score:** 100/100
+- **Updated:** 2026-11-26T19:39:39Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 8
+- **Stars:** 67
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** ko_fi: ajithakdev; custom: ["https://github.com/ajithakdev/claude-desktop-rpm#support"]
+
+## [Bug: `scanCode` misses destructuring in a function parameter default (`function f({ A } = process.env)`)](https://github.com/abhi478jeetur-rgb/env-saaf/issues/459)
+- **Repository:** [abhi478jeetur-rgb/env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf)
+- **Score:** 99/100
+- **Updated:** 2026-11-27T01:31:24Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** 2
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: abhi478jeetur-rgb
+
+## [[good first issue, hacktoberfest] 🦑 Add new Trivia Question 231 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34717)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
+- **Score:** 99/100
+- **Updated:** 2026-11-27T01:20:58Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
+- **Comments:** 1
+- **Stars:** 3914
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
+- **Funding signals:** github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]; patreon: kanadojo # Replace with a single Patreon username; open_collective: # Replace with a single Open Collective username; ko_fi: kanadojo; tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel; community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry; liberapay: # Replace with a single Liberapay username; issuehunt: # Replace with a single IssueHunt username; lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry; polar: # Replace with a single Polar username; buy_me_a_coffee: # Replace with a single Buy Me a Coffee username; thanks_dev: # Replace with a single thanks.dev username; custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 ## [BIO buffer APIs allow negative length → heap corruption, missing input validation (OpenSSL 3.0.2, 3.6.1)](https://github.com/openssl/openssl/issues/30725)
 - **Repository:** [openssl/openssl](https://github.com/openssl/openssl)
@@ -10,108 +40,208 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-26T16:31:54Z
 - **Labels:** branch: master, good first issue, help wanted, triaged: bug, branch: 3.5, branch: 4.0, branch: 4.1
 - **Comments:** 2
-- **Stars:** 31540
+- **Stars:** 31545
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
 - **Funding signals:** github: openssl
 
-## [bundle.mjs drops the names in an export { a, b } list, and the page breaks](https://github.com/erkamyaman/rea-games/issues/70)
-- **Repository:** [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games)
-- **Score:** 99/100
-- **Updated:** 2026-11-26T15:18:54Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 1
-- **Stars:** 289
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week, public funding metadata detected; verify details
-- **Funding signals:** github: [erkamyaman]; buy_me_a_coffee: erkamyaman
-
-## [🟢 Good First Issue: Add a New Tool to Dev Utilities Sandbox](https://github.com/shamilahmdt/devtasks/issues/193)
-- **Repository:** [shamilahmdt/devtasks](https://github.com/shamilahmdt/devtasks)
+## [feat(scanner): migrate Function App, Backup and Private Endpoint rules to the evaluate() contract](https://github.com/OWASP/openshield/issues/379)
+- **Repository:** [OWASP/openshield](https://github.com/OWASP/openshield)
 - **Score:** 95/100
-- **Updated:** 2026-11-26T15:59:41Z
-- **Labels:** enhancement, help wanted, good first issue, ui, workflow, Beginner Friendly
-- **Comments:** 48
-- **Stars:** 72
+- **Updated:** 2026-11-27T00:22:55Z
+- **Labels:** enhancement, good first issue, help wanted, blocked, priority: medium, python
+- **Comments:** 3
+- **Stars:** 68
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [CI example: Azure Pipelines (examples/ci + docs/CI.md)](https://github.com/secfoo-com/secfoo/issues/173)
-- **Repository:** [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo)
+## [[good first issue, hacktoberfest] ⛩️ Add new Japan Fact 2876 (good-first-issue)](https://github.com/lingdojo/kana-dojo/issues/34716)
+- **Repository:** [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
 - **Score:** 91/100
-- **Updated:** 2026-11-26T15:19:35Z
-- **Labels:** documentation, good first issue, help wanted, hackathon, difficulty: low
+- **Updated:** 2026-11-27T00:31:10Z
+- **Labels:** help wanted, good first issue, hacktoberfest, community, low hanging fruit, up-for-grabs, first-timers-only, good-first-issue
 - **Comments:** 1
-- **Stars:** 759
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Gate stacks and edge-case packs: your stack, your cases](https://github.com/orwa-mahmoud/nightshift/issues/220)
 - **Repository:** [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)
 - **Score:** 91/100
-- **Updated:** 2026-11-26T04:12:23Z
+- **Updated:** 2026-11-26T22:25:44Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 2
-- **Stars:** 603
+- **Stars:** 604
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Good first issue] 版本信息读取失败时在关于窗口显示状态](https://github.com/ydflow/Trail/issues/116)
-- **Repository:** [ydflow/Trail](https://github.com/ydflow/Trail)
-- **Score:** 86/100
-- **Updated:** 2026-11-26T16:47:48Z
-- **Labels:** bug, help wanted, good first issue, area:desktop
-- **Comments:** 1
-- **Stars:** 99
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Enhance pod reporting in benchmark summary](https://github.com/llm-d/llm-d-autoscaling/issues/1439)
-- **Repository:** [llm-d/llm-d-autoscaling](https://github.com/llm-d/llm-d-autoscaling)
-- **Score:** 86/100
-- **Updated:** 2026-11-26T15:39:57Z
-- **Labels:** enhancement, good first issue, help wanted, stage/040-covered-by-pr
+## [Evidence kinds: how would you show the night's work is right?](https://github.com/orwa-mahmoud/nightshift/issues/219)
+- **Repository:** [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)
+- **Score:** 91/100
+- **Updated:** 2026-11-26T22:25:43Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 2
-- **Stars:** 61
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Shift catalog: what would you run overnight?](https://github.com/orwa-mahmoud/nightshift/issues/21)
+- **Repository:** [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)
+- **Score:** 91/100
+- **Updated:** 2026-11-26T22:25:40Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Dependency Dashboard](https://github.com/uPortal-Project/uPortal/issues/1874)
+- **Repository:** [uPortal-Project/uPortal](https://github.com/uPortal-Project/uPortal)
+- **Score:** 91/100
+- **Updated:** 2026-11-26T17:40:46Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 2
+- **Stars:** 289
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Bug]: The web app draws an empty file panel when the file-list request fails, so a slow daemon looks like a project with no files](https://github.com/nexu-io/open-design/issues/9489)
+- **Repository:** [nexu-io/open-design](https://github.com/nexu-io/open-design)
+- **Score:** 90/100
+- **Updated:** 2026-11-27T01:21:26Z
+- **Labels:** bug, good first issue, help wanted
+- **Comments:** 15
+- **Stars:** 109682
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Bug: `scanCode` follows an env alias for member reads but not for destructuring from the alias](https://github.com/abhi478jeetur-rgb/env-saaf/issues/456)
+- **Repository:** [abhi478jeetur-rgb/env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf)
+- **Score:** 86/100
+- **Updated:** 2026-11-27T01:31:23Z
+- **Labels:** bug, help wanted, good first issue
+- **Comments:** 1
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Benchmark: Add VSCE (Verbal Self-Correction Efficiency) dataset](https://github.com/travisim/awesome-self-improving-agents/issues/7)
-- **Repository:** [travisim/awesome-self-improving-agents](https://github.com/travisim/awesome-self-improving-agents)
+## [ /sys/health doesn't accurate reflect the health of OpenBao (Vault #28846)](https://github.com/openbao/openbao/issues/762)
+- **Repository:** [openbao/openbao](https://github.com/openbao/openbao)
+- **Score:** 86/100
+- **Updated:** 2026-11-26T19:07:41Z
+- **Labels:** good first issue, help wanted, feature, core/storage
+- **Comments:** 1
+- **Stars:** 9251
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add a GitLab personal access token detector](https://github.com/draarivpatel-ui/secretsweep/issues/1)
+- **Repository:** [draarivpatel-ui/secretsweep](https://github.com/draarivpatel-ui/secretsweep)
 - **Score:** 83/100
-- **Updated:** 2026-11-26T16:46:58Z
-- **Labels:** help wanted, good first issue, dataset, benchmark
+- **Updated:** 2026-11-27T01:27:35Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
 - **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Increase coverage](https://github.com/pepperize/cdk-github/issues/5)
-- **Repository:** [pepperize/cdk-github](https://github.com/pepperize/cdk-github)
+## [Decide strict whitespace handling in parseCookieHeader](https://github.com/draarivpatel-ui/cookiecage/issues/1)
+- **Repository:** [draarivpatel-ui/cookiecage](https://github.com/draarivpatel-ui/cookiecage)
 - **Score:** 83/100
-- **Updated:** 2026-11-26T16:45:20Z
-- **Labels:** good first issue, help wanted
+- **Updated:** 2026-11-27T01:24:20Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 16
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [[Need support]: Keep the cold Iceberg SQL catalog import out of the per-test timeout](https://github.com/mloda-ai/mloda/issues/3123)
-- **Repository:** [mloda-ai/mloda](https://github.com/mloda-ai/mloda)
+## [Document and pin CSV duplicate semantics](https://github.com/draarivpatel-ui/envcage/issues/2)
+- **Repository:** [draarivpatel-ui/envcage](https://github.com/draarivpatel-ui/envcage)
 - **Score:** 83/100
-- **Updated:** 2026-11-26T16:41:44Z
-- **Labels:** bug, help wanted, good first issue
+- **Updated:** 2026-11-27T01:11:17Z
+- **Labels:** help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 102
+- **Stars:** 0
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
-## [Add Cypress custom command wrapper (cy.waitForOtp) on top of @mailgate/sdk](https://github.com/Dicka18/mailgate/issues/2)
-- **Repository:** [Dicka18/mailgate](https://github.com/Dicka18/mailgate)
+## [Add the URL allowlist edge-case matrix](https://github.com/draarivpatel-ui/envcage/issues/1)
+- **Repository:** [draarivpatel-ui/envcage](https://github.com/draarivpatel-ui/envcage)
 - **Score:** 83/100
-- **Updated:** 2026-11-26T16:04:14Z
+- **Updated:** 2026-11-27T01:11:15Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[Dashboard] Build a dashboard for Nebula](https://github.com/InftyAI/Nebula/issues/159)
+- **Repository:** [InftyAI/Nebula](https://github.com/InftyAI/Nebula)
+- **Score:** 83/100
+- **Updated:** 2026-11-27T00:18:56Z
+- **Labels:** feature, good first issue, help wanted, needs-priority, needs-triage
+- **Comments:** 2
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [good first issue: add AWS Lambda webhook adapter](https://github.com/draarivpatel-ui/pyhookverify/issues/3)
+- **Repository:** [draarivpatel-ui/pyhookverify](https://github.com/draarivpatel-ui/pyhookverify)
+- **Score:** 83/100
+- **Updated:** 2026-11-26T23:49:55Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Receipts: what did the night leave behind?](https://github.com/orwa-mahmoud/nightshift/issues/22)
+- **Repository:** [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)
+- **Score:** 83/100
+- **Updated:** 2026-11-26T22:25:42Z
+- **Labels:** documentation, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add rule terraform/public-bucket-acl (public S3 bucket ACL)](https://github.com/draarivpatel-ui/sentinel-lint/issues/4)
+- **Repository:** [draarivpatel-ui/sentinel-lint](https://github.com/draarivpatel-ui/sentinel-lint)
+- **Score:** 83/100
+- **Updated:** 2026-11-26T22:11:28Z
+- **Labels:** help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add built-in Dockerfile synthesis for Java (pom.xml / build.gradle) projects](https://github.com/sensi012/skipper/issues/3)
+- **Repository:** [sensi012/skipper](https://github.com/sensi012/skipper)
+- **Score:** 83/100
+- **Updated:** 2026-11-26T21:43:02Z
 - **Labels:** enhancement, help wanted, good first issue
 - **Comments:** 0
-- **Stars:** 0
+- **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [Add built-in Dockerfile synthesis for Rust (Cargo.toml) projects](https://github.com/sensi012/skipper/issues/2)
+- **Repository:** [sensi012/skipper](https://github.com/sensi012/skipper)
+- **Score:** 83/100
+- **Updated:** 2026-11-26T21:42:58Z
+- **Labels:** enhancement, help wanted, good first issue
+- **Comments:** 0
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, matches preferred technology keywords, updated in the last week
+- **Funding signals:** No public funding signal found in checked metadata
+
+## [[scanner] Colony: remove duplicated enrichment types and hub top-repo cache fields after json/shadow modes retire](https://github.com/hivecommons/hive/issues/20118)
+- **Repository:** [hivecommons/hive](https://github.com/hivecommons/hive)
+- **Score:** 82/100
+- **Updated:** 2026-11-27T01:24:34Z
+- **Labels:** good first issue, help wanted, agent/scanner, stage/010-actionable
+- **Comments:** 3
+- **Stars:** not checked
+- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
 
 ## [Enable more revive linter rules](https://github.com/jaegertracing/jaeger/issues/5506)
@@ -120,136 +250,6 @@ Repositories checked for funding metadata: 12
 - **Updated:** 2026-11-26T14:08:51Z
 - **Labels:** help wanted, good first issue
 - **Comments:** 38
-- **Stars:** 23449
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[FEATURE] Configurable system backup timeout](https://github.com/longhorn/longhorn/issues/5022)
-- **Repository:** [longhorn/longhorn](https://github.com/longhorn/longhorn)
-- **Score:** 82/100
-- **Updated:** 2026-11-25T16:06:17Z
-- **Labels:** kind/feature, good first issue, component/longhorn-manager, priority/0, area/system-backup-restore, area/setting, require/important-note, help wanted
-- **Comments:** 5
 - **Stars:** not checked
 - **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, has multiple comments, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[UI] Extensions page shows "Unable to fetch list of adapters" when the server returns no adapters](https://github.com/meshery/meshery/issues/24242)
-- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
-- **Score:** 80/100
-- **Updated:** 2026-11-26T15:30:38Z
-- **Labels:** kind/bug, help wanted, good first issue, language/javascript, component/ui, framework/react
-- **Comments:** 8
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [🐛 Bug Report: Azure DevOps plugin's README display doesn't cope well if you point it at a folder](https://github.com/backstage/community-plugins/issues/186)
-- **Repository:** [backstage/community-plugins](https://github.com/backstage/community-plugins)
-- **Score:** 80/100
-- **Updated:** 2026-11-26T13:25:18Z
-- **Labels:** bug, good first issue, help wanted
-- **Comments:** 9
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Prompt tổng thể – Phân tích và tạo toàn bộ Issues](https://github.com/OCodejs/OCODEJS/issues/87)
-- **Repository:** [OCodejs/OCODEJS](https://github.com/OCodejs/OCODEJS)
-- **Score:** 80/100
-- **Updated:** 2026-11-26T04:57:56Z
-- **Labels:** documentation, enhancement, good first issue, help wanted, invalid, question, dependencies, github-actions, tests, source, javascript
-- **Comments:** 7
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- **Repository:** [meshery/meshery](https://github.com/meshery/meshery)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T21:25:33Z
-- **Labels:** kind/enhancement, help wanted, good first issue, issue/willfix, component/extensions, type/visual-design
-- **Comments:** 16
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [## Summary](https://github.com/OCodejs/OCODEJS/issues/78)
-- **Repository:** [OCodejs/OCODEJS](https://github.com/OCodejs/OCODEJS)
-- **Score:** 80/100
-- **Updated:** 2026-11-25T20:28:58Z
-- **Labels:** accessibility, bug, documentation, duplicate, enhancement, good first issue, help wanted, invalid, question, dependencies, github-actions, tests, source, javascript
-- **Comments:** 5
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, may suit a docs/example contribution, has community discussion, has multiple comments, matches preferred technology keywords, updated in the last week, may already be assigned; verify before investing time
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [feat: Add dark theme with light/dark toggle](https://github.com/Abdullatheef01/Abdullatheef/issues/1)
-- **Repository:** [Abdullatheef01/Abdullatheef](https://github.com/Abdullatheef01/Abdullatheef)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T16:42:53Z
-- **Labels:** help wanted, good first issue, react js, Typescript
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [IAM issue in GovCloud](https://github.com/pepperize/cdk-autoscaling-gitlab-runner/issues/769)
-- **Repository:** [pepperize/cdk-autoscaling-gitlab-runner](https://github.com/pepperize/cdk-autoscaling-gitlab-runner)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T16:40:18Z
-- **Labels:** bug, good first issue, help wanted
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add attachment metadata summary (filename, content-type, size) to message API](https://github.com/Dicka18/mailgate/issues/3)
-- **Repository:** [Dicka18/mailgate](https://github.com/Dicka18/mailgate)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T16:04:17Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Add OTP & magic-link extraction test vectors for Slack, Discord, AWS Cognito, and Supabase](https://github.com/Dicka18/mailgate/issues/1)
-- **Repository:** [Dicka18/mailgate](https://github.com/Dicka18/mailgate)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T16:04:11Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [Include fraction exercise results in high scores and leaderboard](https://github.com/AbrahamEastwood/math-sprout/issues/55)
-- **Repository:** [AbrahamEastwood/math-sprout](https://github.com/AbrahamEastwood/math-sprout)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T15:20:20Z
-- **Labels:** enhancement, help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [hover-scale misses a CSS translateY lift on hover](https://github.com/erkamyaman/unslop-anything/issues/180)
-- **Repository:** [erkamyaman/unslop-anything](https://github.com/erkamyaman/unslop-anything)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T15:10:13Z
-- **Labels:** help wanted, good first issue
-- **Comments:** 0
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, matches preferred technology keywords, updated in the last week
-- **Funding signals:** No public funding signal found in checked metadata
-
-## [add code handling errors or stopped cluster services](https://github.com/roseswe/showscores/issues/2)
-- **Repository:** [roseswe/showscores](https://github.com/roseswe/showscores)
-- **Score:** 78/100
-- **Updated:** 2026-11-26T14:06:57Z
-- **Labels:** enhancement, help wanted, good first issue, needs testing
-- **Comments:** 1
-- **Stars:** not checked
-- **Why it ranked:** labelled good first issue, maintainer requests help, has community discussion, updated in the last week
 - **Funding signals:** No public funding signal found in checked metadata
